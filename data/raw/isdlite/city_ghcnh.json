@@ -1,0 +1,352 @@
+[
+ {
+  "city": "Vancouver",
+  "icao": "CYVR",
+  "ghcnh": "CAN01108395",
+  "name": "VANCOUVER INTL A",
+  "lat": 49.195,
+  "lon": -123.184,
+  "elev": 3.0,
+  "ctry": "CA"
+ },
+ {
+  "city": "Portland",
+  "icao": "KPDX",
+  "ghcnh": "USW00024229",
+  "name": "PORTLAND INTL AP",
+  "lat": 45.5958,
+  "lon": -122.6092,
+  "elev": 6.7,
+  "ctry": "US"
+ },
+ {
+  "city": "San Francisco",
+  "icao": "KSFO",
+  "ghcnh": "USW00023234",
+  "name": "SAN FRANCISCO INTL AP",
+  "lat": 37.6197,
+  "lon": -122.3656,
+  "elev": 3.0,
+  "ctry": "US"
+ },
+ {
+  "city": "Seattle",
+  "icao": "KSEA",
+  "ghcnh": "USW00024233",
+  "name": "SEATTLE TACOMA AP",
+  "lat": 47.4447,
+  "lon": -122.3144,
+  "elev": 112.5,
+  "ctry": "US"
+ },
+ {
+  "city": "Los Angeles",
+  "icao": "KLAX",
+  "ghcnh": "USW00023174",
+  "name": "LOS ANGELES INTL AP",
+  "lat": 33.9381,
+  "lon": -118.3867,
+  "elev": 29.6,
+  "ctry": "US"
+ },
+ {
+  "city": "San Diego",
+  "icao": "KSAN",
+  "ghcnh": "USW00023188",
+  "name": "SAN DIEGO INTL AP",
+  "lat": 32.7336,
+  "lon": -117.1831,
+  "elev": 4.6,
+  "ctry": "US"
+ },
+ {
+  "city": "Las Vegas",
+  "icao": "KLAS",
+  "ghcnh": "USW00023169",
+  "name": "MCCARRAN INTL AP",
+  "lat": 36.0719,
+  "lon": -115.1633,
+  "elev": 662.9,
+  "ctry": "US"
+ },
+ {
+  "city": "Phoenix",
+  "icao": "KPHX",
+  "ghcnh": "USW00023183",
+  "name": "PHOENIX AP",
+  "lat": 33.4278,
+  "lon": -112.0036,
+  "elev": 339.2,
+  "ctry": "US"
+ },
+ {
+  "city": "Albuquerque",
+  "icao": "KABQ",
+  "ghcnh": "USW00023050",
+  "name": "ALBUQUERQUE INTL AP",
+  "lat": 35.0419,
+  "lon": -106.6156,
+  "elev": 1618.5,
+  "ctry": "US"
+ },
+ {
+  "city": "Denver",
+  "icao": "KDEN",
+  "ghcnh": "USW00003017",
+  "name": "DENVER INTL AP",
+  "lat": 39.8467,
+  "lon": -104.6561,
+  "elev": 1647.1,
+  "ctry": "US"
+ },
+ {
+  "city": "San Antonio",
+  "icao": "KSAT",
+  "ghcnh": "USW00012921",
+  "name": "SAN ANTONIO INTL AP",
+  "lat": 29.5442,
+  "lon": -98.4839,
+  "elev": 243.5,
+  "ctry": "US"
+ },
+ {
+  "city": "Dallas",
+  "icao": "KDFW",
+  "ghcnh": "USW00003927",
+  "name": "DAL-FTW WSCMO AP",
+  "lat": 32.8975,
+  "lon": -97.0219,
+  "elev": 165.8,
+  "ctry": "US"
+ },
+ {
+  "city": "Houston",
+  "icao": "KIAH",
+  "ghcnh": "USW00012960",
+  "name": "HOUSTON INTERCONTINENTAL AP",
+  "lat": 29.9844,
+  "lon": -95.3608,
+  "elev": 27.4,
+  "ctry": "US"
+ },
+ {
+  "city": "Kansas City",
+  "icao": "KMCI",
+  "ghcnh": "USW00003947",
+  "name": "KANSAS CITY INTL AP",
+  "lat": 39.2975,
+  "lon": -94.7308,
+  "elev": 307.2,
+  "ctry": "US"
+ },
+ {
+  "city": "Minneapolis",
+  "icao": "KMSP",
+  "ghcnh": "USW00014922",
+  "name": "MINNEAPOLIS-ST PAUL INTL AP",
+  "lat": 44.8853,
+  "lon": -93.2314,
+  "elev": 254.5,
+  "ctry": "US"
+ },
+ {
+  "city": "Saint Louis",
+  "icao": "KSTL",
+  "ghcnh": "USW00013994",
+  "name": "ST LOUIS LAMBERT INTL AP",
+  "lat": 38.7525,
+  "lon": -90.3733,
+  "elev": 161.8,
+  "ctry": "US"
+ },
+ {
+  "city": "Chicago",
+  "icao": "KORD",
+  "ghcnh": "USW00094846",
+  "name": "CHICAGO OHARE INTL AP",
+  "lat": 41.9603,
+  "lon": -87.9317,
+  "elev": 204.8,
+  "ctry": "US"
+ },
+ {
+  "city": "Nashville",
+  "icao": "KBNA",
+  "ghcnh": "USW00013897",
+  "name": "NASHVILLE INTL AP",
+  "lat": 36.1106,
+  "lon": -86.6881,
+  "elev": 178.9,
+  "ctry": "US"
+ },
+ {
+  "city": "Indianapolis",
+  "icao": "KIND",
+  "ghcnh": "USW00093819",
+  "name": "INDIANAPOLIS",
+  "lat": 39.7075,
+  "lon": -86.2803,
+  "elev": 270.4,
+  "ctry": "US"
+ },
+ {
+  "city": "Atlanta",
+  "icao": "KATL",
+  "ghcnh": "USW00013874",
+  "name": "ATLANTA HARTSFIELD-JACKSON INT",
+  "lat": 33.6297,
+  "lon": -84.4422,
+  "elev": 308.2,
+  "ctry": "US"
+ },
+ {
+  "city": "Detroit",
+  "icao": "KDTW",
+  "ghcnh": "USW00094847",
+  "name": "DETROIT METRO AP",
+  "lat": 42.2311,
+  "lon": -83.3311,
+  "elev": 192.0,
+  "ctry": "US"
+ },
+ {
+  "city": "Jacksonville",
+  "icao": "KJAX",
+  "ghcnh": "USW00013889",
+  "name": "JACKSONVILLE",
+  "lat": 30.4847,
+  "lon": -81.7019,
+  "elev": 48.8,
+  "ctry": "US"
+ },
+ {
+  "city": "Charlotte",
+  "icao": "KCLT",
+  "ghcnh": "USW00013881",
+  "name": "CHARLOTTE DOUGLAS AP",
+  "lat": 35.2225,
+  "lon": -80.9544,
+  "elev": 222.5,
+  "ctry": "US"
+ },
+ {
+  "city": "Miami",
+  "icao": "KMIA",
+  "ghcnh": "USW00012839",
+  "name": "MIAMI INTL AP",
+  "lat": 25.7881,
+  "lon": -80.3169,
+  "elev": 1.5,
+  "ctry": "US"
+ },
+ {
+  "city": "Pittsburgh",
+  "icao": "KPIT",
+  "ghcnh": "USW00094823",
+  "name": "PITTSBURGH ASOS",
+  "lat": 40.4847,
+  "lon": -80.2144,
+  "elev": 341.1,
+  "ctry": "US"
+ },
+ {
+  "city": "Toronto",
+  "icao": "CYYZ",
+  "ghcnh": "CAN06158731",
+  "name": "TORONTO INTL A",
+  "lat": 43.677,
+  "lon": -79.631,
+  "elev": 173.0,
+  "ctry": "CA"
+ },
+ {
+  "city": "Philadelphia",
+  "icao": "KPHL",
+  "ghcnh": "USW00013739",
+  "name": "PHILA INTL AP",
+  "lat": 39.8733,
+  "lon": -75.2269,
+  "elev": 2.1,
+  "ctry": "US"
+ },
+ {
+  "city": "New York",
+  "icao": "KJFK",
+  "ghcnh": "USW00094789",
+  "name": "JFK INTL AP",
+  "lat": 40.6392,
+  "lon": -73.7639,
+  "elev": 2.7,
+  "ctry": "US"
+ },
+ {
+  "city": "Montreal",
+  "icao": "CYUL",
+  "ghcnh": "CAN07025251",
+  "name": "MONTREAL INTL A",
+  "lat": 45.471,
+  "lon": -73.741,
+  "elev": 32.0,
+  "ctry": "CA"
+ },
+ {
+  "city": "Boston",
+  "icao": "KBOS",
+  "ghcnh": "USW00014739",
+  "name": "BOSTON",
+  "lat": 42.3606,
+  "lon": -71.0097,
+  "elev": 3.4,
+  "ctry": "US"
+ },
+ {
+  "city": "Tel Aviv",
+  "icao": "LLBG",
+  "ghcnh": "ISU00040180",
+  "name": "LOD ISRAEL AIRPORT",
+  "lat": 32.0,
+  "lon": 34.9,
+  "elev": 49.0,
+  "ctry": "IL"
+ },
+ {
+  "city": "Haifa",
+  "icao": "LLHA",
+  "ghcnh": "ISI0000LLHA",
+  "name": "HAIFA",
+  "lat": 32.8094,
+  "lon": 35.0431,
+  "elev": 8.5,
+  "ctry": "IL"
+ },
+ {
+  "city": "Eilat",
+  "icao": "LLER",
+  "ghcnh": "ISI0000LLER",
+  "name": "ASSAF RAMON INTL / EILAT",
+  "lat": 29.7272,
+  "lon": 35.0142,
+  "elev": 87.8,
+  "ctry": "IL"
+ },
+ {
+  "city": "Jerusalem",
+  "icao": "",
+  "ghcnh": "ISM00040183",
+  "name": "JERUSALEM CENTER",
+  "lat": 31.7667,
+  "lon": 35.2167,
+  "elev": 815.0,
+  "ctry": "IL"
+ },
+ {
+  "city": "Beersheba",
+  "icao": "",
+  "ghcnh": "ISM00040190",
+  "name": "BEER SHEVA CITY",
+  "lat": 31.25,
+  "lon": 34.8,
+  "elev": 280.0,
+  "ctry": "IL"
+ }
+]

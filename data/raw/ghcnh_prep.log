@@ -1,0 +1,44 @@
+parsed Vancouver 33084
+parsed Portland 32986
+parsed San Francisco 32991
+parsed Seattle 32989
+parsed Los Angeles 32974
+parsed San Diego 32968
+parsed Las Vegas 32967
+parsed Phoenix 32988
+parsed Albuquerque 32952
+parsed Denver 32994
+parsed San Antonio 32996
+parsed Dallas 32976
+parsed Houston 32995
+parsed Kansas City 32996
+parsed Minneapolis 32931
+parsed Saint Louis 32975
+parsed Chicago 32976
+parsed Nashville 32995
+parsed Indianapolis 32993
+parsed Atlanta 32992
+parsed Detroit 32990
+parsed Jacksonville 32995
+parsed Charlotte 32975
+parsed Miami 32990
+parsed Pittsburgh 32993
+parsed Toronto 33098
+parsed Philadelphia 32997
+parsed New York 32977
+parsed Montreal 33058
+parsed Boston 32954
+parsed Haifa 26648
+parsed Eilat 29479
+parsed Jerusalem 30951
+parsed Beersheba 30726
+stations 34 rows 1126896
+         TEMP      RH    DEWP    WSPM    PRES
+count  34.000  34.000  34.000  34.000  34.000
+mean    0.887   0.886   0.886   0.864   0.760
+std     0.057   0.059   0.059   0.061   0.269
+min     0.640   0.630   0.630   0.635   0.000
+25%     0.872   0.872   0.872   0.845   0.844
+50%     0.887   0.885   0.885   0.852   0.859
+75%     0.902   0.902   0.902   0.880   0.876
+max     0.999   0.999   0.999   0.999   0.988
