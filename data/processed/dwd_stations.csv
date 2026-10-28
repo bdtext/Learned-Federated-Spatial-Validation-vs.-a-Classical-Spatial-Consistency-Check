@@ -1,0 +1,93 @@
+id,name,state,lat,lon,elev,has_TEMP,has_DEWP,has_WSPM,has_PRES
+00044,Großenkneten,Niedersachsen,52.9336,8.237,44,1,1,0,0
+00078,Alfhausen,Niedersachsen,52.4853,7.9125,64,1,1,0,0
+00091,Alsfeld-Eifa,Hessen,50.7446,9.345,304,1,1,0,0
+00161,Andernach,Rheinland-Pfalz,50.4237,7.4202,75,1,1,1,1
+00294,Barsinghausen-Hohenbostel,Niedersachsen,52.3199,9.43,110,1,1,0,0
+00342,Belm,Niedersachsen,52.317,8.1694,103,1,1,1,1
+00390,"Berleburg, Bad-Stünzel",Nordrhein-Westfalen,50.9837,8.3683,611,1,1,0,0
+00535,Blankenrath,Rheinland-Pfalz,50.0372,7.3079,417,1,1,0,0
+00555,Bochum,Nordrhein-Westfalen,51.5026,7.2289,110,1,1,0,0
+00603,Königswinter-Heiderhof,Nordrhein-Westfalen,50.7293,7.204,147,1,1,1,1
+00617,Borken in Westfalen,Nordrhein-Westfalen,51.873,6.8863,47,1,1,0,0
+00691,Bremen,Bremen,53.0451,8.7981,4,1,1,1,1
+00766,Büchel-Alflen,Rheinland-Pfalz,50.1745,7.0595,477,1,1,1,1
+00769,Bückeburg,Niedersachsen,52.2817,9.089,68,1,1,0,1
+00817,Burgwald-Bottendorf,Hessen,51.0306,8.8146,296,1,1,0,0
+00963,Diepholz,Niedersachsen,52.5881,8.3424,38,1,1,1,1
+01078,Düsseldorf,Nordrhein-Westfalen,51.296,6.7686,37,1,1,1,1
+01246,Ennigerloh-Ostenfelde,Nordrhein-Westfalen,51.8418,8.0607,104,1,1,0,0
+01300,Eslohe,Nordrhein-Westfalen,51.254,8.1565,351,1,1,0,0
+01303,Essen-Bredeney,Nordrhein-Westfalen,51.4041,6.9677,150,1,1,1,1
+01327,Weilerswist-Lommersum,Nordrhein-Westfalen,50.7119,6.7905,147,1,1,0,0
+01420,Frankfurt/Main,Hessen,50.0259,8.5213,100,1,1,1,1
+01424,Frankfurt/Main-Westend,Hessen,50.1269,8.6694,121,1,1,0,0
+01503,Friesoythe-Altenoythe,Niedersachsen,53.0643,7.902,6,1,1,1,1
+01504,Fritzlar/Eder,Hessen,51.119,9.2799,172,1,1,0,1
+01572,Geilenkirchen-Neutevern,Nordrhein-Westfalen,50.9593,6.0392,80,1,1,0,1
+01590,Geldern-Walbeck,Nordrhein-Westfalen,51.4942,6.2463,37,1,1,0,0
+01639,Gießen/Wettenberg,Hessen,50.6017,8.6439,203,1,1,1,1
+01645,Gilserberg-Moischeid,Hessen,50.9656,9.05,327,1,1,0,0
+01766,Münster/Osnabrück,Nordrhein-Westfalen,52.1344,7.6969,48,1,1,1,1
+01792,Groß Berßen,Niedersachsen,52.7553,7.4815,27,1,1,0,0
+01863,Gründau-Breitenborn,Hessen,50.2667,9.1854,258,1,1,0,0
+02211,Hilgenroth,Rheinland-Pfalz,50.737,7.6525,295,1,1,0,0
+02323,"Bevern, Kr. Holzminden",Niedersachsen,51.8529,9.4953,110,1,1,0,0
+02480,Kahl/Main,Bayern,50.0643,8.993,108,1,1,0,0
+02483,Kahler Asten,Nordrhein-Westfalen,51.1803,8.4891,839,1,1,1,1
+02497,Kall-Sistig,Nordrhein-Westfalen,50.5014,6.5264,505,1,1,1,0
+02601,Kleiner Feldberg/Taunus,Hessen,50.2218,8.4469,822,1,1,1,1
+02629,Kleve,Nordrhein-Westfalen,51.7612,6.0954,46,1,1,0,0
+02667,Köln/Bonn,Nordrhein-Westfalen,50.8645,7.1575,91,1,1,1,1
+02947,Lennestadt-Theten,Nordrhein-Westfalen,51.1333,8.0348,286,1,1,0,0
+03028,"Lippspringe, Bad",Nordrhein-Westfalen,51.7854,8.8388,157,1,1,1,1
+03031,Lippstadt-Bökenförde,Nordrhein-Westfalen,51.6336,8.3945,92,1,1,0,0
+03042,Löhnberg-Obershausen,Hessen,50.5617,8.2386,230,1,1,0,0
+03098,Lüdenscheid,Nordrhein-Westfalen,51.2452,7.6425,387,1,1,1,1
+03155,Manderscheid-Sonnenhof,Rheinland-Pfalz,50.1015,6.8009,415,1,1,0,0
+03164,"Cölbe, Kr. Marburg-Biedenkopf",Hessen,50.8492,8.7745,187,1,1,0,0
+03167,"Marienberg, Bad",Rheinland-Pfalz,50.6621,7.9603,547,1,1,1,1
+03254,Meppen,Niedersachsen,52.7155,7.3176,19,1,1,1,1
+03442,"Nauheim, Bad",Hessen,50.3574,8.7506,149,1,1,0,0
+03490,"Neuenahr, Bad-Ahrweiler",Rheinland-Pfalz,50.5346,7.0853,111,1,1,0,0
+03527,Neukirchen-Hauptschwenda,Hessen,50.8923,9.405,500,1,1,0,0
+03540,Neunkirchen-Seelscheid-Krawinkel,Nordrhein-Westfalen,50.8446,7.372,195,1,1,0,0
+03591,Nideggen-Schmidt,Nordrhein-Westfalen,50.6743,6.424,350,1,1,0,0
+03623,Nörvenich-Niederbolheim,Nordrhein-Westfalen,50.8294,6.6601,108,1,1,1,1
+03660,Nürburg-Barweiler,Rheinland-Pfalz,50.3602,6.8697,485,1,1,1,1
+04063,Rahden-Kleinendorf,Nordrhein-Westfalen,52.4461,8.5906,41,1,1,0,0
+04127,Reichshof-Eckenhagen,Nordrhein-Westfalen,50.9906,7.6958,347,1,1,0,0
+04275,Rotenburg (Wümme),Niedersachsen,53.1289,9.3398,32,1,1,0,0
+04371,"Salzuflen, Bad",Nordrhein-Westfalen,52.1042,8.7521,135,1,1,1,1
+04480,Schlüchtern-Herolz,Hessen,50.3447,9.5533,232,1,1,0,0
+04508,Schneifelforsthaus,Rheinland-Pfalz,50.2968,6.4194,653,1,1,0,0
+05064,Tönisvorst,Nordrhein-Westfalen,51.2897,6.4437,37,1,1,0,0
+05133,Twistetal-Mühlhausen,Hessen,51.3344,8.9132,287,1,1,0,0
+05279,Wesertal-Lippoldsberg,Hessen,51.6194,9.5749,167,1,1,0,0
+05300,Waldems-Reinborn,Hessen,50.2596,8.3607,380,1,1,0,0
+05347,Warburg,Nordrhein-Westfalen,51.5039,9.1118,236,1,1,1,1
+05480,Werl,Nordrhein-Westfalen,51.5763,7.8879,85,1,1,1,1
+05541,Wiesbaden-Auringen,Hessen,50.1321,8.3169,263,1,1,0,0
+05715,Wunstorf,Niedersachsen,52.4626,9.4245,49,1,1,1,1
+05717,Wuppertal-Buchenhofen,Nordrhein-Westfalen,51.2256,7.1052,134,1,1,0,0
+05822,Bassum,Niedersachsen,52.863,8.6989,42,1,1,0,0
+06159,Dörpen,Niedersachsen,52.9542,7.3197,8,1,1,1,0
+06197,Lügde-Paenbruch,Nordrhein-Westfalen,51.8664,9.271,258,1,1,1,1
+06264,Brilon-Thülen,Nordrhein-Westfalen,51.414,8.65,457,1,1,0,0
+06337,Lüdinghausen-Brochtrup,Nordrhein-Westfalen,51.7663,7.5194,58,1,1,0,0
+06344,Runkel-Ennerich,Hessen,50.394,8.1423,168,1,1,1,0
+07106,Bielefeld-Deppendorf,Nordrhein-Westfalen,52.0714,8.4565,105,1,1,0,0
+07330,Arnsberg-Neheim,Nordrhein-Westfalen,51.4633,7.978,159,1,1,0,0
+07341,Offenbach-Wetterpark,Hessen,50.09,8.7862,119,1,1,1,1
+07374,Ahaus,Nordrhein-Westfalen,52.0813,6.9409,46,1,1,1,1
+07396,Hoherodskopf/Vogelsberg,Hessen,50.5084,9.2246,740,1,1,1,1
+07410,Neu-Ulrichstein,Hessen,50.7513,9.0224,350,1,1,1,1
+07412,Neuhütten/Spessart,Bayern,50.0083,9.4238,340,1,1,1,1
+13670,Duisburg-Baerl,Nordrhein-Westfalen,51.5088,6.7018,24,1,1,0,0
+13675,Hameln-Hastenbeck,Niedersachsen,52.0818,9.4077,75,1,1,0,0
+13696,Waltrop-Abdinghof,Nordrhein-Westfalen,51.5966,7.4048,60,1,1,0,0
+13700,Gevelsberg-Oberbröking,Nordrhein-Westfalen,51.3329,7.3412,203,1,1,0,0
+13713,Meinerzhagen-Redlendorf,Nordrhein-Westfalen,51.0899,7.6289,385,1,1,0,0
+15000,Aachen-Orsbach,Nordrhein-Westfalen,50.7983,6.0244,231,1,1,1,1
+15207,Schauenburg-Elgershausen,Hessen,51.2835,9.359,317,1,1,1,1
+15813,Lingen-Baccum,Niedersachsen,52.5126,7.4131,40,1,1,1,1

@@ -1,0 +1,35 @@
+id,name,state,lat,lon,elev,has_TEMP,has_DEWP,has_WSPM,has_PRES
+NL215,Voorschoten,Netherlands,52.141,4.437,-1.1,1,1,1,1
+NL235,De Kooy Airport,Netherlands,52.928,4.781,1.2,1,1,1,1
+NL240,Schiphol Airport,Netherlands,52.318,4.79,-3.3,1,1,1,1
+NL242,Vlieland Vliehors,Netherlands,53.241,4.921,10.8,1,1,1,1
+NL249,Berkhout,Netherlands,52.644,4.979,-2.4,1,1,1,0
+NL251,Hoorn Terschelling,Netherlands,53.392,5.346,0.7,1,1,1,1
+NL257,Wijk aan Zee,Netherlands,52.506,4.603,8.5,1,1,0,0
+NL260,De Bilt,Netherlands,52.1,5.18,1.9,1,1,1,1
+NL267,Stavoren,Netherlands,52.898,5.384,-1.3,1,1,1,0
+NL269,Lelystad Airport,Netherlands,52.458,5.52,-3.7,1,1,1,1
+NL270,Leeuwarden Airport,Netherlands,53.224,5.752,1.2,1,1,1,1
+NL273,Marknesse,Netherlands,52.703,5.888,-3.3,1,1,1,0
+NL275,Deelen Airport,Netherlands,52.056,5.873,48.2,1,1,1,1
+NL277,Lauwersoog,Netherlands,53.413,6.2,2.9,1,1,1,0
+NL278,Heino,Netherlands,52.435,6.259,3.6,1,1,1,0
+NL279,Hoogeveen,Netherlands,52.75,6.574,15.8,1,1,1,1
+NL280,Groningen Airport Eelde,Netherlands,53.125,6.585,5.2,1,1,1,1
+NL283,Hupsel,Netherlands,52.069,6.657,29.1,1,1,1,0
+NL286,Nieuw Beerta,Netherlands,53.196,7.15,-0.2,1,1,1,0
+NL290,Twenthe Airport,Netherlands,52.274,6.891,34.8,1,1,1,1
+NL310,Vlissingen,Netherlands,51.442,3.596,8.0,1,1,1,1
+NL319,Westdorpe,Netherlands,51.226,3.861,1.7,1,1,1,1
+NL323,Wilhelminadorp,Netherlands,51.527,3.884,1.4,1,1,1,1
+NL330,Hoek van Holland,Netherlands,51.992,4.122,11.9,1,1,1,1
+NL340,Woensdrecht Airport,Netherlands,51.449,4.342,19.2,1,1,1,1
+NL344,Rotterdam Airport,Netherlands,51.962,4.447,-4.3,1,1,1,1
+NL348,Cabauw,Netherlands,51.97,4.926,-0.7,1,1,1,1
+NL350,Gilze-Rijen Airport,Netherlands,51.566,4.936,14.9,1,1,1,1
+NL356,Herwijnen,Netherlands,51.859,5.146,0.7,1,1,1,1
+NL370,Eindhoven Airport,Netherlands,51.451,5.377,22.6,1,1,1,1
+NL375,Volkel,Netherlands,51.659,5.707,22.0,1,1,1,1
+NL377,Ell,Netherlands,51.198,5.763,30.0,1,1,1,0
+NL380,Maastricht Airport,Netherlands,50.906,5.762,114.3,1,1,1,1
+NL391,Arcen,Netherlands,51.498,6.197,19.5,1,1,1,0
