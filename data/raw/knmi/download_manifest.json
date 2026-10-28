@@ -1,0 +1,1430 @@
+[
+ {
+  "station": "209",
+  "year": 2023,
+  "file": "knmi_209_2023.csv",
+  "bytes": 458971,
+  "sha256": "ef211f18fd0e5b435d2de0678eace61f099f077f6e23dbc9a129d21c0614d42c"
+ },
+ {
+  "station": "209",
+  "year": 2024,
+  "file": "knmi_209_2024.csv",
+  "bytes": 460219,
+  "sha256": "037e567d1695be1cdac8d66e96a83de35c59744cd5bf05a8ce786fc63ef86070"
+ },
+ {
+  "station": "209",
+  "year": 2025,
+  "file": "knmi_209_2025.csv",
+  "bytes": 458971,
+  "sha256": "5c13d50ce56c499d591f1e6ded16fb93adb182c48c4e4a27d43a2aeb1887546f"
+ },
+ {
+  "station": "209",
+  "year": 2026,
+  "file": "knmi_209_2026.csv",
+  "bytes": 356635,
+  "sha256": "81f692879a19cc81c470eec3eb6de8cd75e7a685699de9c045f3ce343676f8d5"
+ },
+ {
+  "station": "210",
+  "year": 2023,
+  "file": "knmi_210_2023.csv",
+  "bytes": 2204,
+  "sha256": "ce80fb5bfd8c26c5d4dcbc77e39e33a6d57d729683b151a831c604fa24b1fb66"
+ },
+ {
+  "station": "210",
+  "year": 2024,
+  "file": "knmi_210_2024.csv",
+  "bytes": 2204,
+  "sha256": "ce80fb5bfd8c26c5d4dcbc77e39e33a6d57d729683b151a831c604fa24b1fb66"
+ },
+ {
+  "station": "210",
+  "year": 2025,
+  "file": "knmi_210_2025.csv",
+  "bytes": 2204,
+  "sha256": "ce80fb5bfd8c26c5d4dcbc77e39e33a6d57d729683b151a831c604fa24b1fb66"
+ },
+ {
+  "station": "210",
+  "year": 2026,
+  "file": "knmi_210_2026.csv",
+  "bytes": 2204,
+  "sha256": "ce80fb5bfd8c26c5d4dcbc77e39e33a6d57d729683b151a831c604fa24b1fb66"
+ },
+ {
+  "station": "215",
+  "year": 2023,
+  "file": "knmi_215_2023.csv",
+  "bytes": 458971,
+  "sha256": "10f85492ceb6fa3f81bdec05c47ddec83042774dde5eb87950ac1e30572434e6"
+ },
+ {
+  "station": "215",
+  "year": 2024,
+  "file": "knmi_215_2024.csv",
+  "bytes": 460219,
+  "sha256": "f7a2665c38c7ecd79f07c80be30b196b5b097c2fbaa52abfe310e42379fbc758"
+ },
+ {
+  "station": "215",
+  "year": 2025,
+  "file": "knmi_215_2025.csv",
+  "bytes": 458971,
+  "sha256": "e0c8174977b2183421fa949315d07abc516ed900734b61fa020eaa56e96b4cb5"
+ },
+ {
+  "station": "215",
+  "year": 2026,
+  "file": "knmi_215_2026.csv",
+  "bytes": 356635,
+  "sha256": "4a9c27bad2e91c602ba8eea8d969fb273353c2ea99c5bb58029218c402dc9ca7"
+ },
+ {
+  "station": "225",
+  "year": 2023,
+  "file": "knmi_225_2023.csv",
+  "bytes": 458971,
+  "sha256": "c980733dcaba419dabaae11a3a14e1e7f80a0a3ab077d0abcfdfeb822e8477bd"
+ },
+ {
+  "station": "225",
+  "year": 2024,
+  "file": "knmi_225_2024.csv",
+  "bytes": 460219,
+  "sha256": "fb809adc2c765ff9086a11b5009750b7b87e83dfd495f699f0ab172538c91051"
+ },
+ {
+  "station": "225",
+  "year": 2025,
+  "file": "knmi_225_2025.csv",
+  "bytes": 458971,
+  "sha256": "8b27307715a9f937c0a99ee9df66937c73794fc98830b2d8f31d21cc3f99d479"
+ },
+ {
+  "station": "225",
+  "year": 2026,
+  "file": "knmi_225_2026.csv",
+  "bytes": 356635,
+  "sha256": "7894b54a6fe35b999ed4fcb92d2e20831efbc02af36a50df064ced44b6f3b851"
+ },
+ {
+  "station": "235",
+  "year": 2023,
+  "file": "knmi_235_2023.csv",
+  "bytes": 458974,
+  "sha256": "f02296317d076e9acce2dc502c1b8ce5baeaa462101af428e779cf54da247be1"
+ },
+ {
+  "station": "235",
+  "year": 2024,
+  "file": "knmi_235_2024.csv",
+  "bytes": 460222,
+  "sha256": "7cb98db621a18c11be9e6dc5adf878595bf736bb95297e0df14ff5b2d5b39842"
+ },
+ {
+  "station": "235",
+  "year": 2025,
+  "file": "knmi_235_2025.csv",
+  "bytes": 458974,
+  "sha256": "f4ca8c9a3b1d29557f4cc85498862b19daece57804014d1ac1f8411b04393e81"
+ },
+ {
+  "station": "235",
+  "year": 2026,
+  "file": "knmi_235_2026.csv",
+  "bytes": 356638,
+  "sha256": "ad7bf3cf0fe9cb11aecf931a1687f0beae2800995c9a813980f47a8431bbf117"
+ },
+ {
+  "station": "240",
+  "year": 2023,
+  "file": "knmi_240_2023.csv",
+  "bytes": 458975,
+  "sha256": "dc5b86a3c9e28c9bac1fe9d26702a24204d5a3ae7bc21357775fe02a58e891e9"
+ },
+ {
+  "station": "240",
+  "year": 2024,
+  "file": "knmi_240_2024.csv",
+  "bytes": 460223,
+  "sha256": "28d0dfaac6f82d5336960b265afcfd2c35b2e1d2a7050e4ed5b05fec68c65822"
+ },
+ {
+  "station": "240",
+  "year": 2025,
+  "file": "knmi_240_2025.csv",
+  "bytes": 458975,
+  "sha256": "2b1422a3202a6f9565975d628ba1fb7c211099853824ef9a71dfee4f8fceb9b0"
+ },
+ {
+  "station": "240",
+  "year": 2026,
+  "file": "knmi_240_2026.csv",
+  "bytes": 356639,
+  "sha256": "b4e24bec1e697e1dc9f4c0af6dd87e7b2e3c95d83eebc84b73c280561719e6da"
+ },
+ {
+  "station": "242",
+  "year": 2023,
+  "file": "knmi_242_2023.csv",
+  "bytes": 458976,
+  "sha256": "8c071dde20f708b51be8f35ed152902387c8b7be407ca6bb65bc2a9186da3e6c"
+ },
+ {
+  "station": "242",
+  "year": 2024,
+  "file": "knmi_242_2024.csv",
+  "bytes": 460224,
+  "sha256": "e2ec755f51ab3532103f8e26454849ee7bf6a42619f849064fd2b2b7393d117c"
+ },
+ {
+  "station": "242",
+  "year": 2025,
+  "file": "knmi_242_2025.csv",
+  "bytes": 458976,
+  "sha256": "108df58bbe66f741f01511653ad801919e491bd92e4a483aada6668462026412"
+ },
+ {
+  "station": "242",
+  "year": 2026,
+  "file": "knmi_242_2026.csv",
+  "bytes": 356640,
+  "sha256": "9af3fc8c3595bf7e8fc39b20dd2ec6494234bf76b111a08410ce5648de41a57b"
+ },
+ {
+  "station": "248",
+  "year": 2023,
+  "file": "knmi_248_2023.csv",
+  "bytes": 458971,
+  "sha256": "fa2529377a3e5160f60259d939334b66a050493e4e69325365db9160b8504a31"
+ },
+ {
+  "station": "248",
+  "year": 2024,
+  "file": "knmi_248_2024.csv",
+  "bytes": 460219,
+  "sha256": "2584feac70c45efb3365a316dfbe098532c620c6897b2429a901d0aff19e348b"
+ },
+ {
+  "station": "248",
+  "year": 2025,
+  "file": "knmi_248_2025.csv",
+  "bytes": 458971,
+  "sha256": "1db790084a57b1a45d596445790d2b732a6b47a58091dd9de9a3628a4a89cc3c"
+ },
+ {
+  "station": "248",
+  "year": 2026,
+  "file": "knmi_248_2026.csv",
+  "bytes": 356635,
+  "sha256": "b3f463b5018445db957d661e83e425db5f81a4a772258e5523efd6d49c819876"
+ },
+ {
+  "station": "249",
+  "year": 2023,
+  "file": "knmi_249_2023.csv",
+  "bytes": 458971,
+  "sha256": "a91ce3a5f6a0e1516fa049d08e0b5635267d0f04658f603ea284c1f824ad9d0a"
+ },
+ {
+  "station": "249",
+  "year": 2024,
+  "file": "knmi_249_2024.csv",
+  "bytes": 460219,
+  "sha256": "059a244a41d863ad0da82cb313ced1bc659b7abe746c30a023e89be801159bb3"
+ },
+ {
+  "station": "249",
+  "year": 2025,
+  "file": "knmi_249_2025.csv",
+  "bytes": 458971,
+  "sha256": "6863a57abd695a0cecca0cf5c25e7a5e5de72c69fd3781baf578d39fcd6b39c4"
+ },
+ {
+  "station": "249",
+  "year": 2026,
+  "file": "knmi_249_2026.csv",
+  "bytes": 356635,
+  "sha256": "07180d8d327cc15d229b53d4f000fa2566b8f718cbf02aee4a77af2ddc237914"
+ },
+ {
+  "station": "251",
+  "year": 2023,
+  "file": "knmi_251_2023.csv",
+  "bytes": 458977,
+  "sha256": "73de7e8d23d964ca31bd42462acd3a8a5bb9b2a401e2ec50f526d318fc17fa06"
+ },
+ {
+  "station": "251",
+  "year": 2024,
+  "file": "knmi_251_2024.csv",
+  "bytes": 460225,
+  "sha256": "7cb62f38835019410b134006eae5c8a9e2622e03bdcea504641b0d4550ad4367"
+ },
+ {
+  "station": "251",
+  "year": 2025,
+  "file": "knmi_251_2025.csv",
+  "bytes": 458977,
+  "sha256": "518b3e231c9012236033e297ad075284bab3bd7cff612eec76b3fd58858aba17"
+ },
+ {
+  "station": "251",
+  "year": 2026,
+  "file": "knmi_251_2026.csv",
+  "bytes": 356641,
+  "sha256": "7a8a92ad25d39cf55b9383b62e02be205a0f3874b59c431b914fdac77f8549e9"
+ },
+ {
+  "station": "257",
+  "year": 2023,
+  "file": "knmi_257_2023.csv",
+  "bytes": 458971,
+  "sha256": "b0a0d156b760b3a83cdf6291dc2ea78d9f306b1dec66813794960b1478c8960c"
+ },
+ {
+  "station": "257",
+  "year": 2024,
+  "file": "knmi_257_2024.csv",
+  "bytes": 460219,
+  "sha256": "6344a405b419cb3321662e7e37a96630f813848d8f141c476297d76f5ab88c56"
+ },
+ {
+  "station": "257",
+  "year": 2025,
+  "file": "knmi_257_2025.csv",
+  "bytes": 458971,
+  "sha256": "3b9bc30ab99d37a6d59f5de1350ea97ba56a497f70c994c30abe2e576327692a"
+ },
+ {
+  "station": "257",
+  "year": 2026,
+  "file": "knmi_257_2026.csv",
+  "bytes": 356635,
+  "sha256": "e06b629ed837012690b61522f0fa504017c1f2ce4fbc02f257e4fe6010e65f5a"
+ },
+ {
+  "station": "258",
+  "year": 2023,
+  "file": "knmi_258_2023.csv",
+  "bytes": 458971,
+  "sha256": "26fdd8891aabd89ebfa60e4a309d2dd1400c62b8b3703fdd4b9bb13e8ed79737"
+ },
+ {
+  "station": "258",
+  "year": 2024,
+  "file": "knmi_258_2024.csv",
+  "bytes": 460219,
+  "sha256": "aa32e694440e27e673571c93c5b2a5dfa92a35fcc840ca704d6e179744e68152"
+ },
+ {
+  "station": "258",
+  "year": 2025,
+  "file": "knmi_258_2025.csv",
+  "bytes": 458971,
+  "sha256": "d7b146b5cc53aa385d1ac73a285a8f99bf85f022f010ae50542009a8e21045c8"
+ },
+ {
+  "station": "258",
+  "year": 2026,
+  "file": "knmi_258_2026.csv",
+  "bytes": 356635,
+  "sha256": "4d2695ee3be23d4bae49413a49e054897c2b848de12d435de9a3a1556344bf50"
+ },
+ {
+  "station": "260",
+  "year": 2023,
+  "file": "knmi_260_2023.csv",
+  "bytes": 458971,
+  "sha256": "ea53a7c6ab035df1674d2b66dc9853c02b5102509a6a517e295ccdaae55b74fd"
+ },
+ {
+  "station": "260",
+  "year": 2024,
+  "file": "knmi_260_2024.csv",
+  "bytes": 460219,
+  "sha256": "6d447c5a63cec23deb137c6edfecac20ccedffe70f5a009cb570e9b03ebf87df"
+ },
+ {
+  "station": "260",
+  "year": 2025,
+  "file": "knmi_260_2025.csv",
+  "bytes": 458971,
+  "sha256": "cd58880a6ac1031de7e4ae38afac88e7eef7eaf8b67a15501d39232d8a6dc9ff"
+ },
+ {
+  "station": "260",
+  "year": 2026,
+  "file": "knmi_260_2026.csv",
+  "bytes": 356635,
+  "sha256": "f9e177eb47dfeb8025dc5b55d70e206a2c786c53d1f6a2522e62ed76e84b478c"
+ },
+ {
+  "station": "265",
+  "year": 2023,
+  "file": "knmi_265_2023.csv",
+  "bytes": 2203,
+  "sha256": "2aca36559ada74fc39ce7add444d3429cf3af0d95bfea4469bfa34d8ccfff92e"
+ },
+ {
+  "station": "265",
+  "year": 2024,
+  "file": "knmi_265_2024.csv",
+  "bytes": 2203,
+  "sha256": "2aca36559ada74fc39ce7add444d3429cf3af0d95bfea4469bfa34d8ccfff92e"
+ },
+ {
+  "station": "265",
+  "year": 2025,
+  "file": "knmi_265_2025.csv",
+  "bytes": 2203,
+  "sha256": "2aca36559ada74fc39ce7add444d3429cf3af0d95bfea4469bfa34d8ccfff92e"
+ },
+ {
+  "station": "265",
+  "year": 2026,
+  "file": "knmi_265_2026.csv",
+  "bytes": 2203,
+  "sha256": "2aca36559ada74fc39ce7add444d3429cf3af0d95bfea4469bfa34d8ccfff92e"
+ },
+ {
+  "station": "267",
+  "year": 2023,
+  "file": "knmi_267_2023.csv",
+  "bytes": 458971,
+  "sha256": "b9cc9acb393065d520b1dd7c227d56a1f1584b293df0589f7954a928a42db1d9"
+ },
+ {
+  "station": "267",
+  "year": 2024,
+  "file": "knmi_267_2024.csv",
+  "bytes": 460219,
+  "sha256": "dd2866480af1650b8dee736a3e36e36efbac5c46332267b98645fe59b070066d"
+ },
+ {
+  "station": "267",
+  "year": 2025,
+  "file": "knmi_267_2025.csv",
+  "bytes": 458971,
+  "sha256": "fe5e568248cf458b81de1ea066de2b91986aa95225e8741111aedb23a92fa45c"
+ },
+ {
+  "station": "267",
+  "year": 2026,
+  "file": "knmi_267_2026.csv",
+  "bytes": 356635,
+  "sha256": "5bd102ea628dd4c8429dc288ecfb6b16503334beece550a5ed00eef39530986b"
+ },
+ {
+  "station": "269",
+  "year": 2023,
+  "file": "knmi_269_2023.csv",
+  "bytes": 458975,
+  "sha256": "8c25ce9d172d63cb4ff924ce5781715867b82d61b90908d5f2e6657d94080a88"
+ },
+ {
+  "station": "269",
+  "year": 2024,
+  "file": "knmi_269_2024.csv",
+  "bytes": 460223,
+  "sha256": "7dfab94a7a831ffeebb5eae84e1d66812c2449bebb8084e3bc1c03ea4aaeecb8"
+ },
+ {
+  "station": "269",
+  "year": 2025,
+  "file": "knmi_269_2025.csv",
+  "bytes": 458975,
+  "sha256": "db62b3e56caea8717a8add0dbba170d1c80a98e60be434699706d96471b2fb38"
+ },
+ {
+  "station": "269",
+  "year": 2026,
+  "file": "knmi_269_2026.csv",
+  "bytes": 356639,
+  "sha256": "786af53cf33878b360a9df3b45a37d981e0f130cba396189650207a73b88d0d6"
+ },
+ {
+  "station": "270",
+  "year": 2023,
+  "file": "knmi_270_2023.csv",
+  "bytes": 458977,
+  "sha256": "51325efaa6cdc5ebffa040eca2d148ec058ccb94e3846762cc7a310a68f99062"
+ },
+ {
+  "station": "270",
+  "year": 2024,
+  "file": "knmi_270_2024.csv",
+  "bytes": 460225,
+  "sha256": "f6f40561ae69479ed62e8d1cf0691628db60d59aa2d581cd7f04f49e6616aebc"
+ },
+ {
+  "station": "270",
+  "year": 2025,
+  "file": "knmi_270_2025.csv",
+  "bytes": 458977,
+  "sha256": "bf8cf8a43a2be81729ca42e8c89006f0cbbb7e8fe460a5adaa1213b67358e1df"
+ },
+ {
+  "station": "270",
+  "year": 2026,
+  "file": "knmi_270_2026.csv",
+  "bytes": 356641,
+  "sha256": "be5e1c4410ea122a82712e4a169b60cb41030624252b781c134d7ca5fa392067"
+ },
+ {
+  "station": "273",
+  "year": 2023,
+  "file": "knmi_273_2023.csv",
+  "bytes": 458971,
+  "sha256": "1c00ef4f96568252209fb29a6bdbade9f415f5e1b9b9fb303f856c7bd8d7a673"
+ },
+ {
+  "station": "273",
+  "year": 2024,
+  "file": "knmi_273_2024.csv",
+  "bytes": 460219,
+  "sha256": "0df617f9dd9efd1a189b61f644c5619fae1399168b3d0846041904cbb83051dd"
+ },
+ {
+  "station": "273",
+  "year": 2025,
+  "file": "knmi_273_2025.csv",
+  "bytes": 458971,
+  "sha256": "6e101d324f62bbec961402175c900a6b26519114d405e997a546842dc40dc8c9"
+ },
+ {
+  "station": "273",
+  "year": 2026,
+  "file": "knmi_273_2026.csv",
+  "bytes": 356635,
+  "sha256": "e3f8a854d6d4841612e1ba9439c906eced01bbc413c45904702f33a6014d46ae"
+ },
+ {
+  "station": "275",
+  "year": 2023,
+  "file": "knmi_275_2023.csv",
+  "bytes": 458973,
+  "sha256": "cffbf90d04be9f9fdb9c702386260d9fd9dfe84792e5a6de43d52a429527ebbc"
+ },
+ {
+  "station": "275",
+  "year": 2024,
+  "file": "knmi_275_2024.csv",
+  "bytes": 460221,
+  "sha256": "20c55b008742c6fc6cfa22e01d1186725f1d20ffa62365baefeec1b4357303d1"
+ },
+ {
+  "station": "275",
+  "year": 2025,
+  "file": "knmi_275_2025.csv",
+  "bytes": 458973,
+  "sha256": "9ed910b857d631759ff78480f49a45742d2b72a63c4d27f66761a64f499a5bd8"
+ },
+ {
+  "station": "275",
+  "year": 2026,
+  "file": "knmi_275_2026.csv",
+  "bytes": 356637,
+  "sha256": "4faff62a3f3d17fd0baf1f92bda29075c497ed5d6da440055ae15cc154058728"
+ },
+ {
+  "station": "277",
+  "year": 2023,
+  "file": "knmi_277_2023.csv",
+  "bytes": 458971,
+  "sha256": "6bf65d174838bbc9933d96beebd9912c37b92926fe790e836e3cecb66ec848f7"
+ },
+ {
+  "station": "277",
+  "year": 2024,
+  "file": "knmi_277_2024.csv",
+  "bytes": 460219,
+  "sha256": "83d82d5c5e2f1dd997f2bfdc61f9a340a28517689367cf4d55e67f29868b64e5"
+ },
+ {
+  "station": "277",
+  "year": 2025,
+  "file": "knmi_277_2025.csv",
+  "bytes": 458971,
+  "sha256": "4ddad8d7ba79cef237010ba66b8b2e235a9a28e44eedc3e790b4dbd2a8d21e4b"
+ },
+ {
+  "station": "277",
+  "year": 2026,
+  "file": "knmi_277_2026.csv",
+  "bytes": 356635,
+  "sha256": "389cbf98cfd1386a66df8b3da5428c8d34743e1e81f6fe431afee540c9b295fe"
+ },
+ {
+  "station": "278",
+  "year": 2023,
+  "file": "knmi_278_2023.csv",
+  "bytes": 458971,
+  "sha256": "e38775a5a9e8e59412725e7bdd4759e0e4334cbe3774c58c228d955438c94790"
+ },
+ {
+  "station": "278",
+  "year": 2024,
+  "file": "knmi_278_2024.csv",
+  "bytes": 460219,
+  "sha256": "81fd6c01623b061fcb81975c632be856f41ce756d5511bd6a43d813b3f78fc13"
+ },
+ {
+  "station": "278",
+  "year": 2025,
+  "file": "knmi_278_2025.csv",
+  "bytes": 458971,
+  "sha256": "af3f65f7b41457a4a75af5be646119b08ee72e899216f45647b9cfddc62e8b0d"
+ },
+ {
+  "station": "278",
+  "year": 2026,
+  "file": "knmi_278_2026.csv",
+  "bytes": 356635,
+  "sha256": "7545d9fc934fbad81ef2dcd255ff03a7a88a00a1f464c2ea9fa8424c56a345e7"
+ },
+ {
+  "station": "279",
+  "year": 2023,
+  "file": "knmi_279_2023.csv",
+  "bytes": 458971,
+  "sha256": "0ac40f48d6be94eb5fd60c9de8fac2c1933b5da0f1ed11d2aee65d2ee1952773"
+ },
+ {
+  "station": "279",
+  "year": 2024,
+  "file": "knmi_279_2024.csv",
+  "bytes": 460219,
+  "sha256": "08d2f68fccf211c37c6a119498ed189651610f206688a68c21a42d3027df43f4"
+ },
+ {
+  "station": "279",
+  "year": 2025,
+  "file": "knmi_279_2025.csv",
+  "bytes": 458971,
+  "sha256": "f524482bcb18374265021ece02e3aeef700e21228ef946f436bae1c92f306de8"
+ },
+ {
+  "station": "279",
+  "year": 2026,
+  "file": "knmi_279_2026.csv",
+  "bytes": 356635,
+  "sha256": "a3eb15ab85c4dcdee348e5c791cf8263bf11a5fec7f9c6b982940489c0c32101"
+ },
+ {
+  "station": "280",
+  "year": 2023,
+  "file": "knmi_280_2023.csv",
+  "bytes": 458982,
+  "sha256": "ed07ff15488f1887123bb8b4f0dbf99a14685f101b060f871cda97d74d2a980e"
+ },
+ {
+  "station": "280",
+  "year": 2024,
+  "file": "knmi_280_2024.csv",
+  "bytes": 460230,
+  "sha256": "5c77c83a4062015f6d3af696d22bb9c54d71f48a36ac7b0099aad3e4badd5bdc"
+ },
+ {
+  "station": "280",
+  "year": 2025,
+  "file": "knmi_280_2025.csv",
+  "bytes": 458982,
+  "sha256": "72c7352c6442e4c89481513f194bf988e178b87533056977e45e9b5b6c3ad08b"
+ },
+ {
+  "station": "280",
+  "year": 2026,
+  "file": "knmi_280_2026.csv",
+  "bytes": 356646,
+  "sha256": "bc9ee4945cbe3e4c54f3032f59b4c3abad45cc687cab6b59ae85fd3f78982c0c"
+ },
+ {
+  "station": "283",
+  "year": 2023,
+  "file": "knmi_283_2023.csv",
+  "bytes": 458971,
+  "sha256": "2506ca50eb59201fe171345e82cfa3f23dc964a2d2a35ed0d1bec91260add8b3"
+ },
+ {
+  "station": "283",
+  "year": 2024,
+  "file": "knmi_283_2024.csv",
+  "bytes": 460219,
+  "sha256": "bbcfa3206b601fa0210eb6e21e78fcfd25b4db53d84c9123e8526024e7df52df"
+ },
+ {
+  "station": "283",
+  "year": 2025,
+  "file": "knmi_283_2025.csv",
+  "bytes": 458971,
+  "sha256": "7047721e368794006617be21a2de8b88b4ad7c1665be3d79731c9012d219321f"
+ },
+ {
+  "station": "283",
+  "year": 2026,
+  "file": "knmi_283_2026.csv",
+  "bytes": 356635,
+  "sha256": "15db3df42f4d03903ec14f63a952d7c61070130883c8b0683dad1410696278ac"
+ },
+ {
+  "station": "285",
+  "year": 2023,
+  "file": "knmi_285_2023.csv",
+  "bytes": 458971,
+  "sha256": "5b5025038704f165584e735933de40a74c4535d34e2bbeca1d9b12fef246aba6"
+ },
+ {
+  "station": "285",
+  "year": 2024,
+  "file": "knmi_285_2024.csv",
+  "bytes": 460219,
+  "sha256": "0ac9683defdb0f304c1070c424fbe728ee46dde419af35046d0a59c89b3831ba"
+ },
+ {
+  "station": "285",
+  "year": 2025,
+  "file": "knmi_285_2025.csv",
+  "bytes": 458971,
+  "sha256": "653743d0569552abc71b83635c19c1ac4e8d6cf2d8ee97410d4ecdc5a5083665"
+ },
+ {
+  "station": "285",
+  "year": 2026,
+  "file": "knmi_285_2026.csv",
+  "bytes": 356635,
+  "sha256": "95d5523ee5e6d61d1de04f95c69fe2edabbbb2dc1d1bf3df6ccbfd130c99da02"
+ },
+ {
+  "station": "286",
+  "year": 2023,
+  "file": "knmi_286_2023.csv",
+  "bytes": 458971,
+  "sha256": "5a82244fe5bae056f0dda8e39f5d8467fd849043cf587975e9ac98b42062e81e"
+ },
+ {
+  "station": "286",
+  "year": 2024,
+  "file": "knmi_286_2024.csv",
+  "bytes": 460219,
+  "sha256": "0d0d1797da0c40dc93b74907b7c513b10e5cb8e5eae7bf65d966c87bcbd32e8f"
+ },
+ {
+  "station": "286",
+  "year": 2025,
+  "file": "knmi_286_2025.csv",
+  "bytes": 458971,
+  "sha256": "0da8ae262957d37c8eb2de0a2f4a5143c67e1997e367d92b4dd4017892c9e8f6"
+ },
+ {
+  "station": "286",
+  "year": 2026,
+  "file": "knmi_286_2026.csv",
+  "bytes": 356635,
+  "sha256": "4aced9daf70717c47ec3b920f82e6481789e82dc35b1ed252f46b257bb3b1e76"
+ },
+ {
+  "station": "290",
+  "year": 2023,
+  "file": "knmi_290_2023.csv",
+  "bytes": 458974,
+  "sha256": "f062b5ab4f720c75e084aec67a34885cc4552d41f68aeebc5dbc2f46d99580dd"
+ },
+ {
+  "station": "290",
+  "year": 2024,
+  "file": "knmi_290_2024.csv",
+  "bytes": 460222,
+  "sha256": "72ce99549c0f2fef27fa4ecc348e02c6037be581108148f079ae9b92bf651fe2"
+ },
+ {
+  "station": "290",
+  "year": 2025,
+  "file": "knmi_290_2025.csv",
+  "bytes": 458974,
+  "sha256": "f6cfdad48c18b472ab5e13920ed105d1995d4b97e8c3a93a49a2f063b0b45f75"
+ },
+ {
+  "station": "290",
+  "year": 2026,
+  "file": "knmi_290_2026.csv",
+  "bytes": 356638,
+  "sha256": "57e59d4f039824eaea5700a0894b1bfca0ef40c6573afd256f755f02fa4cac92"
+ },
+ {
+  "station": "308",
+  "year": 2023,
+  "file": "knmi_308_2023.csv",
+  "bytes": 458971,
+  "sha256": "922330abb019d34249f8bf4a87338af0b39a2b914febc4c24c553b19d9062751"
+ },
+ {
+  "station": "308",
+  "year": 2024,
+  "file": "knmi_308_2024.csv",
+  "bytes": 460219,
+  "sha256": "74b23aa3e6dfb04242cffbe75949f6f807d037d57fc49db67205ff097190f9ee"
+ },
+ {
+  "station": "308",
+  "year": 2025,
+  "file": "knmi_308_2025.csv",
+  "bytes": 458971,
+  "sha256": "cd0a77d6a859a23045569c7e2e450fa7138990cb5eded926cbdc43e231ddbe53"
+ },
+ {
+  "station": "308",
+  "year": 2026,
+  "file": "knmi_308_2026.csv",
+  "bytes": 356635,
+  "sha256": "ce5e52c6f883d07332979b94405e04ed727ec7f7a0d36e10b5acdab3187fde6e"
+ },
+ {
+  "station": "310",
+  "year": 2023,
+  "file": "knmi_310_2023.csv",
+  "bytes": 458971,
+  "sha256": "1d5ec32c51e1e5e0b539d5df930e4c83faa55507c529f1f48438b9e3e886b0bf"
+ },
+ {
+  "station": "310",
+  "year": 2024,
+  "file": "knmi_310_2024.csv",
+  "bytes": 460219,
+  "sha256": "2aee5bada193b206286a444725bf787ef2f1264bef47454fc04cc4b430727f5e"
+ },
+ {
+  "station": "310",
+  "year": 2025,
+  "file": "knmi_310_2025.csv",
+  "bytes": 458971,
+  "sha256": "8da6d0b929c152590bc3e29e9a31dc23f108e80d99ebaad0c35ea0c770419a9f"
+ },
+ {
+  "station": "310",
+  "year": 2026,
+  "file": "knmi_310_2026.csv",
+  "bytes": 356635,
+  "sha256": "116f4d8924f26dd2443a63e3a667283b666880603ca74e10a445638c3d9c48cf"
+ },
+ {
+  "station": "311",
+  "year": 2023,
+  "file": "knmi_311_2023.csv",
+  "bytes": 2203,
+  "sha256": "89fd5b4c7a83b504429f87c09fb5f419366163307306ea8b930798c6975e8b65"
+ },
+ {
+  "station": "311",
+  "year": 2024,
+  "file": "knmi_311_2024.csv",
+  "bytes": 2203,
+  "sha256": "89fd5b4c7a83b504429f87c09fb5f419366163307306ea8b930798c6975e8b65"
+ },
+ {
+  "station": "311",
+  "year": 2025,
+  "file": "knmi_311_2025.csv",
+  "bytes": 2203,
+  "sha256": "89fd5b4c7a83b504429f87c09fb5f419366163307306ea8b930798c6975e8b65"
+ },
+ {
+  "station": "311",
+  "year": 2026,
+  "file": "knmi_311_2026.csv",
+  "bytes": 2203,
+  "sha256": "89fd5b4c7a83b504429f87c09fb5f419366163307306ea8b930798c6975e8b65"
+ },
+ {
+  "station": "312",
+  "year": 2023,
+  "file": "knmi_312_2023.csv",
+  "bytes": 458972,
+  "sha256": "992cfec0f7123cbf7f71c9d5ee162ee48bdc4c15f685a5fb66ac0eea8ab490bd"
+ },
+ {
+  "station": "312",
+  "year": 2024,
+  "file": "knmi_312_2024.csv",
+  "bytes": 460220,
+  "sha256": "423381d4239a084a5656eb04bb5b7b57588f6b38db2ccb3ffc74635c0814912e"
+ },
+ {
+  "station": "312",
+  "year": 2025,
+  "file": "knmi_312_2025.csv",
+  "bytes": 458972,
+  "sha256": "021365401ad7156facf9ad9783f42b85771d0758d4c553bbfd2afc5eea5d7cf6"
+ },
+ {
+  "station": "312",
+  "year": 2026,
+  "file": "knmi_312_2026.csv",
+  "bytes": 356636,
+  "sha256": "e8b599ffa0f3ef8bd056e3b5de210726ebc53cef0f9560da1b943464af8e9547"
+ },
+ {
+  "station": "313",
+  "year": 2023,
+  "file": "knmi_313_2023.csv",
+  "bytes": 458977,
+  "sha256": "ecf88c93f0129a0e0c544ef50f6e401e21c845d989f1b5aa8e1a035b53fc20b8"
+ },
+ {
+  "station": "313",
+  "year": 2024,
+  "file": "knmi_313_2024.csv",
+  "bytes": 460225,
+  "sha256": "5a2eef96aa7f2bf05111c52e7453ef1f8abfe3af4883df640a500bf2eda793fe"
+ },
+ {
+  "station": "313",
+  "year": 2025,
+  "file": "knmi_313_2025.csv",
+  "bytes": 458977,
+  "sha256": "218e6f0980a82243b5db548ce7a84aeab4a7f587986062fe62d60ffe7cf3e382"
+ },
+ {
+  "station": "313",
+  "year": 2026,
+  "file": "knmi_313_2026.csv",
+  "bytes": 356641,
+  "sha256": "ced50e827e0fce3bbdec8b7e9579efbfb672bda3a776eca01466f1ad785d9920"
+ },
+ {
+  "station": "315",
+  "year": 2023,
+  "file": "knmi_315_2023.csv",
+  "bytes": 458971,
+  "sha256": "c7ea2b5b496cbbdb92bee715a5cb1902734b32ae6e5457148d6a8db091081041"
+ },
+ {
+  "station": "315",
+  "year": 2024,
+  "file": "knmi_315_2024.csv",
+  "bytes": 460219,
+  "sha256": "2175a53bdd91dab07ac1b2bb52eca0279396604506597b32fa6e9067f7efb624"
+ },
+ {
+  "station": "315",
+  "year": 2025,
+  "file": "knmi_315_2025.csv",
+  "bytes": 458971,
+  "sha256": "cf8d0b5ac26065c605fc37472cf541d52018f07d86d3f99cb98b035c6e1c3bca"
+ },
+ {
+  "station": "315",
+  "year": 2026,
+  "file": "knmi_315_2026.csv",
+  "bytes": 356635,
+  "sha256": "720007f6256fd6cc72f57a1f88ce0345570a861e4dabe63f35ff9927817d44bf"
+ },
+ {
+  "station": "316",
+  "year": 2023,
+  "file": "knmi_316_2023.csv",
+  "bytes": 458971,
+  "sha256": "2b02efa520cf4215c384d816797014ee6d91e66083b3ef8133d0de681e3d4a43"
+ },
+ {
+  "station": "316",
+  "year": 2024,
+  "file": "knmi_316_2024.csv",
+  "bytes": 460219,
+  "sha256": "9cd02abac71e988084ee60b2ac803c94bec0dfef915e682516b421d89e4e2480"
+ },
+ {
+  "station": "316",
+  "year": 2025,
+  "file": "knmi_316_2025.csv",
+  "bytes": 458971,
+  "sha256": "681bbf5979fe8d969250ab169d7cc4be76530d1c3ceb9853e74aa10689a1966d"
+ },
+ {
+  "station": "316",
+  "year": 2026,
+  "file": "knmi_316_2026.csv",
+  "bytes": 356635,
+  "sha256": "43eca0e3e069273dbd19ec353a425557baa19ac9cf294047de0e52d62d25090e"
+ },
+ {
+  "station": "319",
+  "year": 2023,
+  "file": "knmi_319_2023.csv",
+  "bytes": 458971,
+  "sha256": "21a78eb7413f6f268eae816d60b7c2668f0ae60015a180769cf0489730051ea6"
+ },
+ {
+  "station": "319",
+  "year": 2024,
+  "file": "knmi_319_2024.csv",
+  "bytes": 460219,
+  "sha256": "7ef412743594084819138ed0e65f12ca0588f487cb35dc32f4a83e5e18871ab3"
+ },
+ {
+  "station": "319",
+  "year": 2025,
+  "file": "knmi_319_2025.csv",
+  "bytes": 458971,
+  "sha256": "d4aa006bcd678407cab7c6cebe9a0e152785fe2108500fc98a3bcdedf5c4052d"
+ },
+ {
+  "station": "319",
+  "year": 2026,
+  "file": "knmi_319_2026.csv",
+  "bytes": 356635,
+  "sha256": "7ecd2c11e483d0c7808262d3e5b158cede4d7ce8fd50c9a280ad4ce7ed1b802c"
+ },
+ {
+  "station": "323",
+  "year": 2023,
+  "file": "knmi_323_2023.csv",
+  "bytes": 458973,
+  "sha256": "bf23398c4024babb25e6f2740ea1e77448154179c5b6f9ff9556951f17c0a391"
+ },
+ {
+  "station": "323",
+  "year": 2024,
+  "file": "knmi_323_2024.csv",
+  "bytes": 460221,
+  "sha256": "f9d0192115ce5a0769a0e1fda43d32d40362a7301959e287db265adb152885d2"
+ },
+ {
+  "station": "323",
+  "year": 2025,
+  "file": "knmi_323_2025.csv",
+  "bytes": 458973,
+  "sha256": "606cc71dec149d3aea4b47e23ab45cc34b4850c81e5477bebaa4e9b5af940d48"
+ },
+ {
+  "station": "323",
+  "year": 2026,
+  "file": "knmi_323_2026.csv",
+  "bytes": 356637,
+  "sha256": "01a1ad999fa0e4df7e4cdf6e47f2d2966f9d374ae0eed5fc053ad8e8229561b0"
+ },
+ {
+  "station": "324",
+  "year": 2023,
+  "file": "knmi_324_2023.csv",
+  "bytes": 458971,
+  "sha256": "6ee04bd6ab98e4e0d8ecb099ff6d38e5820d39cda19a1e0b59e10298e5e862e6"
+ },
+ {
+  "station": "324",
+  "year": 2024,
+  "file": "knmi_324_2024.csv",
+  "bytes": 460219,
+  "sha256": "92b2b494647d9f01208db172464f89a08974db8e419308864a896a6857fdcc0a"
+ },
+ {
+  "station": "324",
+  "year": 2025,
+  "file": "knmi_324_2025.csv",
+  "bytes": 458971,
+  "sha256": "77b2de885ea04524dbd1fcaef304f3ff8c2af43d94af3bafc6e50465b969871c"
+ },
+ {
+  "station": "324",
+  "year": 2026,
+  "file": "knmi_324_2026.csv",
+  "bytes": 356635,
+  "sha256": "40cc8c748b23cd041d90e9e84d0c87222c1ae154b3592f43d8fa760dd642cc5d"
+ },
+ {
+  "station": "330",
+  "year": 2023,
+  "file": "knmi_330_2023.csv",
+  "bytes": 458975,
+  "sha256": "ec72f6c16b805d9048d990caea79aae730817dbaf701158d3a3abf187d79cb90"
+ },
+ {
+  "station": "330",
+  "year": 2024,
+  "file": "knmi_330_2024.csv",
+  "bytes": 460223,
+  "sha256": "1d05e2845cc068d4b0c832ea9f002de0db35f9eab8d1c56e4e53b8e402703ced"
+ },
+ {
+  "station": "330",
+  "year": 2025,
+  "file": "knmi_330_2025.csv",
+  "bytes": 458975,
+  "sha256": "5fbe98ccbc1bd7338971dad3001866a239292c69e72c05f6af2742bdd725e67b"
+ },
+ {
+  "station": "330",
+  "year": 2026,
+  "file": "knmi_330_2026.csv",
+  "bytes": 356639,
+  "sha256": "d3c341be2aa426705895e7ef95c520aa4ae1ddd3e591f72fe927e08d516a6155"
+ },
+ {
+  "station": "331",
+  "year": 2023,
+  "file": "knmi_331_2023.csv",
+  "bytes": 2203,
+  "sha256": "e35b7a59779af4133dbbe71657baa3877da05d44a864a0c3f3845bfede59a387"
+ },
+ {
+  "station": "331",
+  "year": 2024,
+  "file": "knmi_331_2024.csv",
+  "bytes": 2203,
+  "sha256": "e35b7a59779af4133dbbe71657baa3877da05d44a864a0c3f3845bfede59a387"
+ },
+ {
+  "station": "331",
+  "year": 2025,
+  "file": "knmi_331_2025.csv",
+  "bytes": 2203,
+  "sha256": "e35b7a59779af4133dbbe71657baa3877da05d44a864a0c3f3845bfede59a387"
+ },
+ {
+  "station": "331",
+  "year": 2026,
+  "file": "knmi_331_2026.csv",
+  "bytes": 2203,
+  "sha256": "e35b7a59779af4133dbbe71657baa3877da05d44a864a0c3f3845bfede59a387"
+ },
+ {
+  "station": "340",
+  "year": 2023,
+  "file": "knmi_340_2023.csv",
+  "bytes": 458978,
+  "sha256": "5e4360951c55378070f61499627290fc801e9f0346c44eb4b010506da9fd5eae"
+ },
+ {
+  "station": "340",
+  "year": 2024,
+  "file": "knmi_340_2024.csv",
+  "bytes": 460226,
+  "sha256": "6ded98125a73d4bee0b03a15c8547fbb567ed4d3561cea1495573981cc6f1c2f"
+ },
+ {
+  "station": "340",
+  "year": 2025,
+  "file": "knmi_340_2025.csv",
+  "bytes": 458978,
+  "sha256": "d84d3e9d9c550785d11f16f7af99b3847cd8bad61396f720047de5c8a8d4d877"
+ },
+ {
+  "station": "340",
+  "year": 2026,
+  "file": "knmi_340_2026.csv",
+  "bytes": 356642,
+  "sha256": "d6c972c95224e96c191368b2ab1b99733f00ea24d007a57af998e45d6d4b0e78"
+ },
+ {
+  "station": "343",
+  "year": 2023,
+  "file": "knmi_343_2023.csv",
+  "bytes": 458978,
+  "sha256": "bff55f2e4b5a966d639ca5fce7ef6654edacee38531ff36731956e2100ebc0e6"
+ },
+ {
+  "station": "343",
+  "year": 2024,
+  "file": "knmi_343_2024.csv",
+  "bytes": 460226,
+  "sha256": "5058db840910b1f4ed1be935d73d98b3bb6f2576d033bba0f9bdb0e9150df9a8"
+ },
+ {
+  "station": "343",
+  "year": 2025,
+  "file": "knmi_343_2025.csv",
+  "bytes": 458978,
+  "sha256": "5e3cf0adaa0231ef01fd095650a0473048775a60bff5e1e5e5978168470d0018"
+ },
+ {
+  "station": "343",
+  "year": 2026,
+  "file": "knmi_343_2026.csv",
+  "bytes": 356642,
+  "sha256": "56b1e0f8f55afc4c3d1e8767d57c70e7560481cbbeaf12800c8d97723ea2ae80"
+ },
+ {
+  "station": "344",
+  "year": 2023,
+  "file": "knmi_344_2023.csv",
+  "bytes": 458976,
+  "sha256": "e00017c91b6260b880266e37195ca21c5a4bc91e0d6d8029508334e4f7cb8c4d"
+ },
+ {
+  "station": "344",
+  "year": 2024,
+  "file": "knmi_344_2024.csv",
+  "bytes": 460224,
+  "sha256": "8d589f6ad9b1c8660eaf9c3a8d0788d58704fbb1f56e463668bd2cdb2977b2b1"
+ },
+ {
+  "station": "344",
+  "year": 2025,
+  "file": "knmi_344_2025.csv",
+  "bytes": 458976,
+  "sha256": "412d18a9a7f568c93ed295774ab37dbf6e0048e185d7b0315fa75e6e1d9365ef"
+ },
+ {
+  "station": "344",
+  "year": 2026,
+  "file": "knmi_344_2026.csv",
+  "bytes": 356640,
+  "sha256": "1b40ac8911582c6295cba0cee7d4d3ba2d363b4a378dbaa4c0b80f8606022977"
+ },
+ {
+  "station": "348",
+  "year": 2023,
+  "file": "knmi_348_2023.csv",
+  "bytes": 458971,
+  "sha256": "993ed6d640bde5aba6ea60649295c3446ddecf8ff61d13d7c95cfcd7d7c066ad"
+ },
+ {
+  "station": "348",
+  "year": 2024,
+  "file": "knmi_348_2024.csv",
+  "bytes": 460219,
+  "sha256": "889cdf689fa8b8983f6f1d2acf9c2e3524e5fb31b0206e44c42e346938214bd7"
+ },
+ {
+  "station": "348",
+  "year": 2025,
+  "file": "knmi_348_2025.csv",
+  "bytes": 458971,
+  "sha256": "9065f26cf9834a182f86741c8eb02fc42e741e5a7704727148ee40a0bbfb2114"
+ },
+ {
+  "station": "348",
+  "year": 2026,
+  "file": "knmi_348_2026.csv",
+  "bytes": 356635,
+  "sha256": "f292542884c4b53720242a78ccce4404f1bcc8caba8d991aa355f5e73ded293d"
+ },
+ {
+  "station": "350",
+  "year": 2023,
+  "file": "knmi_350_2023.csv",
+  "bytes": 458978,
+  "sha256": "d8ae86eeea68712672f9bb9a499299ec24cbb83d270ffabf4583e4edc5434bed"
+ },
+ {
+  "station": "350",
+  "year": 2024,
+  "file": "knmi_350_2024.csv",
+  "bytes": 460226,
+  "sha256": "9ae7f66a4df92f0b59f08bc6b3113d29785464f238cc0313d4cafec1230952c6"
+ },
+ {
+  "station": "350",
+  "year": 2025,
+  "file": "knmi_350_2025.csv",
+  "bytes": 458978,
+  "sha256": "2624f547c1f588fc15e72646073edcbdcf81b47bd159f982855fef3a080b2cf8"
+ },
+ {
+  "station": "350",
+  "year": 2026,
+  "file": "knmi_350_2026.csv",
+  "bytes": 356642,
+  "sha256": "816a3ce40f4e8b8901edf9a75f9f8cd800605ed67dbd2c37ee41144fb7cfad93"
+ },
+ {
+  "station": "356",
+  "year": 2023,
+  "file": "knmi_356_2023.csv",
+  "bytes": 458971,
+  "sha256": "7788b33f1a6a25ac46a55cdcd864125fd7bbc7856fbc0d219f967396638e7944"
+ },
+ {
+  "station": "356",
+  "year": 2024,
+  "file": "knmi_356_2024.csv",
+  "bytes": 460219,
+  "sha256": "97141880abe09bb911cdb4dadf4411dcae4e8255087c750d37bdb92c2fde415b"
+ },
+ {
+  "station": "356",
+  "year": 2025,
+  "file": "knmi_356_2025.csv",
+  "bytes": 458971,
+  "sha256": "a1cc6a041ce1ca3a222f4c02ab00b6576feb13fd9fbd758cd6bc5fde84fcfe11"
+ },
+ {
+  "station": "356",
+  "year": 2026,
+  "file": "knmi_356_2026.csv",
+  "bytes": 356635,
+  "sha256": "5d446814041124985156301024086f6ddb7bb9465cab5cfe33262ed20ad2bc50"
+ },
+ {
+  "station": "370",
+  "year": 2023,
+  "file": "knmi_370_2023.csv",
+  "bytes": 458976,
+  "sha256": "f5586075d2f6aa886b95e181eed48f51288b537259854f1ca69eabb6753df52f"
+ },
+ {
+  "station": "370",
+  "year": 2024,
+  "file": "knmi_370_2024.csv",
+  "bytes": 460224,
+  "sha256": "937d925e2ae723b789d959c685e6992bddfac00f32a445caad719351aa131d8d"
+ },
+ {
+  "station": "370",
+  "year": 2025,
+  "file": "knmi_370_2025.csv",
+  "bytes": 458976,
+  "sha256": "8e1e212455569412988b06d21813126f22875ef09388cba9a66feef4ea5cd813"
+ },
+ {
+  "station": "370",
+  "year": 2026,
+  "file": "knmi_370_2026.csv",
+  "bytes": 356640,
+  "sha256": "7449a15829b1e6a2745e02e472fe957ab93fb2ec458ee90f372c324816a0e2f7"
+ },
+ {
+  "station": "375",
+  "year": 2023,
+  "file": "knmi_375_2023.csv",
+  "bytes": 458971,
+  "sha256": "2ed3006c8a755fbd3df8f96d1725f90eaa419efe63b732443f363f141f460b2c"
+ },
+ {
+  "station": "375",
+  "year": 2024,
+  "file": "knmi_375_2024.csv",
+  "bytes": 460219,
+  "sha256": "a4ab65ff91e2e5df368a6190564caad812a1fff429f85ce51f8f58677a767c3f"
+ },
+ {
+  "station": "375",
+  "year": 2025,
+  "file": "knmi_375_2025.csv",
+  "bytes": 458971,
+  "sha256": "b55dadd747c7a2b1ebba5177d95ab1ae7aa61822784eac3639a5d0741c054c85"
+ },
+ {
+  "station": "375",
+  "year": 2026,
+  "file": "knmi_375_2026.csv",
+  "bytes": 356635,
+  "sha256": "cb3808e551c182efab22ee70b6bc91b552569d3d6726b7528586ff3026982fea"
+ },
+ {
+  "station": "377",
+  "year": 2023,
+  "file": "knmi_377_2023.csv",
+  "bytes": 458971,
+  "sha256": "da4dbae5a5ea97014dcb4f185034eb86ddc07d561bf4229cccdfa236fee9aaf8"
+ },
+ {
+  "station": "377",
+  "year": 2024,
+  "file": "knmi_377_2024.csv",
+  "bytes": 460219,
+  "sha256": "ed1ee9ee0a8015b058818e075a33a7935562ab624847f2f0ad1ad0318eadec31"
+ },
+ {
+  "station": "377",
+  "year": 2025,
+  "file": "knmi_377_2025.csv",
+  "bytes": 458971,
+  "sha256": "dede64d56fe95b1ec61f765625870797013e7a6496e85736ebd5a343007a1881"
+ },
+ {
+  "station": "377",
+  "year": 2026,
+  "file": "knmi_377_2026.csv",
+  "bytes": 356635,
+  "sha256": "76a0cd2073b07ffe84f66abe53ca9efeeddb22223820cfcd9ed8dc8ba09171d9"
+ },
+ {
+  "station": "380",
+  "year": 2023,
+  "file": "knmi_380_2023.csv",
+  "bytes": 458977,
+  "sha256": "a86d11cbc3e6928b17151cd87b92a3a495c108cdb2d4c4c0c9be9b1ed323c0cb"
+ },
+ {
+  "station": "380",
+  "year": 2024,
+  "file": "knmi_380_2024.csv",
+  "bytes": 460225,
+  "sha256": "17c737f6b9a9852167176be33e1042d89122d53e568958298c7446d7dece78ec"
+ },
+ {
+  "station": "380",
+  "year": 2025,
+  "file": "knmi_380_2025.csv",
+  "bytes": 458977,
+  "sha256": "5dd4e3715e1b2d0e53dd50131869671325edcc3c19341b0cc33f2f4fe6cbcf0e"
+ },
+ {
+  "station": "380",
+  "year": 2026,
+  "file": "knmi_380_2026.csv",
+  "bytes": 356641,
+  "sha256": "f2b7a22f3ac376f13712618fe0db8a768132c0f662ca2f5f3d63db2d078d52fb"
+ },
+ {
+  "station": "391",
+  "year": 2023,
+  "file": "knmi_391_2023.csv",
+  "bytes": 458971,
+  "sha256": "84d0ea9693154625eb2a8c155f9ecfc4a308cb4c58fbbcba61d9e91682006d3d"
+ },
+ {
+  "station": "391",
+  "year": 2024,
+  "file": "knmi_391_2024.csv",
+  "bytes": 460219,
+  "sha256": "4a4f8ab44dc670b8b374dccd47aa00a2d974d0b3ff78202f34394d998a00b245"
+ },
+ {
+  "station": "391",
+  "year": 2025,
+  "file": "knmi_391_2025.csv",
+  "bytes": 342855,
+  "sha256": "90471c02d87d3468264694161b9c562a20f01d04b1336c11501705d5a4286e9a"
+ },
+ {
+  "station": "391",
+  "year": 2026,
+  "file": "knmi_391_2026.csv",
+  "bytes": 2203,
+  "sha256": "bbd57242dab1828deefec414617b9d170c59ca175e797ddcd7708f0f18ad8b05"
+ },
+ {
+  "station": "392",
+  "year": 2023,
+  "file": "knmi_392_2023.csv",
+  "bytes": 2203,
+  "sha256": "6f662e37934b56135c621d209913a28dd6e54ac6193717f202dc0031a680b467"
+ },
+ {
+  "station": "392",
+  "year": 2024,
+  "file": "knmi_392_2024.csv",
+  "bytes": 2203,
+  "sha256": "6f662e37934b56135c621d209913a28dd6e54ac6193717f202dc0031a680b467"
+ },
+ {
+  "station": "392",
+  "year": 2025,
+  "file": "knmi_392_2025.csv",
+  "bytes": 431515,
+  "sha256": "b6145181ef8e8838ae1e8e034123da396bc3842507ae017145927010cdcfe7d6"
+ },
+ {
+  "station": "392",
+  "year": 2026,
+  "file": "knmi_392_2026.csv",
+  "bytes": 356635,
+  "sha256": "fe00d7d3092bd01cbd9d6c02670cde0380f8d1ad4e666db1091ef18f0ff3ee5a"
+ }
+]

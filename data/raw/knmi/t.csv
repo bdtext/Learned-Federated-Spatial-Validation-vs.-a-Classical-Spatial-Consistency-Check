@@ -1,0 +1,80 @@
+# Opmerking: door stationsverplaatsingen en veranderingen in waarneemmethodieken zijn deze tijdreeksen van uurwaarden mogelijk inhomogeen! Dat betekent dat deze reeks van gemeten waarden niet geschikt is voor trendanalyse. Voor studies naar klimaatverandering verwijzen we naar de gehomogeniseerde dagreeksen <http://www.knmi.nl/nederland-nu/klimatologie/daggegevens> of de Centraal Nederland Temperatuur <http://www.knmi.nl/kennis-en-datacentrum/achtergrond/centraal-nederland-temperatuur-cnt>.
+# 
+# SOURCE: ROYAL NETHERLANDS METEOROLOGICAL INSTITUTE (KNMI)
+# Comment: These time series are inhomogeneous because of station relocations and changes in observation techniques. As a result these series are not suitable for trend analysis. For climate change studies we refer to the homogenized series of daily data <http://www.knmi.nl/nederland-nu/klimatologie/daggegevens> or the Central Netherlands Temperature <http://www.knmi.nl/kennis-en-datacentrum/achtergrond/centraal-nederland-temperatuur-cnt>.
+# 
+# STN         LON(east)   LAT(north)  ALT(m)      NAME
+# 260         5.180       52.100      1.90        De Bilt     
+# YYYYMMDD  : datum (YYYY=jaar;MM=maand;DD=dag)
+# HH        : tijd (HH=uur; UT.12 UT=13 MET; 14 MEZT. Uurvak 05 loopt van 04.00 UT tot 5.00 UT
+# DD        : Windrichting (in graden) gemiddeld over de laatste 10 minuten van het afgelopen uur (360=noord; 90=oost; 180=zuid; 270=west; 0=windstil 990=veranderlijk. Zie http://www.knmi.nl/kennis-en-datacentrum/achtergrond/klimatologische-brochures-en-boeken / Mean wind direction (in degrees) during the 10-minute period preceding the time of observation (360=north; 90=east; 180=south; 270=west; 0=calm 990=variable)
+# FH        : Uurgemiddelde windsnelheid (in 0.1 m/s). Zie http://www.knmi.nl/kennis-en-datacentrum/achtergrond/klimatologische-brochures-en-boeken / Hourly mean wind speed (in 0.1 m/s)
+# FF        : Windsnelheid (in 0.1 m/s) gemiddeld over de laatste 10 minuten van het afgelopen uur / Mean wind speed (in 0.1 m/s) during the 10-minute period preceding the time of observation
+# FX        : Hoogste windstoot (in 0.1 m/s) over het afgelopen uurvak / Maximum wind gust (in 0.1 m/s) during the hourly division
+# T         : Temperatuur (in 0.1 graden Celsius) op 1.50 m hoogte tijdens de waarneming / Temperature (in 0.1 degrees Celsius) at 1.50 m at the time of observation
+# T10N      : Minimumtemperatuur (in 0.1 graden Celsius) op 10 cm hoogte in de afgelopen 6 uur / Minimum temperature (in 0.1 degrees Celsius) at 0.1 m in the preceding 6-hour period
+# TD        : Dauwpuntstemperatuur (in 0.1 graden Celsius) op 1.50 m hoogte tijdens de waarneming / Dew point temperature (in 0.1 degrees Celsius) at 1.50 m at the time of observation
+# SQ        : Duur van de zonneschijn (in 0.1 uren) per uurvak; berekend uit globale straling  (-1 for <0.05 uur) / Sunshine duration (in 0.1 hour) during the hourly division; calculated from global radiation (-1 for <0.05 hour)
+# Q         : Globale straling (in J/cm2) per uurvak / Global radiation (in J/cm2) during the hourly division
+# DR        : Duur van de neerslag (in 0.1 uur) per uurvak / Precipitation duration (in 0.1 hour) during the hourly division
+# RH        : Uursom van de neerslag (in 0.1 mm) (-1 voor <0.05 mm) / Hourly precipitation amount (in 0.1 mm) (-1 for <0.05 mm)
+# P         : Luchtdruk (in 0.1 hPa) herleid naar zeeniveau; tijdens de waarneming / Air pressure (in 0.1 hPa) reduced to mean sea level; at the time of observation
+# VV        : Horizontaal zicht tijdens de waarneming (0=minder dan 100m; 1=100-200m; 2=200-300m;...; 49=4900-5000m; 50=5-6km; 56=6-7km; 57=7-8km; ...; 79=29-30km; 80=30-35km; 81=35-40km;...; 89=meer dan 70km) / Horizontal visibility at the time of observation (0=less than 100m; 1=100-200m; 2=200-300m;...; 49=4900-5000m; 50=5-6km; 56=6-7km; 57=7-8km; ...; 79=29-30km; 80=30-35km; 81=35-40km;...; 89=more than 70km)
+# N         : Bewolking (bedekkingsgraad van de bovenlucht in achtsten); tijdens de waarneming (9=bovenlucht onzichtbaar) / Cloud cover (in octants); at the time of observation (9=sky invisible)
+# U         : Relatieve vochtigheid (in procenten) op 1.50 m hoogte tijdens de waarneming / Relative atmospheric humidity (in percents) at 1.50 m at the time of observation
+# WW        : Weercode (00-99); visueel(WW) of automatisch(WaWa) waargenomen; voor het actuele weer of het weer in het afgelopen uur. Zie http://bibliotheek.knmi.nl/scholierenpdf/weercodes_Nederland / Present weather code (00-99); description for the hourly division.
+# IX        : Weercode indicator voor de wijze van waarnemen op een bemand of automatisch station (1=bemand gebruikmakend van code uit visuele waarnemingen; 2;3=bemand en weggelaten (geen belangrijk weersverschijnsel; geen gegevens); 4=automatisch en opgenomen (gebruikmakend van code uit visuele waarnemingen); 5;6=automatisch en weggelaten (geen belangrijk weersverschijnsel; geen gegevens); 7=automatisch gebruikmakend van code uit automatische waarnemingen) / Indicator present weather code (1=manned and recorded (using code from visual observations); 2;3=manned and omitted (no significant weather phenomenon to report; not available); 4=automatically recorded (using code from visual observations); 5;6=automatically omitted (no significant weather phenomenon to report; not available); 7=automatically set (using code from automated observations)
+# M         : Mist 0=niet voorgekomen; 1=wel voorgekomen in het voorgaande uur en/of tijdens de waarneming / Fog 0=no occurrence; 1=occurred during the preceding hour and/or at the time of observation
+# R         : Regen 0=niet voorgekomen; 1=wel voorgekomen in het voorgaande uur en/of tijdens de waarneming / Rainfall 0=no occurrence; 1=occurred during the preceding hour and/or at the time of observation
+# S         : Sneeuw 0=niet voorgekomen; 1=wel voorgekomen in het voorgaande uur en/of tijdens de waarneming / Snow 0=no occurrence; 1=occurred during the preceding hour and/or at the time of observation
+# O         : Onweer 0=niet voorgekomen; 1=wel voorgekomen in het voorgaande uur en/of tijdens de waarneming / Thunder  0=no occurrence; 1=occurred during the preceding hour and/or at the time of observation
+# Y         : IJsvorming 0=niet voorgekomen; 1=wel voorgekomen in het voorgaande uur en/of tijdens de waarneming / Ice formation 0=no occurrence; 1=occurred during the preceding hour and/or at the time of observation
+# STN,YYYYMMDD,HH,   DD,   FH,   FF,   FX,    T, T10N,   TD,   SQ,    Q,   DR,   RH,    P,   VV,    N,    U,   WW,   IX,    M,    R,    S,    O,    Y
+  260,20240101,    1,  200,   90,   90,  170,   78,     ,   44,    0,    0,    0,   -1, 9962,   75,    8,   79,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,    2,  200,   80,   80,  150,   76,     ,   46,    0,    0,    0,   -1, 9966,   70,    8,   81,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,    3,  210,   80,   70,  140,   70,     ,   55,    0,    0,    7,   10, 9967,   68,    8,   90,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,    4,  200,   80,   80,  130,   74,     ,   60,    0,    0,    8,    4, 9967,   62,    8,   90,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,    5,  210,   80,   80,  140,   73,     ,   59,    0,    0,   10,    6, 9973,   65,    8,   90,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,    6,  220,   70,   60,  130,   73,   60,   60,    0,    0,    7,    8, 9980,   65,    8,   91,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,    7,  230,   70,   50,  130,   72,     ,   63,    0,    0,    8,   18, 9990,   57,    8,   93,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,    8,  220,   60,   50,  130,   71,     ,   61,    0,    0,    6,    6,10000,   64,    8,   93,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,    9,  220,   50,   40,   90,   71,     ,   60,    0,    3,    5,   15,10009,   65,    8,   92,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,   10,  240,   50,   50,   90,   74,     ,   54,    0,   10,    4,    4,10020,   70,    8,   87,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,   11,  230,   40,   40,   90,   81,     ,   62,    3,   35,    2,    2,10022,   70,    8,   87,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,   12,  230,   40,   40,   90,   89,   61,   57,    0,   38,    1,    1,10028,   71,    8,   80,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,   13,  230,   50,   40,  100,   81,     ,   53,    0,   20,    1,   15,10032,   70,    7,   82,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,   14,  230,   50,   40,   90,   78,     ,   51,    2,   26,    0,    0,10038,   70,    4,   83,     ,     ,    0,    0,    0,    0,    0
+  260,20240101,   15,  240,   40,   40,   80,   78,     ,   47,    0,    9,    0,    0,10042,   75,    3,   80,     ,     ,    0,    0,    0,    0,    0
+  260,20240101,   16,  230,   40,   40,   80,   75,     ,   43,    0,    1,    0,    0,10049,   73,    5,   80,     ,     ,    0,    0,    0,    0,    0
+  260,20240101,   17,  210,   40,   50,   80,   74,     ,   48,    0,    0,    0,    0,10050,   70,    7,   83,     ,     ,    0,    0,    0,    0,    0
+  260,20240101,   18,  200,   50,   50,   80,   68,   50,   52,    0,    0,    0,    0,10052,   68,    8,   89,     ,     ,    0,    0,    0,    0,    0
+  260,20240101,   19,  200,   50,   50,   80,   64,     ,   49,    0,    0,    0,    0,10050,   70,    8,   89,     ,     ,    0,    0,    0,    0,    0
+  260,20240101,   20,  190,   40,   30,   80,   67,     ,   43,    0,    0,    0,    0,10044,   70,    8,   84,     ,     ,    0,    0,    0,    0,    0
+  260,20240101,   21,  190,   40,   50,   80,   70,     ,   42,    0,    0,    0,    0,10036,   70,    8,   82,     ,     ,    0,    0,    0,    0,    0
+  260,20240101,   22,  180,   50,   40,   90,   71,     ,   52,    0,    0,    4,    1,10027,   70,    8,   88,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,   23,  160,   50,   50,   90,   68,     ,   59,    0,    0,   10,    4,10013,   60,    8,   93,     ,     ,    0,    1,    0,    0,    0
+  260,20240101,   24,  150,   40,   50,   90,   68,   52,   61,    0,    0,   10,    9, 9992,   61,    8,   95,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,    1,  160,   50,   50,  100,   70,     ,   64,    0,    0,   10,   15, 9969,   61,    8,   95,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,    2,  150,   60,   60,  100,   72,     ,   66,    0,    0,   10,   20, 9945,   60,    8,   96,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,    3,  160,   60,   60,  110,   76,     ,   69,    0,    0,   10,   28, 9923,   60,    8,   95,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,    4,  170,   50,   50,  100,   79,     ,   76,    0,    0,   10,   23, 9908,   50,    8,   97,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,    5,  200,   60,   50,  110,   90,     ,   87,    0,    0,   10,    8, 9900,   40,    8,   98,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,    6,  230,   60,   60,  110,  105,   63,  102,    0,    0,   10,    7, 9901,   41,    8,   98,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,    7,  240,   50,   60,  110,  115,     ,  104,    0,    0,    1,    1, 9910,   65,    8,   92,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,    8,  230,   50,   60,  110,  113,     ,   99,    0,    0,    0,    0, 9919,   64,    8,   91,     ,     ,    0,    0,    0,    0,    0
+  260,20240102,    9,  230,   50,   40,   90,  112,     ,   98,    0,    8,    0,    0, 9915,   63,    8,   90,     ,     ,    0,    0,    0,    0,    0
+  260,20240102,   10,  230,   50,   50,   90,  117,     ,  103,    0,   20,    0,    0, 9917,   61,    8,   91,     ,     ,    0,    0,    0,    0,    0
+  260,20240102,   11,  210,   40,   40,   80,  118,     ,  106,    0,   12,    0,   -1, 9907,   61,    8,   92,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   12,  200,   40,   60,  110,  117,   99,  107,    0,    8,    6,    4, 9897,   64,    8,   93,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   13,  180,   50,   60,   90,  112,     ,  105,    0,    9,   10,    8, 9879,   65,    8,   95,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   14,  170,   50,   50,   90,  107,     ,  102,    0,    8,   10,   14, 9863,   65,    8,   96,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   15,  180,   50,   50,   90,  111,     ,  106,    0,    2,   10,   13, 9850,   65,    8,   97,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   16,  170,   60,   60,  120,  112,     ,  108,    0,    0,   10,   29, 9830,   57,    8,   97,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   17,  200,   70,   60,  130,  116,     ,  108,    0,    0,    8,   13, 9819,   57,    8,   94,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   18,  210,   80,   90,  150,  127,  102,  102,    0,    0,    3,    1, 9811,   70,    8,   84,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   19,  220,  100,  110,  220,  122,     ,   76,    0,    0,    2,    4, 9812,   75,    8,   73,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   20,  220,  110,  120,  200,  121,     ,   71,    0,    0,    0,    0, 9810,   75,    8,   71,     ,     ,    0,    0,    0,    0,    0
+  260,20240102,   21,  230,  120,  110,  210,  107,     ,   84,    0,    0,    0,   -1, 9819,   67,    8,   85,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   22,  240,   90,   90,  190,  103,     ,   84,    0,    0,    6,    7, 9827,   60,    8,   88,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   23,  250,   90,   80,  200,   93,     ,   86,    0,    0,    5,   31, 9837,   26,    8,   95,     ,     ,    0,    1,    0,    0,    0
+  260,20240102,   24,  240,   90,  100,  200,   98,   87,   74,    0,    0,    7,   14, 9845,   57,    8,   85,     ,     ,    0,    1,    0,    0,    0

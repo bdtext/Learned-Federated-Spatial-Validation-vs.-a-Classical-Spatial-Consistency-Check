@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html class="js flexbox backgroundsize csscolumns cssfilters">
+<head>
+<title>
+{:info=&gt;&quot;Informatie&quot;, :day_values=&gt;&quot;Dagwaarden van weerstations&quot;, :birthday_weather=&gt;&quot;Weer op je geboortedag&quot;, :hour_values=&gt;&quot;Uurwaarden van weerstations&quot;, :day_precipitation=&gt;&quot;Dagwaarden neerslagstations&quot;}
+</title>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zPMSU4a2fZm1gQalQ8WBUSrLrDEBIRY3-RuynwH8zT5R-8Am9BBCJGgjE3peS9O7V37SEF-4vPCGQIsRdd3XXw" />
+
+<link rel="stylesheet" media="all" href="/assets/application-678c978630464f4732c2f110d983db44cda0f016e4c077cf2b467224cf3e9013.css" />
+<script src="/assets/application-f2576fa522811f09c8a30bfdfde0c1ff2ed8bd07af996f8d5d598c6d81213fe4.js" type="module"></script>
+</head>
+<body>
+<header class="site-header">
+<div class="wrapper relative">
+<div class="site-header__logowrp">
+<a href="/">
+<img alt="Logo Koninklijk Nederlands Meteorologisch Instituut | Ministerie van Infrastructuur en Waterstaat" class="b-lazy site-header__logo b-error b-loaded" src="https://cdn.knmi.nl/assets/logo_large-a9be0e49aed0aa1f72a7da54d348d14ce94d070e7950f67dbc85039f0574ca48.png">
+<noscript>
+<img alt="Logo KNMI" class="site-header__logo" height="79" src="https://cdn.knmi.nl/assets/logo_large-a9be0e49aed0aa1f72a7da54d348d14ce94d070e7950f67dbc85039f0574ca48.png" width="230">
+</noscript>
+</a>
+</div>
+</div>
+</header>
+
+<div class="wrapper--navbar">
+<div class="main-navbar" style="border-bottom-width: 10px;">
+<nav>
+<ul>
+<li>
+<a class="" href="https://www.daggegevens.knmi.nl/klimatologie/daggegevens">
+Weerstations
+<span class="nav-toggle icon-arrow-small-down"></span>
+</a>
+</li>
+<li>
+<a class="" href="https://www.daggegevens.knmi.nl/klimatologie/monv/reeksen">
+Regenstations
+</a>
+</li>
+<li>
+<a class="" href="https://www.daggegevens.knmi.nl/klimatologie/info">
+Info
+</a>
+</li>
+</ul>
+</nav>
+<a class="icon-menu main-navbar__toggle" href="#">Menu</a>
+</div>
+<div class="main-navbar__sub">
+<nav>
+<ul>
+</ul>
+</nav>
+</div>
+</div>
+
+<div class="wrapper">
+<div class="columns vspace padding-bottom-0 filled-main-content">
+<div class="col-sm-10 col-sm-offset-1 col-lg-12">
+<h2>
+Query Error
+</h2>
+De query geeft te veel resultaten terug. Pas uw parameters aan!
+</div>
+</div>
+</div>
+
+</body>
+</html>

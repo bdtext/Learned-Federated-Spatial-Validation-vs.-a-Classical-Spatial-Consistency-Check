@@ -1,0 +1,111 @@
+# Opmerking: door stationsverplaatsingen en veranderingen in waarneemmethodieken zijn deze tijdreeksen van uurwaarden mogelijk inhomogeen! Dat betekent dat deze reeks van gemeten waarden niet geschikt is voor trendanalyse. Voor studies naar klimaatverandering verwijzen we naar de gehomogeniseerde dagreeksen <http://www.knmi.nl/nederland-nu/klimatologie/daggegevens> of de Centraal Nederland Temperatuur <http://www.knmi.nl/kennis-en-datacentrum/achtergrond/centraal-nederland-temperatuur-cnt>.
+# 
+# SOURCE: ROYAL NETHERLANDS METEOROLOGICAL INSTITUTE (KNMI)
+# Comment: These time series are inhomogeneous because of station relocations and changes in observation techniques. As a result these series are not suitable for trend analysis. For climate change studies we refer to the homogenized series of daily data <http://www.knmi.nl/nederland-nu/klimatologie/daggegevens> or the Central Netherlands Temperature <http://www.knmi.nl/kennis-en-datacentrum/achtergrond/centraal-nederland-temperatuur-cnt>.
+# 
+# STN         LON(east)   LAT(north)  ALT(m)      NAME
+# 260         5.180       52.100      1.90        De Bilt     
+# YYYYMMDD  : datum (YYYY=jaar;MM=maand;DD=dag)
+# HH        : tijd (HH=uur; UT.12 UT=13 MET; 14 MEZT. Uurvak 05 loopt van 04.00 UT tot 5.00 UT
+# T         : Temperatuur (in 0.1 graden Celsius) op 1.50 m hoogte tijdens de waarneming / Temperature (in 0.1 degrees Celsius) at 1.50 m at the time of observation
+# RH        : Uursom van de neerslag (in 0.1 mm) (-1 voor <0.05 mm) / Hourly precipitation amount (in 0.1 mm) (-1 for <0.05 mm)
+# P         : Luchtdruk (in 0.1 hPa) herleid naar zeeniveau; tijdens de waarneming / Air pressure (in 0.1 hPa) reduced to mean sea level; at the time of observation
+# FH        : Uurgemiddelde windsnelheid (in 0.1 m/s). Zie http://www.knmi.nl/kennis-en-datacentrum/achtergrond/klimatologische-brochures-en-boeken / Hourly mean wind speed (in 0.1 m/s)
+# TD        : Dauwpuntstemperatuur (in 0.1 graden Celsius) op 1.50 m hoogte tijdens de waarneming / Dew point temperature (in 0.1 degrees Celsius) at 1.50 m at the time of observation
+# STN,YYYYMMDD,HH,    T,   RH,    P,   FH,   TD
+  260,20240101,    1,   78,   -1, 9962,   90,   44
+  260,20240101,    2,   76,   -1, 9966,   80,   46
+  260,20240101,    3,   70,   10, 9967,   80,   55
+  260,20240101,    4,   74,    4, 9967,   80,   60
+  260,20240101,    5,   73,    6, 9973,   80,   59
+  260,20240101,    6,   73,    8, 9980,   70,   60
+  260,20240101,    7,   72,   18, 9990,   70,   63
+  260,20240101,    8,   71,    6,10000,   60,   61
+  260,20240101,    9,   71,   15,10009,   50,   60
+  260,20240101,   10,   74,    4,10020,   50,   54
+  260,20240101,   11,   81,    2,10022,   40,   62
+  260,20240101,   12,   89,    1,10028,   40,   57
+  260,20240101,   13,   81,   15,10032,   50,   53
+  260,20240101,   14,   78,    0,10038,   50,   51
+  260,20240101,   15,   78,    0,10042,   40,   47
+  260,20240101,   16,   75,    0,10049,   40,   43
+  260,20240101,   17,   74,    0,10050,   40,   48
+  260,20240101,   18,   68,    0,10052,   50,   52
+  260,20240101,   19,   64,    0,10050,   50,   49
+  260,20240101,   20,   67,    0,10044,   40,   43
+  260,20240101,   21,   70,    0,10036,   40,   42
+  260,20240101,   22,   71,    1,10027,   50,   52
+  260,20240101,   23,   68,    4,10013,   50,   59
+  260,20240101,   24,   68,    9, 9992,   40,   61
+  260,20240102,    1,   70,   15, 9969,   50,   64
+  260,20240102,    2,   72,   20, 9945,   60,   66
+  260,20240102,    3,   76,   28, 9923,   60,   69
+  260,20240102,    4,   79,   23, 9908,   50,   76
+  260,20240102,    5,   90,    8, 9900,   60,   87
+  260,20240102,    6,  105,    7, 9901,   60,  102
+  260,20240102,    7,  115,    1, 9910,   50,  104
+  260,20240102,    8,  113,    0, 9919,   50,   99
+  260,20240102,    9,  112,    0, 9915,   50,   98
+  260,20240102,   10,  117,    0, 9917,   50,  103
+  260,20240102,   11,  118,   -1, 9907,   40,  106
+  260,20240102,   12,  117,    4, 9897,   40,  107
+  260,20240102,   13,  112,    8, 9879,   50,  105
+  260,20240102,   14,  107,   14, 9863,   50,  102
+  260,20240102,   15,  111,   13, 9850,   50,  106
+  260,20240102,   16,  112,   29, 9830,   60,  108
+  260,20240102,   17,  116,   13, 9819,   70,  108
+  260,20240102,   18,  127,    1, 9811,   80,  102
+  260,20240102,   19,  122,    4, 9812,  100,   76
+  260,20240102,   20,  121,    0, 9810,  110,   71
+  260,20240102,   21,  107,   -1, 9819,  120,   84
+  260,20240102,   22,  103,    7, 9827,   90,   84
+  260,20240102,   23,   93,   31, 9837,   90,   86
+  260,20240102,   24,   98,   14, 9845,   90,   74
+  260,20240103,    1,  104,   27, 9853,   80,   70
+  260,20240103,    2,  109,   -1, 9863,  100,   66
+  260,20240103,    3,  108,    0, 9870,   90,   67
+  260,20240103,    4,  106,    0, 9873,   80,   75
+  260,20240103,    5,  106,    0, 9876,   70,   76
+  260,20240103,    6,  102,    3, 9877,   70,   78
+  260,20240103,    7,   97,   -1, 9880,   80,   80
+  260,20240103,    8,   91,    5, 9886,   60,   77
+  260,20240103,    9,   99,   -1, 9890,   60,   81
+  260,20240103,   10,   94,   10, 9896,   50,   87
+  260,20240103,   11,  101,    6, 9898,   60,   82
+  260,20240103,   12,  106,   -1, 9896,   60,   78
+  260,20240103,   13,  102,   -1, 9891,   50,   78
+  260,20240103,   14,   97,   -1, 9890,   50,   82
+  260,20240103,   15,   91,    9, 9891,   60,   74
+  260,20240103,   16,   89,   -1, 9887,   50,   72
+  260,20240103,   17,   88,   12, 9889,   40,   77
+  260,20240103,   18,   86,   16, 9892,   40,   74
+  260,20240103,   19,   81,    8, 9897,   30,   70
+  260,20240103,   20,   84,    8, 9902,   40,   74
+  260,20240103,   21,   81,   -1, 9913,   40,   69
+  260,20240103,   22,   80,    3, 9920,   30,   72
+  260,20240103,   23,   82,   17, 9931,   30,   76
+  260,20240103,   24,   83,    0, 9943,   30,   74
+  260,20240104,    1,   81,   -1, 9955,   30,   70
+  260,20240104,    2,   81,   -1, 9968,   30,   71
+  260,20240104,    3,   78,    9, 9975,   20,   74
+  260,20240104,    4,   77,    2, 9981,   20,   73
+  260,20240104,    5,   73,   27, 9990,   20,   69
+  260,20240104,    6,   73,   12, 9997,   20,   69
+  260,20240104,    7,   73,    3,10005,   20,   69
+  260,20240104,    8,   71,   -1,10013,   10,   68
+  260,20240104,    9,   75,   -1,10019,   10,   71
+  260,20240104,   10,   79,    2,10025,   20,   76
+  260,20240104,   11,   84,    2,10028,   30,   76
+  260,20240104,   12,   91,    6,10029,   30,   78
+  260,20240104,   13,   89,   -1,10028,   20,   71
+  260,20240104,   14,   83,   -1,10031,   30,   60
+  260,20240104,   15,   81,   -1,10032,   30,   70
+  260,20240104,   16,   81,    0,10035,   30,   68
+  260,20240104,   17,   70,    0,10035,   30,   59
+  260,20240104,   18,   63,    0,10034,   20,   56
+  260,20240104,   19,   63,    0,10031,   20,   58
+  260,20240104,   20,   67,    0,10024,   20,   58
+  260,20240104,   21,   69,    2,10018,   30,   62
+  260,20240104,   22,   70,   18,10009,   30,   66
+  260,20240104,   23,   72,   13, 9998,   40,   68
+  260,20240104,   24,   75,   10, 9986,   40,   71

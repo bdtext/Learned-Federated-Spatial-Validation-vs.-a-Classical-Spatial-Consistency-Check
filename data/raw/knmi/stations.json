@@ -1,0 +1,359 @@
+[
+ {
+  "id": "209",
+  "lon": 4.518,
+  "lat": 52.465,
+  "elev": 0.0,
+  "name": "IJmond"
+ },
+ {
+  "id": "210",
+  "lon": 4.43,
+  "lat": 52.171,
+  "elev": -0.2,
+  "name": "VALKENBURG VK"
+ },
+ {
+  "id": "215",
+  "lon": 4.437,
+  "lat": 52.141,
+  "elev": -1.1,
+  "name": "Voorschoten"
+ },
+ {
+  "id": "225",
+  "lon": 4.555,
+  "lat": 52.463,
+  "elev": 4.4,
+  "name": "IJmuiden"
+ },
+ {
+  "id": "235",
+  "lon": 4.781,
+  "lat": 52.928,
+  "elev": 1.2,
+  "name": "De Kooy Airport"
+ },
+ {
+  "id": "240",
+  "lon": 4.79,
+  "lat": 52.318,
+  "elev": -3.3,
+  "name": "Schiphol Airport"
+ },
+ {
+  "id": "242",
+  "lon": 4.921,
+  "lat": 53.241,
+  "elev": 10.8,
+  "name": "Vlieland Vliehors"
+ },
+ {
+  "id": "248",
+  "lon": 5.174,
+  "lat": 52.634,
+  "elev": 0.8,
+  "name": "Wijdenes"
+ },
+ {
+  "id": "249",
+  "lon": 4.979,
+  "lat": 52.644,
+  "elev": -2.4,
+  "name": "Berkhout"
+ },
+ {
+  "id": "251",
+  "lon": 5.346,
+  "lat": 53.392,
+  "elev": 0.7,
+  "name": "Hoorn Terschelling"
+ },
+ {
+  "id": "257",
+  "lon": 4.603,
+  "lat": 52.506,
+  "elev": 8.5,
+  "name": "Wijk aan Zee"
+ },
+ {
+  "id": "258",
+  "lon": 5.401,
+  "lat": 52.649,
+  "elev": 7.3,
+  "name": "Houtribdijk"
+ },
+ {
+  "id": "260",
+  "lon": 5.18,
+  "lat": 52.1,
+  "elev": 1.9,
+  "name": "De Bilt"
+ },
+ {
+  "id": "265",
+  "lon": 5.274,
+  "lat": 52.13,
+  "elev": 13.9,
+  "name": "Soesterberg"
+ },
+ {
+  "id": "267",
+  "lon": 5.384,
+  "lat": 52.898,
+  "elev": -1.3,
+  "name": "Stavoren"
+ },
+ {
+  "id": "269",
+  "lon": 5.52,
+  "lat": 52.458,
+  "elev": -3.7,
+  "name": "Lelystad Airport"
+ },
+ {
+  "id": "270",
+  "lon": 5.752,
+  "lat": 53.224,
+  "elev": 1.2,
+  "name": "Leeuwarden Airport"
+ },
+ {
+  "id": "273",
+  "lon": 5.888,
+  "lat": 52.703,
+  "elev": -3.3,
+  "name": "Marknesse"
+ },
+ {
+  "id": "275",
+  "lon": 5.873,
+  "lat": 52.056,
+  "elev": 48.2,
+  "name": "Deelen Airport"
+ },
+ {
+  "id": "277",
+  "lon": 6.2,
+  "lat": 53.413,
+  "elev": 2.9,
+  "name": "Lauwersoog"
+ },
+ {
+  "id": "278",
+  "lon": 6.259,
+  "lat": 52.435,
+  "elev": 3.6,
+  "name": "Heino"
+ },
+ {
+  "id": "279",
+  "lon": 6.574,
+  "lat": 52.75,
+  "elev": 15.8,
+  "name": "Hoogeveen"
+ },
+ {
+  "id": "280",
+  "lon": 6.585,
+  "lat": 53.125,
+  "elev": 5.2,
+  "name": "Groningen Airport Eelde"
+ },
+ {
+  "id": "283",
+  "lon": 6.657,
+  "lat": 52.069,
+  "elev": 29.1,
+  "name": "Hupsel"
+ },
+ {
+  "id": "285",
+  "lon": 6.399,
+  "lat": 53.575,
+  "elev": 0.0,
+  "name": "Huibertgat"
+ },
+ {
+  "id": "286",
+  "lon": 7.15,
+  "lat": 53.196,
+  "elev": -0.2,
+  "name": "Nieuw Beerta"
+ },
+ {
+  "id": "290",
+  "lon": 6.891,
+  "lat": 52.274,
+  "elev": 34.8,
+  "name": "Twenthe Airport"
+ },
+ {
+  "id": "308",
+  "lon": 3.379,
+  "lat": 51.381,
+  "elev": 0.0,
+  "name": "Cadzand"
+ },
+ {
+  "id": "310",
+  "lon": 3.596,
+  "lat": 51.442,
+  "elev": 8.0,
+  "name": "Vlissingen"
+ },
+ {
+  "id": "311",
+  "lon": 3.672,
+  "lat": 51.379,
+  "elev": 0.0,
+  "name": "Hoofdplaat"
+ },
+ {
+  "id": "312",
+  "lon": 3.622,
+  "lat": 51.768,
+  "elev": 0.0,
+  "name": "Oosterschelde"
+ },
+ {
+  "id": "313",
+  "lon": 3.242,
+  "lat": 51.505,
+  "elev": 0.0,
+  "name": "Vlakte van De Raan"
+ },
+ {
+  "id": "315",
+  "lon": 3.998,
+  "lat": 51.447,
+  "elev": 0.0,
+  "name": "Hansweert"
+ },
+ {
+  "id": "316",
+  "lon": 3.694,
+  "lat": 51.657,
+  "elev": 0.0,
+  "name": "Schaar"
+ },
+ {
+  "id": "319",
+  "lon": 3.861,
+  "lat": 51.226,
+  "elev": 1.7,
+  "name": "Westdorpe"
+ },
+ {
+  "id": "323",
+  "lon": 3.884,
+  "lat": 51.527,
+  "elev": 1.4,
+  "name": "Wilhelminadorp"
+ },
+ {
+  "id": "324",
+  "lon": 4.006,
+  "lat": 51.596,
+  "elev": 0.0,
+  "name": "Stavenisse"
+ },
+ {
+  "id": "330",
+  "lon": 4.122,
+  "lat": 51.992,
+  "elev": 11.9,
+  "name": "Hoek van Holland"
+ },
+ {
+  "id": "331",
+  "lon": 4.193,
+  "lat": 51.48,
+  "elev": 0.0,
+  "name": "Tholen"
+ },
+ {
+  "id": "340",
+  "lon": 4.342,
+  "lat": 51.449,
+  "elev": 19.2,
+  "name": "Woensdrecht Airport"
+ },
+ {
+  "id": "343",
+  "lon": 4.313,
+  "lat": 51.893,
+  "elev": 3.5,
+  "name": "Rotterdam Geulhaven"
+ },
+ {
+  "id": "344",
+  "lon": 4.447,
+  "lat": 51.962,
+  "elev": -4.3,
+  "name": "Rotterdam Airport"
+ },
+ {
+  "id": "348",
+  "lon": 4.926,
+  "lat": 51.97,
+  "elev": -0.7,
+  "name": "Cabauw"
+ },
+ {
+  "id": "350",
+  "lon": 4.936,
+  "lat": 51.566,
+  "elev": 14.9,
+  "name": "Gilze-Rijen Airport"
+ },
+ {
+  "id": "356",
+  "lon": 5.146,
+  "lat": 51.859,
+  "elev": 0.7,
+  "name": "Herwijnen"
+ },
+ {
+  "id": "370",
+  "lon": 5.377,
+  "lat": 51.451,
+  "elev": 22.6,
+  "name": "Eindhoven Airport"
+ },
+ {
+  "id": "375",
+  "lon": 5.707,
+  "lat": 51.659,
+  "elev": 22.0,
+  "name": "Volkel"
+ },
+ {
+  "id": "377",
+  "lon": 5.763,
+  "lat": 51.198,
+  "elev": 30.0,
+  "name": "Ell"
+ },
+ {
+  "id": "380",
+  "lon": 5.762,
+  "lat": 50.906,
+  "elev": 114.3,
+  "name": "Maastricht Airport"
+ },
+ {
+  "id": "391",
+  "lon": 6.197,
+  "lat": 51.498,
+  "elev": 19.5,
+  "name": "Arcen"
+ },
+ {
+  "id": "392",
+  "lon": 6.056189,
+  "lat": 51.486836,
+  "elev": 21.88,
+  "name": "Horst"
+ }
+]
