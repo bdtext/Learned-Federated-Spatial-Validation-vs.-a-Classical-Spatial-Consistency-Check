@@ -1,0 +1,954 @@
+[
+ {
+  "city": "Vancouver",
+  "ghcnh": "CAN01108395",
+  "file": "GHCNh_CAN01108395_2023.psv",
+  "bytes": 9195167,
+  "sha256": "58874f3d32a0343f3d56b0c5eddcf94ef1148618b7e707c747ea2fd7a7204ffc"
+ },
+ {
+  "city": "Vancouver",
+  "ghcnh": "CAN01108395",
+  "file": "GHCNh_CAN01108395_2024.psv",
+  "bytes": 9292435,
+  "sha256": "e66e73e84f8c2df62da2d5d82c1bf3c88ac92f7d70ae0bb299d725850f9121ae"
+ },
+ {
+  "city": "Vancouver",
+  "ghcnh": "CAN01108395",
+  "file": "GHCNh_CAN01108395_2025.psv",
+  "bytes": 8823021,
+  "sha256": "6067e1cfbf6c16ba92449a36d8ef827253e604ec24c5650f3388051e1637f9be"
+ },
+ {
+  "city": "Vancouver",
+  "ghcnh": "CAN01108395",
+  "file": "GHCNh_CAN01108395_2026.psv",
+  "bytes": 6648706,
+  "sha256": "6ed0e8db1cfd1fdea4edc0837d4bad959b0a7c053d53f8239dfb9253f56415a0"
+ },
+ {
+  "city": "Portland",
+  "ghcnh": "USW00024229",
+  "file": "GHCNh_USW00024229_2023.psv",
+  "bytes": 11903311,
+  "sha256": "bcd772d0827ef9aa3110ce1bc617befda1c385072a5881f6fc562e18fa37ad38"
+ },
+ {
+  "city": "Portland",
+  "ghcnh": "USW00024229",
+  "file": "GHCNh_USW00024229_2024.psv",
+  "bytes": 12429307,
+  "sha256": "a0ed692219121284850b553cc4989d5762f0e33cf252f0d0b721440aba5cab93"
+ },
+ {
+  "city": "Portland",
+  "ghcnh": "USW00024229",
+  "file": "GHCNh_USW00024229_2025.psv",
+  "bytes": 11831186,
+  "sha256": "4540978c9b5083a5407f74cb038369c2c7840e7fac787269195f7663a58b9b99"
+ },
+ {
+  "city": "Portland",
+  "ghcnh": "USW00024229",
+  "file": "GHCNh_USW00024229_2026.psv",
+  "bytes": 31937675,
+  "sha256": "f7dd86bd6a84919c222450d5677b21273b8cf8916b425b5368ee89512d951338"
+ },
+ {
+  "city": "San Francisco",
+  "ghcnh": "USW00023234",
+  "file": "GHCNh_USW00023234_2023.psv",
+  "bytes": 11186249,
+  "sha256": "0da86c7a7b03424af1542da0eee3fb54d5a9ba4675e8e6dd95df19c9d23c7880"
+ },
+ {
+  "city": "San Francisco",
+  "ghcnh": "USW00023234",
+  "file": "GHCNh_USW00023234_2024.psv",
+  "bytes": 11970018,
+  "sha256": "5f4b0c8513e5793698886836795aa8b8a7dac5793ef4e4cb6a9368e7c4e7c1f3"
+ },
+ {
+  "city": "San Francisco",
+  "ghcnh": "USW00023234",
+  "file": "GHCNh_USW00023234_2025.psv",
+  "bytes": 11571236,
+  "sha256": "ea78ad944f2409713f51482c900aad8fdbcb1082777f79d1e8566517f6ddcf65"
+ },
+ {
+  "city": "San Francisco",
+  "ghcnh": "USW00023234",
+  "file": "GHCNh_USW00023234_2026.psv",
+  "bytes": 32665165,
+  "sha256": "b4432e3d61a66ead96c803560065f9b8e7b050e468f1a147f2ff4d150eccceba"
+ },
+ {
+  "city": "Seattle",
+  "ghcnh": "USW00024233",
+  "file": "GHCNh_USW00024233_2023.psv",
+  "bytes": 12380205,
+  "sha256": "8f129fb67387b5720d343bb8c2a3cb5a0a7ca37a24185426070e1ece58d0663a"
+ },
+ {
+  "city": "Seattle",
+  "ghcnh": "USW00024233",
+  "file": "GHCNh_USW00024233_2024.psv",
+  "bytes": 12881375,
+  "sha256": "6f850d4d890510500ff7e4ecffdf552088fe1c20afbc2223fd215f67e6544581"
+ },
+ {
+  "city": "Seattle",
+  "ghcnh": "USW00024233",
+  "file": "GHCNh_USW00024233_2025.psv",
+  "bytes": 12159373,
+  "sha256": "8d4b2f88d50d3fc55cd2a3e1bbe474491b86abcdbecfd0c4692336ec6f1a5c38"
+ },
+ {
+  "city": "Seattle",
+  "ghcnh": "USW00024233",
+  "file": "GHCNh_USW00024233_2026.psv",
+  "bytes": 34335708,
+  "sha256": "3fb47ddc2acb18ba56394603e0c186a99f1a4952296f11e12671e8d7cb505d91"
+ },
+ {
+  "city": "Los Angeles",
+  "ghcnh": "USW00023174",
+  "file": "GHCNh_USW00023174_2023.psv",
+  "bytes": 11924097,
+  "sha256": "bf86b0c6ce7fd2129bdcd59bdc4d88d3c90ab5aecc8a9a3d1a993fc550161b4b"
+ },
+ {
+  "city": "Los Angeles",
+  "ghcnh": "USW00023174",
+  "file": "GHCNh_USW00023174_2024.psv",
+  "bytes": 12911787,
+  "sha256": "ac055e6893c606dc68c69b3b77d0f676660e485bd70d8b6c8370dc1471fbc190"
+ },
+ {
+  "city": "Los Angeles",
+  "ghcnh": "USW00023174",
+  "file": "GHCNh_USW00023174_2025.psv",
+  "bytes": 12102215,
+  "sha256": "16cb561fd40fe4d8f6ac386db8e35221578d199e0712b492c448316712df8f0a"
+ },
+ {
+  "city": "Los Angeles",
+  "ghcnh": "USW00023174",
+  "file": "GHCNh_USW00023174_2026.psv",
+  "bytes": 25917840,
+  "sha256": "8170bc67b480bc14fbf48e1094a51e514541685e5dbe8d45628b100d9faf5534"
+ },
+ {
+  "city": "San Diego",
+  "ghcnh": "USW00023188",
+  "file": "GHCNh_USW00023188_2023.psv",
+  "bytes": 11938148,
+  "sha256": "58b06ad1f5a98a9a8b187198501f6bb419c18f340c7368d2cea121938f3acea1"
+ },
+ {
+  "city": "San Diego",
+  "ghcnh": "USW00023188",
+  "file": "GHCNh_USW00023188_2024.psv",
+  "bytes": 12902362,
+  "sha256": "4757da8bfd379526cbca2bb6bc6c76670855f98748c2c54aa6b11d828c7b2dba"
+ },
+ {
+  "city": "San Diego",
+  "ghcnh": "USW00023188",
+  "file": "GHCNh_USW00023188_2025.psv",
+  "bytes": 12416393,
+  "sha256": "7e67267ae766058028921b48bca1696ad323f2743e91441fe264d55b23da6849"
+ },
+ {
+  "city": "San Diego",
+  "ghcnh": "USW00023188",
+  "file": "GHCNh_USW00023188_2026.psv",
+  "bytes": 27600492,
+  "sha256": "0fb3de1d9e033592b117ca0302adef3a3b6abf64a458feb78051a8964356fbc9"
+ },
+ {
+  "city": "Las Vegas",
+  "ghcnh": "USW00023169",
+  "file": "GHCNh_USW00023169_2023.psv",
+  "bytes": 10067392,
+  "sha256": "af89b3cb31e56c36ccf340952bdcc0814f7c6bf27a5c4e995f671473b9999fe6"
+ },
+ {
+  "city": "Las Vegas",
+  "ghcnh": "USW00023169",
+  "file": "GHCNh_USW00023169_2024.psv",
+  "bytes": 10848633,
+  "sha256": "6eedd89641afa17a9a09b7b6fabb36fb2046d67c378a43d35fee18be15b5830a"
+ },
+ {
+  "city": "Las Vegas",
+  "ghcnh": "USW00023169",
+  "file": "GHCNh_USW00023169_2025.psv",
+  "bytes": 10182624,
+  "sha256": "65e283efac5ce51b552149e54ff7d973a45a61505b354cea58d308962915dc6d"
+ },
+ {
+  "city": "Las Vegas",
+  "ghcnh": "USW00023169",
+  "file": "GHCNh_USW00023169_2026.psv",
+  "bytes": 31488780,
+  "sha256": "4e4110180548dae564f9d0f602417ec1d59ae378d1d731c19d178b95613e28e8"
+ },
+ {
+  "city": "Phoenix",
+  "ghcnh": "USW00023183",
+  "file": "GHCNh_USW00023183_2023.psv",
+  "bytes": 10039246,
+  "sha256": "92ca5331bd4b5449290c2280422d50bd5522ae5baf51d73cc3ed7d7e41a2172d"
+ },
+ {
+  "city": "Phoenix",
+  "ghcnh": "USW00023183",
+  "file": "GHCNh_USW00023183_2024.psv",
+  "bytes": 10995581,
+  "sha256": "b73101069d510ba2f22285627e5cd36801e1f03edcdc0aa27b995bdf87dec373"
+ },
+ {
+  "city": "Phoenix",
+  "ghcnh": "USW00023183",
+  "file": "GHCNh_USW00023183_2025.psv",
+  "bytes": 10252603,
+  "sha256": "219930d9b158923e4f1263dab4d26625cf7b0778687d39e8183a27157d863997"
+ },
+ {
+  "city": "Phoenix",
+  "ghcnh": "USW00023183",
+  "file": "GHCNh_USW00023183_2026.psv",
+  "bytes": 26737921,
+  "sha256": "dcca771f0976520544a2de9440a84b411b56e44419240ad18bc0b7ca679f63ba"
+ },
+ {
+  "city": "Albuquerque",
+  "ghcnh": "USW00023050",
+  "file": "GHCNh_USW00023050_2023.psv",
+  "bytes": 11552368,
+  "sha256": "97e43e21be31aa2ecbd7efed8dc1b93dd08896e6a095e59e6cf9e23987e16769"
+ },
+ {
+  "city": "Albuquerque",
+  "ghcnh": "USW00023050",
+  "file": "GHCNh_USW00023050_2024.psv",
+  "bytes": 11514410,
+  "sha256": "5208cb9b74de31db7caf6fd506584e6155e9d14473d1fc4f09d4a881bf740049"
+ },
+ {
+  "city": "Albuquerque",
+  "ghcnh": "USW00023050",
+  "file": "GHCNh_USW00023050_2025.psv",
+  "bytes": 10541002,
+  "sha256": "479616ad3dc728c7a165c60a015564059618fd637acadb7af616d92ab5461a2a"
+ },
+ {
+  "city": "Albuquerque",
+  "ghcnh": "USW00023050",
+  "file": "GHCNh_USW00023050_2026.psv",
+  "bytes": 22307998,
+  "sha256": "32d8f86c13996aa8f1fba30bc6ae73d55817e707d559f029113bfe8476df2336"
+ },
+ {
+  "city": "Denver",
+  "ghcnh": "USW00003017",
+  "file": "GHCNh_USW00003017_2023.psv",
+  "bytes": 13143457,
+  "sha256": "eb2b46fd923c561f2345530271301441b67985c47427cc6ed692e465b004ad69"
+ },
+ {
+  "city": "Denver",
+  "ghcnh": "USW00003017",
+  "file": "GHCNh_USW00003017_2024.psv",
+  "bytes": 12401545,
+  "sha256": "1729c49ef31c52114c12c2c0a048289590e5b405221075ca55e4fef17e683a46"
+ },
+ {
+  "city": "Denver",
+  "ghcnh": "USW00003017",
+  "file": "GHCNh_USW00003017_2025.psv",
+  "bytes": 11940039,
+  "sha256": "ead2bd3cced918ed42ce54e474920c9b9070b3bf619a7f529152c51a222ac1ba"
+ },
+ {
+  "city": "Denver",
+  "ghcnh": "USW00003017",
+  "file": "GHCNh_USW00003017_2026.psv",
+  "bytes": 35985240,
+  "sha256": "f6ace61584a598b3d642fd6fdd963c1c6866c830868bfe0fbca602cacbc5e398"
+ },
+ {
+  "city": "San Antonio",
+  "ghcnh": "USW00012921",
+  "file": "GHCNh_USW00012921_2023.psv",
+  "bytes": 12372588,
+  "sha256": "550f0b78e4909c8fe5a40a24d162b5e276a0e78b7fda3a6d8ba6de7553ac91a4"
+ },
+ {
+  "city": "San Antonio",
+  "ghcnh": "USW00012921",
+  "file": "GHCNh_USW00012921_2024.psv",
+  "bytes": 12714155,
+  "sha256": "ad7f77692a21786dc7df438fc8e5e2715b03a52fb75b47a7e49efba2fcd72891"
+ },
+ {
+  "city": "San Antonio",
+  "ghcnh": "USW00012921",
+  "file": "GHCNh_USW00012921_2025.psv",
+  "bytes": 11548425,
+  "sha256": "deb23d94e9f2c74c3f34040e3760ad25c706d13f7da9dba3267bf5dcd607cff7"
+ },
+ {
+  "city": "San Antonio",
+  "ghcnh": "USW00012921",
+  "file": "GHCNh_USW00012921_2026.psv",
+  "bytes": 30678321,
+  "sha256": "4022a0d892daea66f3b9771c26aea988c57ff1412d4f5275c7f47da00c649274"
+ },
+ {
+  "city": "Dallas",
+  "ghcnh": "USW00003927",
+  "file": "GHCNh_USW00003927_2023.psv",
+  "bytes": 12148059,
+  "sha256": "ad534dc084490eac616dc7be0613c95295955f5c9e6ca3283cca1f2aee559a2a"
+ },
+ {
+  "city": "Dallas",
+  "ghcnh": "USW00003927",
+  "file": "GHCNh_USW00003927_2024.psv",
+  "bytes": 12258321,
+  "sha256": "7905ecca7fe71165c95416da232d7555f9a6c0ddeca7ffd729efc146e7e503be"
+ },
+ {
+  "city": "Dallas",
+  "ghcnh": "USW00003927",
+  "file": "GHCNh_USW00003927_2025.psv",
+  "bytes": 11211125,
+  "sha256": "0caa43c57b043e6551b92805c3cd3d81799e12493d83ce28687c07888f09e374"
+ },
+ {
+  "city": "Dallas",
+  "ghcnh": "USW00003927",
+  "file": "GHCNh_USW00003927_2026.psv",
+  "bytes": 30139137,
+  "sha256": "cc511163164f94df5c255a859fc7d0f903fe5c7be7c4af10f08c9ac567b9a09e"
+ },
+ {
+  "city": "Houston",
+  "ghcnh": "USW00012960",
+  "file": "GHCNh_USW00012960_2023.psv",
+  "bytes": 11212497,
+  "sha256": "66ed37cf2f9522429d120949fbc018165ab90af6e4ea2f145a015948ee683d01"
+ },
+ {
+  "city": "Houston",
+  "ghcnh": "USW00012960",
+  "file": "GHCNh_USW00012960_2024.psv",
+  "bytes": 12565818,
+  "sha256": "6063f5ae7fb401ebf11c4ad5875be6735b61cbb183d1acade1a1dd634178ccbc"
+ },
+ {
+  "city": "Houston",
+  "ghcnh": "USW00012960",
+  "file": "GHCNh_USW00012960_2025.psv",
+  "bytes": 11380047,
+  "sha256": "56d75faaf3b3d8cff2400f3762c6c7eebe25213c18b62d06fce2aee1bd1b27fd"
+ },
+ {
+  "city": "Houston",
+  "ghcnh": "USW00012960",
+  "file": "GHCNh_USW00012960_2026.psv",
+  "bytes": 31779812,
+  "sha256": "41f16e6a23d0dd81c4a679a6ffcf49bb4b85e5975ad78b0a0eba3615102161c4"
+ },
+ {
+  "city": "Kansas City",
+  "ghcnh": "USW00003947",
+  "file": "GHCNh_USW00003947_2023.psv",
+  "bytes": 12389922,
+  "sha256": "e133739cb0bb81d6fdbea5df40b0c5a97563ab96754f52fd8b78d959b3a44611"
+ },
+ {
+  "city": "Kansas City",
+  "ghcnh": "USW00003947",
+  "file": "GHCNh_USW00003947_2024.psv",
+  "bytes": 12336718,
+  "sha256": "485a0b725917e0292549b67d6af057e040dea42af24b5b24cc533c410f56cde8"
+ },
+ {
+  "city": "Kansas City",
+  "ghcnh": "USW00003947",
+  "file": "GHCNh_USW00003947_2025.psv",
+  "bytes": 11627989,
+  "sha256": "adbe4e2fb2c0803486b63eb7f41f82138dfba5a558a41530f4e612681fed5da6"
+ },
+ {
+  "city": "Kansas City",
+  "ghcnh": "USW00003947",
+  "file": "GHCNh_USW00003947_2026.psv",
+  "bytes": 32208542,
+  "sha256": "90eff1f96286b8bdd385b2ec5b07aad5e98bc06f31266aa64a129c60756f1929"
+ },
+ {
+  "city": "Minneapolis",
+  "ghcnh": "USW00014922",
+  "file": "GHCNh_USW00014922_2023.psv",
+  "bytes": 12376999,
+  "sha256": "1b07935f6eae2748e1ff8cc974b0a40cfe702bede5db98e37bc709c45ec5f407"
+ },
+ {
+  "city": "Minneapolis",
+  "ghcnh": "USW00014922",
+  "file": "GHCNh_USW00014922_2024.psv",
+  "bytes": 13058222,
+  "sha256": "2098d9cc728d395c38b0e99ad955702c64a7e17c7f00f07411ef5611e5e0e22e"
+ },
+ {
+  "city": "Minneapolis",
+  "ghcnh": "USW00014922",
+  "file": "GHCNh_USW00014922_2025.psv",
+  "bytes": 11871722,
+  "sha256": "8603315ef2629ea97f58bdc5600b5bee2b5962e953a3150d432b6cc2798f08f4"
+ },
+ {
+  "city": "Minneapolis",
+  "ghcnh": "USW00014922",
+  "file": "GHCNh_USW00014922_2026.psv",
+  "bytes": 25251968,
+  "sha256": "bf2a64492772cbb1d657910977e4995f394ef526b1b03ef372b177f7f105f5c8"
+ },
+ {
+  "city": "Saint Louis",
+  "ghcnh": "USW00013994",
+  "file": "GHCNh_USW00013994_2023.psv",
+  "bytes": 11780842,
+  "sha256": "0f2f914bfbc995c337d5a5f7081f1f44a21713ee1d0c38ca887113b143ef9635"
+ },
+ {
+  "city": "Saint Louis",
+  "ghcnh": "USW00013994",
+  "file": "GHCNh_USW00013994_2024.psv",
+  "bytes": 12961764,
+  "sha256": "6ee36044af454cfa3e9dd2b1d6cb1b87d2239ab4943662eeb149276e60f7677d"
+ },
+ {
+  "city": "Saint Louis",
+  "ghcnh": "USW00013994",
+  "file": "GHCNh_USW00013994_2025.psv",
+  "bytes": 12087586,
+  "sha256": "31cd928290f67ef4ae1e8f979e60cb8aa3078bb84f0285c6c20dd785efef87e6"
+ },
+ {
+  "city": "Saint Louis",
+  "ghcnh": "USW00013994",
+  "file": "GHCNh_USW00013994_2026.psv",
+  "bytes": 29202874,
+  "sha256": "0a8a6cf03a14244932dd2568c289c41f42db40f6dc03a301dbc830c78aa64eee"
+ },
+ {
+  "city": "Chicago",
+  "ghcnh": "USW00094846",
+  "file": "GHCNh_USW00094846_2023.psv",
+  "bytes": 12577185,
+  "sha256": "7a946b741d727f2f5ee6fdb780db29fc4f55b8c3ee0988d0e290a64d3a27ad74"
+ },
+ {
+  "city": "Chicago",
+  "ghcnh": "USW00094846",
+  "file": "GHCNh_USW00094846_2024.psv",
+  "bytes": 13180046,
+  "sha256": "2064f450560cd8ba98bd1ad5a740d5e14a0ef143534e98fb5de35f134239ee35"
+ },
+ {
+  "city": "Chicago",
+  "ghcnh": "USW00094846",
+  "file": "GHCNh_USW00094846_2025.psv",
+  "bytes": 12196318,
+  "sha256": "f2abd4a1b9eedc4702c7a5ca8e27be6cc952bc3cb33b872bc46fee5839ea86c3"
+ },
+ {
+  "city": "Chicago",
+  "ghcnh": "USW00094846",
+  "file": "GHCNh_USW00094846_2026.psv",
+  "bytes": 23409991,
+  "sha256": "3114a800ecbbf3235812c4c8b95f98171b9d2bd98bac02bc632f935f0af40ba4"
+ },
+ {
+  "city": "Nashville",
+  "ghcnh": "USW00013897",
+  "file": "GHCNh_USW00013897_2023.psv",
+  "bytes": 12112418,
+  "sha256": "8d5f9c10c7ce1d1c03c6dc30132e0b234bdfe41c1b0ab459083646a404a94f45"
+ },
+ {
+  "city": "Nashville",
+  "ghcnh": "USW00013897",
+  "file": "GHCNh_USW00013897_2024.psv",
+  "bytes": 12208032,
+  "sha256": "fdc6451c54fb68779035d06a90bf64f51f0d21a3f90fd81118db37ce7d735dbb"
+ },
+ {
+  "city": "Nashville",
+  "ghcnh": "USW00013897",
+  "file": "GHCNh_USW00013897_2025.psv",
+  "bytes": 11288134,
+  "sha256": "d41822ffd182aab16cdf8800d3eb0216e6ee56f003c628ea4fe9331465d1cd3c"
+ },
+ {
+  "city": "Nashville",
+  "ghcnh": "USW00013897",
+  "file": "GHCNh_USW00013897_2026.psv",
+  "bytes": 31110332,
+  "sha256": "7004d07ea192caa771705a59669e070ef99980691efb4cbaa669d8079d4f3a19"
+ },
+ {
+  "city": "Indianapolis",
+  "ghcnh": "USW00093819",
+  "file": "GHCNh_USW00093819_2023.psv",
+  "bytes": 12687809,
+  "sha256": "fc59253a354de705ed13e95837696ee2ebaae1bfab69dd6df6368fa71939b2e9"
+ },
+ {
+  "city": "Indianapolis",
+  "ghcnh": "USW00093819",
+  "file": "GHCNh_USW00093819_2024.psv",
+  "bytes": 13009621,
+  "sha256": "3e8575b43bc49c57569f369dfa0e905ec63b1fe0bd28c255e9d62f8b14e948d4"
+ },
+ {
+  "city": "Indianapolis",
+  "ghcnh": "USW00093819",
+  "file": "GHCNh_USW00093819_2025.psv",
+  "bytes": 11983872,
+  "sha256": "4487a6dc75f9a77e9bef0e1c7c3847de392abc44f60280f4839e6510b7ff1f67"
+ },
+ {
+  "city": "Indianapolis",
+  "ghcnh": "USW00093819",
+  "file": "GHCNh_USW00093819_2026.psv",
+  "bytes": 33138212,
+  "sha256": "b3a2c1f9cbb5a7fe06f5335723a5c26bcfd7db9d388fe078fbcfd4a3678ec89a"
+ },
+ {
+  "city": "Atlanta",
+  "ghcnh": "USW00013874",
+  "file": "GHCNh_USW00013874_2023.psv",
+  "bytes": 12052764,
+  "sha256": "d36e78fb2f79178960c0db0d6efd5bc691cb678bfd891cc90d798e1560d44d8b"
+ },
+ {
+  "city": "Atlanta",
+  "ghcnh": "USW00013874",
+  "file": "GHCNh_USW00013874_2024.psv",
+  "bytes": 12730265,
+  "sha256": "cedd13e2ca8bd18257d82c096452003912b17975048fb42b132c8f64b8b7c535"
+ },
+ {
+  "city": "Atlanta",
+  "ghcnh": "USW00013874",
+  "file": "GHCNh_USW00013874_2025.psv",
+  "bytes": 12049054,
+  "sha256": "2842972dd5258c6672f0b56038edad8d6788c3b4dc9a65c0065e22409cda7eb8"
+ },
+ {
+  "city": "Atlanta",
+  "ghcnh": "USW00013874",
+  "file": "GHCNh_USW00013874_2026.psv",
+  "bytes": 33789128,
+  "sha256": "6b6954094ede2e50d138541db82cede910921de30bda572983429f996ad52e3f"
+ },
+ {
+  "city": "Detroit",
+  "ghcnh": "USW00094847",
+  "file": "GHCNh_USW00094847_2023.psv",
+  "bytes": 13974486,
+  "sha256": "b5e4a3f02b814d5b8f2a688f7fe5b27ad6e3492b726ee4cddf952849b8c8b407"
+ },
+ {
+  "city": "Detroit",
+  "ghcnh": "USW00094847",
+  "file": "GHCNh_USW00094847_2024.psv",
+  "bytes": 13642151,
+  "sha256": "00aabb98141d58024a9c2a4fd35d3d38187712fa9a0aa3aa02059679500557ed"
+ },
+ {
+  "city": "Detroit",
+  "ghcnh": "USW00094847",
+  "file": "GHCNh_USW00094847_2025.psv",
+  "bytes": 12860302,
+  "sha256": "816b6c731813bcfd878464ce59f30b1c4dabb573aee3a04026847235e248287b"
+ },
+ {
+  "city": "Detroit",
+  "ghcnh": "USW00094847",
+  "file": "GHCNh_USW00094847_2026.psv",
+  "bytes": 30751636,
+  "sha256": "c5891ee516eb4a83476ad29fde186ddba0945e7486d98d33a9a09e40ff5ee1a4"
+ },
+ {
+  "city": "Jacksonville",
+  "ghcnh": "USW00013889",
+  "file": "GHCNh_USW00013889_2023.psv",
+  "bytes": 12725075,
+  "sha256": "6930954cc52b8b9946d29a228cdec34c323ae1cdcf293e1e00ab14770a3980ac"
+ },
+ {
+  "city": "Jacksonville",
+  "ghcnh": "USW00013889",
+  "file": "GHCNh_USW00013889_2024.psv",
+  "bytes": 12598199,
+  "sha256": "b77708c666ce7fbf285996bc73dbfe43352cffa938b510eb8c0449e8e9e1ccf8"
+ },
+ {
+  "city": "Jacksonville",
+  "ghcnh": "USW00013889",
+  "file": "GHCNh_USW00013889_2025.psv",
+  "bytes": 11509606,
+  "sha256": "7cb98eb0459f008bdb238340ddbca633f1fca8a27dc572f203c6ea987cf39cc2"
+ },
+ {
+  "city": "Jacksonville",
+  "ghcnh": "USW00013889",
+  "file": "GHCNh_USW00013889_2026.psv",
+  "bytes": 31471860,
+  "sha256": "03a284cbd0258a9fbf9c8594fb869177e2b50903451a0c500ec7857ba1cf6536"
+ },
+ {
+  "city": "Charlotte",
+  "ghcnh": "USW00013881",
+  "file": "GHCNh_USW00013881_2023.psv",
+  "bytes": 12326796,
+  "sha256": "92cece29d10376c464703dd787fefb14062bca480e92984609416fde8eb406f5"
+ },
+ {
+  "city": "Charlotte",
+  "ghcnh": "USW00013881",
+  "file": "GHCNh_USW00013881_2024.psv",
+  "bytes": 12816163,
+  "sha256": "26347d5cef97e4db4f45694c9dec0fae8e1315f4fbde3fe7bf283dab9e8d38f7"
+ },
+ {
+  "city": "Charlotte",
+  "ghcnh": "USW00013881",
+  "file": "GHCNh_USW00013881_2025.psv",
+  "bytes": 11902769,
+  "sha256": "b7ce82ad4001df1b4f9d4035019a9f5f67b5e8d92ca94c9caeb44bb33de9a39c"
+ },
+ {
+  "city": "Charlotte",
+  "ghcnh": "USW00013881",
+  "file": "GHCNh_USW00013881_2026.psv",
+  "bytes": 33691833,
+  "sha256": "8c50d6431c246daa236a1faae2e209578e8ca71dcf4542d852ca69da42840b98"
+ },
+ {
+  "city": "Miami",
+  "ghcnh": "USW00012839",
+  "file": "GHCNh_USW00012839_2023.psv",
+  "bytes": 12385883,
+  "sha256": "078d4f5a9a6bf5037340e68ce0dc9c8a092dfbedb0f19ad1ce9e60d39f5825b5"
+ },
+ {
+  "city": "Miami",
+  "ghcnh": "USW00012839",
+  "file": "GHCNh_USW00012839_2024.psv",
+  "bytes": 12363004,
+  "sha256": "5b9fcb7ba8f057920ee928450dfb38c4f118ebfc71a8b39b238b4990855f1c15"
+ },
+ {
+  "city": "Miami",
+  "ghcnh": "USW00012839",
+  "file": "GHCNh_USW00012839_2025.psv",
+  "bytes": 11437303,
+  "sha256": "a4203ecc3bb6305c5aa2e7aaeb21a50d8de84d460d686c9f8eef1f801d12608a"
+ },
+ {
+  "city": "Miami",
+  "ghcnh": "USW00012839",
+  "file": "GHCNh_USW00012839_2026.psv",
+  "bytes": 26305049,
+  "sha256": "99520051f0de03dd5ef83f2129db0f7ce99fed288e52a166f24502dc96d246c0"
+ },
+ {
+  "city": "Pittsburgh",
+  "ghcnh": "USW00094823",
+  "file": "GHCNh_USW00094823_2023.psv",
+  "bytes": 12446643,
+  "sha256": "0b734f9d98b817dd4db73361e851c1ccaa3c87c7ae2358996e30d034de931fec"
+ },
+ {
+  "city": "Pittsburgh",
+  "ghcnh": "USW00094823",
+  "file": "GHCNh_USW00094823_2024.psv",
+  "bytes": 12445900,
+  "sha256": "5cb3c1508b4dbb665133367d88139a6b4f20493bf4efbd77e1fc712b53195668"
+ },
+ {
+  "city": "Pittsburgh",
+  "ghcnh": "USW00094823",
+  "file": "GHCNh_USW00094823_2025.psv",
+  "bytes": 12074145,
+  "sha256": "ece6f00bcbf10d1d63d26f838838f63c5a78cd7cb3fce03649bddf4393c14693"
+ },
+ {
+  "city": "Pittsburgh",
+  "ghcnh": "USW00094823",
+  "file": "GHCNh_USW00094823_2026.psv",
+  "bytes": 33564196,
+  "sha256": "4a4ca665d091e52b29f725b60a9010ece1c7533918b4af9a04ad8d231009ffe2"
+ },
+ {
+  "city": "Toronto",
+  "ghcnh": "CAN06158731",
+  "file": "GHCNh_CAN06158731_2023.psv",
+  "bytes": 4818273,
+  "sha256": "ea8f85bbd74fca45d5f8287e902184d4d4685c90ef003d7650b2fd0ed48fa76b"
+ },
+ {
+  "city": "Toronto",
+  "ghcnh": "CAN06158731",
+  "file": "GHCNh_CAN06158731_2024.psv",
+  "bytes": 4826822,
+  "sha256": "334bb6e902a4317bce95b881b5c371f8690c20be0b6681736932ca353129a748"
+ },
+ {
+  "city": "Toronto",
+  "ghcnh": "CAN06158731",
+  "file": "GHCNh_CAN06158731_2025.psv",
+  "bytes": 4815444,
+  "sha256": "3fd0df4969034dab04c54f8c252c00f8397cf0013e15c28bf461bd318ff1fb87"
+ },
+ {
+  "city": "Toronto",
+  "ghcnh": "CAN06158731",
+  "file": "GHCNh_CAN06158731_2026.psv",
+  "bytes": 3741153,
+  "sha256": "a04b81b683f6db5d85bb9458794ea7f30d32d6b4030c25e5583a44994c0010fe"
+ },
+ {
+  "city": "Philadelphia",
+  "ghcnh": "USW00013739",
+  "file": "GHCNh_USW00013739_2023.psv",
+  "bytes": 12241841,
+  "sha256": "0dde3e1cf1e959ec1f777f9c5c17dcf50402584ad87047a4366f436367c78462"
+ },
+ {
+  "city": "Philadelphia",
+  "ghcnh": "USW00013739",
+  "file": "GHCNh_USW00013739_2024.psv",
+  "bytes": 13204514,
+  "sha256": "e8dd4a72fd305e73ad5e71fcc02923642f755481b42318559dcde8a71a6e756d"
+ },
+ {
+  "city": "Philadelphia",
+  "ghcnh": "USW00013739",
+  "file": "GHCNh_USW00013739_2025.psv",
+  "bytes": 12734306,
+  "sha256": "aa5fe267ffdbb9399c67bc4d9bed53a5d6c305b3f6786e1c68819901562e4a42"
+ },
+ {
+  "city": "Philadelphia",
+  "ghcnh": "USW00013739",
+  "file": "GHCNh_USW00013739_2026.psv",
+  "bytes": 31482673,
+  "sha256": "d5a92a29cf8a92f436f01aa0c811c79be0ce28a794e7fcf3224f1a11942940fa"
+ },
+ {
+  "city": "New York",
+  "ghcnh": "USW00094789",
+  "file": "GHCNh_USW00094789_2023.psv",
+  "bytes": 12372249,
+  "sha256": "13ffb8241b19c0eabd0d5d119ea06c477a58deea305573fab1b0e0a37999d326"
+ },
+ {
+  "city": "New York",
+  "ghcnh": "USW00094789",
+  "file": "GHCNh_USW00094789_2024.psv",
+  "bytes": 11796626,
+  "sha256": "6122d2d4311d6f393a92156d4a945e7ca758f91285b8624b8c5c2125af0b3d62"
+ },
+ {
+  "city": "New York",
+  "ghcnh": "USW00094789",
+  "file": "GHCNh_USW00094789_2025.psv",
+  "bytes": 11511215,
+  "sha256": "1da7861231248ee4ea2ee4e6caca3adb838ca655987d790a82ad41382c9c239a"
+ },
+ {
+  "city": "New York",
+  "ghcnh": "USW00094789",
+  "file": "GHCNh_USW00094789_2026.psv",
+  "bytes": 22971679,
+  "sha256": "c9dff317cde3bd78ea9b8ccf8843bfe6a09c451e8cfba9ecf1b976ad36be26fb"
+ },
+ {
+  "city": "Montreal",
+  "ghcnh": "CAN07025251",
+  "file": "GHCNh_CAN07025251_2023.psv",
+  "bytes": 4832987,
+  "sha256": "a137d9f02ada59433c5cd8772a27a4a537a22a8dc7f95f6e0abdc1a06ff30b96"
+ },
+ {
+  "city": "Montreal",
+  "ghcnh": "CAN07025251",
+  "file": "GHCNh_CAN07025251_2024.psv",
+  "bytes": 4837540,
+  "sha256": "8e1bdd12a11e46254d041c22b304d81eedc5885d69e8e7edfbdc590ab263fe3f"
+ },
+ {
+  "city": "Montreal",
+  "ghcnh": "CAN07025251",
+  "file": "GHCNh_CAN07025251_2025.psv",
+  "bytes": 4841103,
+  "sha256": "50d73ab891032f1dd19d02b8ffe7977efe542c70c0ab9066d47628265f7336dd"
+ },
+ {
+  "city": "Montreal",
+  "ghcnh": "CAN07025251",
+  "file": "GHCNh_CAN07025251_2026.psv",
+  "bytes": 3753095,
+  "sha256": "55889e8a5e6c0372554aa3d0091105853e3d82d8a36d80aa617142d19539d334"
+ },
+ {
+  "city": "Boston",
+  "ghcnh": "USW00014739",
+  "file": "GHCNh_USW00014739_2023.psv",
+  "bytes": 13315403,
+  "sha256": "8cb2863492fc2bd1b6224ba71767aba5709d06026b5c25ea56415e44c705d55a"
+ },
+ {
+  "city": "Boston",
+  "ghcnh": "USW00014739",
+  "file": "GHCNh_USW00014739_2024.psv",
+  "bytes": 12842980,
+  "sha256": "6f072ee3c9d4286610849b529289785183e40edb942b747adcbaf85e218d7fd0"
+ },
+ {
+  "city": "Boston",
+  "ghcnh": "USW00014739",
+  "file": "GHCNh_USW00014739_2025.psv",
+  "bytes": 11926377,
+  "sha256": "609c9e40e35c24aa0f015240a35eb442f053d25d82b36fe3d99180e18e38ed98"
+ },
+ {
+  "city": "Boston",
+  "ghcnh": "USW00014739",
+  "file": "GHCNh_USW00014739_2026.psv",
+  "bytes": 30719194,
+  "sha256": "2b299d852db57147aaa1b11b129bbc6e2a01356fd36bcbb7a94a7bfc9371093e"
+ },
+ {
+  "city": "Haifa",
+  "ghcnh": "ISI0000LLHA",
+  "file": "GHCNh_ISI0000LLHA_2023.psv",
+  "bytes": 4040607,
+  "sha256": "3ccf67b0b8a92a1c357ed8a163439a4b88ede234b9be4e4da079352fd34b9fd0"
+ },
+ {
+  "city": "Haifa",
+  "ghcnh": "ISI0000LLHA",
+  "file": "GHCNh_ISI0000LLHA_2024.psv",
+  "bytes": 6840414,
+  "sha256": "b1f086b7effe8b204ec1a455e9763a65021a902920c184984ed36e72ef9c5892"
+ },
+ {
+  "city": "Haifa",
+  "ghcnh": "ISI0000LLHA",
+  "file": "GHCNh_ISI0000LLHA_2025.psv",
+  "bytes": 8454715,
+  "sha256": "9215997e934a37bdb7f17e4362153f731e47a2dd2f135ceea07d847cfa4ef0bf"
+ },
+ {
+  "city": "Haifa",
+  "ghcnh": "ISI0000LLHA",
+  "file": "GHCNh_ISI0000LLHA_2026.psv",
+  "bytes": 4190519,
+  "sha256": "a3d240c86d26fb2c179d9850af60b85771733f37754d9775a68dd8649487a969"
+ },
+ {
+  "city": "Eilat",
+  "ghcnh": "ISI0000LLER",
+  "file": "GHCNh_ISI0000LLER_2023.psv",
+  "bytes": 4314201,
+  "sha256": "9699923c8f548352f5e5a65cb69cffb29f257dd279dfce09c7d4b2dabf313fef"
+ },
+ {
+  "city": "Eilat",
+  "ghcnh": "ISI0000LLER",
+  "file": "GHCNh_ISI0000LLER_2024.psv",
+  "bytes": 7526685,
+  "sha256": "7c5fef8d553b0ddf13f54c422bc8bd2ec02082996afef05c112c468d85f37c13"
+ },
+ {
+  "city": "Eilat",
+  "ghcnh": "ISI0000LLER",
+  "file": "GHCNh_ISI0000LLER_2025.psv",
+  "bytes": 9517334,
+  "sha256": "a24a51db62a61ec5918fb2b88690e9bf5a485fdce7c62cea22f53ee1eb5f5de2"
+ },
+ {
+  "city": "Eilat",
+  "ghcnh": "ISI0000LLER",
+  "file": "GHCNh_ISI0000LLER_2026.psv",
+  "bytes": 5200717,
+  "sha256": "3ef0ef9ad10b311f1a9d396e707b585a6d2fb892daf6fd5fdaf2654ad69b2b8c"
+ },
+ {
+  "city": "Jerusalem",
+  "ghcnh": "ISM00040183",
+  "file": "GHCNh_ISM00040183_2023.psv",
+  "bytes": 4951864,
+  "sha256": "f5bcc243d152d44e1e4add066b3064202931df61e027dc5cd418146726d7ae8e"
+ },
+ {
+  "city": "Jerusalem",
+  "ghcnh": "ISM00040183",
+  "file": "GHCNh_ISM00040183_2024.psv",
+  "bytes": 5351526,
+  "sha256": "f545d87929c689c5a408ad99fd455b1abdd76dfe6fc7e8b011fc1ef08f5b2c3d"
+ },
+ {
+  "city": "Jerusalem",
+  "ghcnh": "ISM00040183",
+  "file": "GHCNh_ISM00040183_2025.psv",
+  "bytes": 5400145,
+  "sha256": "8beebbfd63eb27b905335bd96de2936611d37a65790329e9ff0919572b35963f"
+ },
+ {
+  "city": "Jerusalem",
+  "ghcnh": "ISM00040183",
+  "file": "GHCNh_ISM00040183_2026.psv",
+  "bytes": 3765860,
+  "sha256": "8795c7e542757e9ee21d49b1d265ef1f359b9e19e0e9b648636b6fcf63bcbfe3"
+ },
+ {
+  "city": "Beersheba",
+  "ghcnh": "ISM00040190",
+  "file": "GHCNh_ISM00040190_2023.psv",
+  "bytes": 5065845,
+  "sha256": "3441228e59bee2e83814209572188763806c9e2ff6db0cc722a3a9e3ee51b914"
+ },
+ {
+  "city": "Beersheba",
+  "ghcnh": "ISM00040190",
+  "file": "GHCNh_ISM00040190_2024.psv",
+  "bytes": 5474697,
+  "sha256": "52f8602d5fc2859a0bf729189aafc7a9e8cf45744d3acef224c6999f01c06573"
+ },
+ {
+  "city": "Beersheba",
+  "ghcnh": "ISM00040190",
+  "file": "GHCNh_ISM00040190_2025.psv",
+  "bytes": 5446747,
+  "sha256": "776be5cdcff6043a51e89ce2888462d46d1df4418001bc526b93c1e2fbf82daa"
+ },
+ {
+  "city": "Beersheba",
+  "ghcnh": "ISM00040190",
+  "file": "GHCNh_ISM00040190_2026.psv",
+  "bytes": 3807279,
+  "sha256": "077bc16cb0fef8b3b172869e2298ef379458aecb50c03c6c1ce7828268934e21"
+ }
+]
