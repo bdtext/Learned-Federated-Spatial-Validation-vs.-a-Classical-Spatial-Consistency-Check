@@ -1,0 +1,4 @@
+corpus,stations,variables,parameters,shared_parameters,threads,train_windows,epoch_seconds,epochs_per_run,logged_run_minutes_under_load,logged_runs,inference_ms_per_network_hour,SCT_seconds_full_record_one_variable,OI_seconds_full_record_one_variable
+DE,92,5,68006,23754,8,17520,58.1,20,78.5,18,1.4,0.1,5.9
+NL,33,5,29892,23754,8,17520,20.5,20,44.6,14,0.5,0.03,2.2
+NA,32,5,29546,23754,8,13104,15.0,20,22.5,10,0.5,0.03,n/a

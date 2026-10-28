@@ -1,0 +1,4 @@
+corpus,agency,stations,median_nn_km,max_nn_km,elev_min_m,elev_max_m,hours_train,hours_val,hours_test,median_corr_TEMP,with_wind_pressure
+DE,DWD (Germany),92,20.4,38.1,4.0,839.0,17544,8760,6840,0.869,37
+NL,KNMI (Netherlands),33,32.5,45.6,-4.3,114.3,17544,8760,6840,0.89,32
+NA,"NOAA GHCNh (USA, Canada, Israel)",32,332.9,561.5,1.5,1647.1,13128,8760,4416,0.063,32

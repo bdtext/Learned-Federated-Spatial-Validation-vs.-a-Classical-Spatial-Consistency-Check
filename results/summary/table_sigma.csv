@@ -1,0 +1,4 @@
+corpus,sigma_a_TEMP,sigma_hf_TEMP,sigma_a_RH,sigma_hf_RH,sigma_a_DEWP,sigma_hf_DEWP,sigma_a_WSPM,sigma_hf_WSPM,sigma_a_PRES,sigma_hf_PRES
+DE,3.75,0.69,11.51,3.49,3.66,0.48,1.77,0.52,10.15,0.36
+NL,3.4,0.63,10.12,3.21,3.34,0.49,2.26,0.6,10.83,0.36
+NA,4.01,0.79,15.22,3.72,5.41,0.64,2.08,0.99,6.15,0.41
