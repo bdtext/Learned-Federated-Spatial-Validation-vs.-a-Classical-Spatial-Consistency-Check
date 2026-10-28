@@ -1,0 +1,5 @@
+corpus DE: N=92, silos={'Hessen': 25, 'Niedersachsen': 17, 'Nordrhein-Westfalen': 41, 'Rheinland-Pfalz': 9}, cfg={'ch': 32, 'lr': 0.003}
+  SCT-OI-all: F1 0.557 (105s)
+  SCT-OI-silo: F1 0.528 (82s)
+  federated-matched (15 rounds): F1 0.624 (2129s)
+seed 1 done in 2335s: {'SCT-all': 0.48, 'SCT-silo': 0.535, 'centralized': 0.639, 'centralized-confined': 0.627, 'local-only': 0.618, 'federated': 0.615, 'SCT-OI-all': np.float64(0.557), 'SCT-OI-silo': np.float64(0.528), 'federated-matched': np.float64(0.624)}

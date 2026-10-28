@@ -1,0 +1,13 @@
+
+==== 2026-10-15 14:08:09 start
+corpus EU: N=125, silos={'DE': 92, 'NL': 33}, cfg={'ch': 32, 'lr': 0.003}
+  SCT-all: F1 0.451
+  SCT-silo: F1 0.466
+  centralized: F1 0.617 (15 epochs, 3875s)
+  centralized-confined: F1 0.616 (15 epochs, 4477s)
+
+==== 2026-10-15 17:09:08 start
+corpus EU: N=125, silos={'DE': 92, 'NL': 33}, cfg={'ch': 32, 'lr': 0.003}
+  local-only: F1 0.615 (2346s)
+  federated: F1 0.582 (2005s)
+seed 0 done in 4371s: {'SCT-all': 0.451, 'SCT-silo': 0.466, 'centralized': 0.617, 'centralized-confined': 0.616, 'local-only': np.float64(0.615), 'federated': np.float64(0.582)}

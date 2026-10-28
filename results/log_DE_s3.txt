@@ -1,0 +1,4 @@
+
+==== 2026-10-15 18:22:51 start
+seed 3: trained ch32_lr0.003 in 4453s (19 epochs)
+seed 3 done in 5741s; pooled F1: {'CLIM-Z': np.float64(0.14), 'CLIM-Z+PV': np.float64(0.373), 'EWMA-SPC': np.float64(0.125), 'EWMA-SPC+PV': np.float64(0.352), 'Kalman': np.float64(0.263), 'Kalman+PV': np.float64(0.434), 'LSO-STGNN': np.float64(0.583), 'LSO-STGNN+PV': np.float64(0.585), 'LSO-sp-only': np.float64(0.58), 'SCT': np.float64(0.433), 'SCT+K': np.float64(0.429), 'SCT+K+PV': np.float64(0.533), 'SCT+P': np.float64(0.428), 'SCT+P+PV': np.float64(0.532), 'SCT+PV': np.float64(0.536), 'SCT-OI': np.float64(0.505), 'SCT-OI+P': np.float64(0.503), 'SCT-OI+P+PV': np.float64(0.548), 'SCT-OI+PV': np.float64(0.549)}

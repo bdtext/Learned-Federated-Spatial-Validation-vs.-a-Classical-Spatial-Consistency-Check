@@ -1,0 +1,11 @@
+
+==== 2026-10-15 18:22:51 start
+corpus DE: N=92, K=8, rules=['fltrust'], cfg={'ch': 32, 'lr': 0.003}
+  fltrust|adv1|clean: F1 0.474 (499s)
+  fltrust|adv1|signflip: F1 0.474 (533s)
+  fltrust|adv1|alie: F1 0.474 (651s)
+  fltrust|adv1|minmax: F1 0.474 (600s)
+  fltrust|adv2|signflip: F1 0.474 (479s)
+  fltrust|adv2|alie: F1 0.473 (544s)
+  fltrust|adv2|minmax: F1 0.473 (539s)
+seed 0 rules ['fltrust'] done in 3889s

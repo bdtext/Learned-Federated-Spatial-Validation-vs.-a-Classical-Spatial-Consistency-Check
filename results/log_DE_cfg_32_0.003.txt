@@ -1,0 +1,4 @@
+
+==== 2026-10-15 10:56:16 start
+seed 0: trained ch32_lr0.003 in 6342s (20 epochs)
+seed 0: configuration 32,0.003 cached; stopping as requested

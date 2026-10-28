@@ -1,0 +1,45 @@
+Traceback (most recent call last):
+  File "C:\Users\Mamun-Pro\Desktop\Research Books\study2026\code\run_detection.py", line 210, in <module>
+    if __name__ == "__main__":
+        ^^^^^^
+  File "C:\Users\Mamun-Pro\Desktop\Research Books\study2026\code\run_detection.py", line 180, in main
+    S, sel = two_scale_select({"x": s}, lab, va); out.setdefault("_sel", {}).setdefault(v, {})[n] = sel
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mamun-Pro\Desktop\Research Books\study2026\code\run_detection.py", line 55, in evaluate
+    thr_m = M.matched_threshold(S, label, te); pwm = M.pointwise(S, label, thr_m, te)
+  File "C:\Users\Mamun-Pro\Desktop\Research Books\study2026\code\qc\metrics.py", line 19, in matched_threshold
+    return float(np.percentile(clean, 100 * (1 - fpr)))
+                 ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mamun-Pro\AppData\Roaming\Python\Python314\site-packages\numpy\lib\_function_base_impl.py", line 4246, in percentile
+    return _quantile_unchecked(
+        a, q, axis, out, overwrite_input, method, keepdims, weights, weak_q)
+  File "C:\Users\Mamun-Pro\AppData\Roaming\Python\Python314\site-packages\numpy\lib\_function_base_impl.py", line 4510, in _quantile_unchecked
+    return _ureduce(a,
+                    func=_quantile_ureduce_func,
+    ...<6 lines>...
+                    method=method,
+                    weak_q=weak_q)
+  File "C:\Users\Mamun-Pro\AppData\Roaming\Python\Python314\site-packages\numpy\lib\_function_base_impl.py", line 3880, in _ureduce
+    r = func(a, **kwargs)
+  File "C:\Users\Mamun-Pro\AppData\Roaming\Python\Python314\site-packages\numpy\lib\_function_base_impl.py", line 4669, in _quantile_ureduce_func
+    result = _quantile(arr,
+                       quantiles=q,
+    ...<3 lines>...
+                       weights=wgt,
+                       weak_q=weak_q)
+  File "C:\Users\Mamun-Pro\AppData\Roaming\Python\Python314\site-packages\numpy\lib\_function_base_impl.py", line 4793, in _quantile
+    slices_having_nans = np.isnan(arr[-1, ...])
+                                  ~~~^^^^^^^^^
+IndexError: index -1 is out of bounds for axis 0 with size 0
+
+==== 2026-10-15 10:38:06 start
+seed 0: trained ch32_lr0.001 in 904s (19 epochs)
+seed 0 done in 1148s; pooled F1: {'CLIM-Z': np.float64(0.17), 'CLIM-Z+PV': np.float64(0.437), 'EWMA-SPC': np.float64(0.154), 'EWMA-SPC+PV': np.float64(0.412), 'Kalman': np.float64(0.28), 'Kalman+PV': np.float64(0.467), 'LSO-STGNN': np.float64(0.365), 'LSO-STGNN+PV': np.float64(0.534), 'LSO-sp-only': np.float64(0.339), 'SCT': np.float64(0.321), 'SCT+K': np.float64(0.326), 'SCT+K+PV': np.float64(0.544), 'SCT+P': np.float64(0.365), 'SCT+P+PV': np.float64(0.52), 'SCT+PV': np.float64(0.543), 'SCT-OI': np.float64(0.0), 'SCT-OI+P': np.float64(0.0), 'SCT-OI+P+PV': np.float64(0.0), 'SCT-OI+PV': np.float64(0.0)}
+seed 1: trained ch32_lr0.001 in 1068s (20 epochs)
+seed 1 done in 1527s; pooled F1: {'CLIM-Z': np.float64(0.189), 'CLIM-Z+PV': np.float64(0.418), 'EWMA-SPC': np.float64(0.182), 'EWMA-SPC+PV': np.float64(0.392), 'Kalman': np.float64(0.273), 'Kalman+PV': np.float64(0.449), 'LSO-STGNN': np.float64(0.396), 'LSO-STGNN+PV': np.float64(0.549), 'LSO-sp-only': np.float64(0.343), 'SCT': np.float64(0.359), 'SCT+K': np.float64(0.354), 'SCT+K+PV': np.float64(0.534), 'SCT+P': np.float64(0.401), 'SCT+P+PV': np.float64(0.533), 'SCT+PV': np.float64(0.535), 'SCT-OI': np.float64(0.0), 'SCT-OI+P': np.float64(0.0), 'SCT-OI+P+PV': np.float64(0.0), 'SCT-OI+PV': np.float64(0.0)}
+seed 2: trained ch32_lr0.001 in 2021s (20 epochs)
+seed 2 done in 2553s; pooled F1: {'CLIM-Z': np.float64(0.235), 'CLIM-Z+PV': np.float64(0.415), 'EWMA-SPC': np.float64(0.257), 'EWMA-SPC+PV': np.float64(0.422), 'Kalman': np.float64(0.252), 'Kalman+PV': np.float64(0.4), 'LSO-STGNN': np.float64(0.415), 'LSO-STGNN+PV': np.float64(0.506), 'LSO-sp-only': np.float64(0.38), 'SCT': np.float64(0.342), 'SCT+K': np.float64(0.333), 'SCT+K+PV': np.float64(0.493), 'SCT+P': np.float64(0.375), 'SCT+P+PV': np.float64(0.493), 'SCT+PV': np.float64(0.502), 'SCT-OI': np.float64(0.0), 'SCT-OI+P': np.float64(0.0), 'SCT-OI+P+PV': np.float64(0.0), 'SCT-OI+PV': np.float64(0.0)}
+seed 3: trained ch32_lr0.001 in 2731s (20 epochs)
+seed 3 done in 3099s; pooled F1: {'CLIM-Z': np.float64(0.2), 'CLIM-Z+PV': np.float64(0.338), 'EWMA-SPC': np.float64(0.184), 'EWMA-SPC+PV': np.float64(0.314), 'Kalman': np.float64(0.228), 'Kalman+PV': np.float64(0.386), 'LSO-STGNN': np.float64(0.462), 'LSO-STGNN+PV': np.float64(0.508), 'LSO-sp-only': np.float64(0.447), 'SCT': np.float64(0.418), 'SCT+K': np.float64(0.406), 'SCT+K+PV': np.float64(0.469), 'SCT+P': np.float64(0.422), 'SCT+P+PV': np.float64(0.453), 'SCT+PV': np.float64(0.466), 'SCT-OI': np.float64(0.0), 'SCT-OI+P': np.float64(0.0), 'SCT-OI+P+PV': np.float64(0.0), 'SCT-OI+PV': np.float64(0.0)}
+seed 4: trained ch32_lr0.001 in 1348s (20 epochs)
+seed 4 done in 1799s; pooled F1: {'CLIM-Z': np.float64(0.196), 'CLIM-Z+PV': np.float64(0.334), 'EWMA-SPC': np.float64(0.194), 'EWMA-SPC+PV': np.float64(0.318), 'Kalman': np.float64(0.233), 'Kalman+PV': np.float64(0.376), 'LSO-STGNN': np.float64(0.446), 'LSO-STGNN+PV': np.float64(0.513), 'LSO-sp-only': np.float64(0.434), 'SCT': np.float64(0.436), 'SCT+K': np.float64(0.438), 'SCT+K+PV': np.float64(0.524), 'SCT+P': np.float64(0.447), 'SCT+P+PV': np.float64(0.525), 'SCT+PV': np.float64(0.544), 'SCT-OI': np.float64(0.0), 'SCT-OI+P': np.float64(0.0), 'SCT-OI+P+PV': np.float64(0.0), 'SCT-OI+PV': np.float64(0.0)}

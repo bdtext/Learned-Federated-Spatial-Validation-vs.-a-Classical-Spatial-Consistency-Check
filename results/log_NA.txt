@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "C:\Users\Mamun-Pro\Desktop\Research Books\study2026\code\run_detection.py", line 205, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Mamun-Pro\Desktop\Research Books\study2026\code\run_detection.py", line 174, in main
+    S, sel = two_scale_select({"x": s}, lab, va); out.setdefault("_sel", {}).setdefault(v, {})[n] = sel
+             ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mamun-Pro\Desktop\Research Books\study2026\code\run_detection.py", line 33, in two_scale_select
+    return scores[key], dict(grid=key, val_auprc=v)
+           ~~~~~~^^^^^
+KeyError: None

@@ -1,0 +1,11 @@
+
+==== 2026-10-15 17:43:56 start
+corpus DE: N=92, K=8, rules=['multikrum'], cfg={'ch': 32, 'lr': 0.003}
+  multikrum|adv1|clean: F1 0.481 (968s)
+  multikrum|adv1|signflip: F1 0.481 (755s)
+  multikrum|adv1|alie: F1 0.481 (663s)
+  multikrum|adv1|minmax: F1 0.481 (478s)
+  multikrum|adv2|signflip: F1 0.481 (548s)
+  multikrum|adv2|alie: F1 0.481 (633s)
+  multikrum|adv2|minmax: F1 0.480 (579s)
+seed 0 rules ['multikrum'] done in 4685s

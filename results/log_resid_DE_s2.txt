@@ -1,0 +1,13 @@
+
+==== 2026-10-15 14:11:03 start
+corpus DE: N=92, silos={'Hessen': 25, 'Niedersachsen': 17, 'Nordrhein-Westfalen': 41, 'Rheinland-Pfalz': 9}, cfg={'ch': 32, 'lr': 0.003}
+  SCT-all: F1 0.446
+  SCT-silo: F1 0.494
+  centralized: F1 0.593 (15 epochs, 4012s)
+  centralized-confined: F1 0.587 (15 epochs, 4461s)
+
+==== 2026-10-15 17:09:57 start
+corpus DE: N=92, silos={'Hessen': 25, 'Niedersachsen': 17, 'Nordrhein-Westfalen': 41, 'Rheinland-Pfalz': 9}, cfg={'ch': 32, 'lr': 0.003}
+  local-only: F1 0.579 (2315s)
+  federated: F1 0.568 (2075s)
+seed 2 done in 4411s: {'SCT-all': 0.446, 'SCT-silo': 0.494, 'centralized': 0.593, 'centralized-confined': 0.587, 'local-only': np.float64(0.579), 'federated': np.float64(0.568)}

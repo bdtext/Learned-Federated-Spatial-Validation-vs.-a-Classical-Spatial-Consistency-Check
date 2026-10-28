@@ -1,0 +1,5 @@
+corpus EU: N=125, silos={'DE': 92, 'NL': 33}, cfg={'ch': 32, 'lr': 0.003}
+  SCT-OI-all: F1 0.570 (133s)
+  SCT-OI-silo: F1 0.562 (149s)
+  federated-matched (15 rounds): F1 0.601 (2057s)
+seed 2 done in 2362s: {'SCT-all': 0.467, 'SCT-silo': 0.478, 'centralized': 0.623, 'centralized-confined': 0.622, 'local-only': 0.616, 'federated': 0.581, 'SCT-OI-all': np.float64(0.57), 'SCT-OI-silo': np.float64(0.562), 'federated-matched': np.float64(0.601)}

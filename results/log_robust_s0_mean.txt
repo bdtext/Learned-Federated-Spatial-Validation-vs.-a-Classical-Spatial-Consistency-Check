@@ -1,0 +1,17 @@
+
+==== 2026-10-15 14:11:25 start
+corpus DE: N=92, K=8, rules=['mean'], cfg={'ch': 32, 'lr': 0.003}
+  mean|adv1|clean: F1 0.515 (2409s)
+  mean|adv1|signflip: F1 0.476 (3877s)
+  mean|adv1|alie: F1 0.518 (3793s)
+
+==== 2026-10-15 17:37:26 start
+corpus DE: N=92, K=8, rules=['mean'], cfg={'ch': 32, 'lr': 0.003}
+  mean|adv1|clean: F1 0.481 (690s)
+  mean|adv1|signflip: F1 0.470 (1007s)
+  mean|adv1|alie: F1 0.481 (749s)
+  mean|adv1|minmax: F1 0.481 (543s)
+  mean|adv2|signflip: F1 0.007 (502s)
+  mean|adv2|alie: F1 0.480 (640s)
+  mean|adv2|minmax: F1 0.480 (628s)
+seed 0 rules ['mean'] done in 4813s

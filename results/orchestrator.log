@@ -1,0 +1,71 @@
+13:39:26 pending jobs: ['NA_seeds', 'DE_tune', 'NL_tune', 'DE_s12', 'DE_s34', 'NL_s1234', 'resid_DE', 'resid_EU', 'robust']
+13:39:26 start NA_seeds: run_detection.py NA 0,1,2,3,4
+13:39:26 start DE_tune: run_detection.py DE 0 --tune
+13:39:26 start NL_tune: run_detection.py NL 0 --tune
+13:52:41 end NA_seeds rc=1
+14:32:15 end NL_tune rc=1073807364
+14:32:15 end DE_tune rc=1073807364
+2026-10-15 10:38:06 pending jobs: ['DE_tune', 'NA_seeds', 'NL_tune', 'NL_s1234', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s12', 'DE_s34', 'DE_subtle', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust']
+2026-10-15 10:38:06 start DE_tune: run_detection.py DE 0 --tune [8 threads]
+2026-10-15 10:38:06 start NA_seeds: run_detection.py NA 0,1,2,3,4 [4 threads]
+2026-10-15 10:38:06 start NL_tune: run_detection.py NL 0 --tune [4 threads]
+2026-10-15 10:56:16 pending jobs: ['DE_cfg_32_0.001', 'DE_cfg_32_0.003', 'DE_cfg_64_0.002', 'DE_tune', 'NA_seeds', 'NL_tune', 'NL_s1234', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s12', 'DE_s34', 'DE_subtle', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust']
+2026-10-15 10:56:16 start DE_cfg_32_0.001: run_detection.py DE 0 --only-cfg 32,0.001 [6 threads]
+2026-10-15 10:56:16 start DE_cfg_32_0.003: run_detection.py DE 0 --only-cfg 32,0.003 [6 threads]
+2026-10-15 10:56:16 start DE_cfg_64_0.002: run_detection.py DE 0 --only-cfg 64,0.002 [6 threads]
+2026-10-15 11:42:00 pending jobs: ['DE_cfg_32_0.001', 'DE_cfg_32_0.003', 'DE_cfg_64_0.002', 'DE_tune', 'NA_seeds', 'NL_tune', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'DE_subtle_s2', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust', 'NL_s1', 'NL_s2', 'NL_s3', 'NL_s4']
+2026-10-15 12:04:34 start DE_cfg_32_0.001: run_detection.py DE 0 --only-cfg 32,0.001 [6 threads]
+2026-10-15 12:04:34 start DE_cfg_32_0.003: run_detection.py DE 0 --only-cfg 32,0.003 [6 threads]
+2026-10-15 12:04:34 start DE_cfg_64_0.002: run_detection.py DE 0 --only-cfg 64,0.002 [6 threads]
+2026-10-15 12:04:34 start NA_seeds: run_detection.py NA 0,1,2,3,4 [4 threads]
+2026-10-15 12:04:34 start NL_tune: run_detection.py NL 0 --tune [4 threads]
+2026-10-15 12:05:38 end NA_seeds rc=4294967295
+2026-10-15 12:05:38 end NL_tune rc=4294967295
+2026-10-15 12:05:38 end DE_cfg_64_0.002 rc=4294967295
+2026-10-15 12:05:38 end DE_cfg_32_0.001 rc=4294967295
+2026-10-15 12:05:38 end DE_cfg_32_0.003 rc=4294967295
+2026-10-15 12:05:40 pending jobs: ['DE_cfg_32_0.001', 'DE_cfg_32_0.003', 'DE_cfg_64_0.002', 'DE_tune', 'NA_seeds', 'NL_tune', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'DE_subtle_s2', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust', 'NL_s1', 'NL_s2', 'NL_s3', 'NL_s4']
+2026-10-15 12:43:01 pending jobs: ['DE_cfg_32_0.001', 'DE_cfg_32_0.003', 'DE_cfg_64_0.002', 'DE_tune', 'NA_seeds', 'NL_tune', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'DE_subtle_s2', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust', 'NL_s1', 'NL_s2', 'NL_s3', 'NL_s4']
+2026-10-15 12:44:41 pending jobs: ['DE_cfg_32_0.001', 'DE_cfg_32_0.003', 'DE_cfg_64_0.002', 'DE_tune', 'NA_seeds', 'NL_tune', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'DE_subtle_s2', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust', 'NL_s1', 'NL_s2', 'NL_s3', 'NL_s4']
+2026-10-15 13:12:11 start NL_s1: run_detection.py NL 1 [3 threads]
+2026-10-15 13:12:11 start NL_s2: run_detection.py NL 2 [3 threads]
+2026-10-15 13:12:11 start NL_s3: run_detection.py NL 3 [3 threads]
+2026-10-15 13:12:11 start NL_s4: run_detection.py NL 4 [3 threads]
+2026-10-15 13:46:57 pending jobs: ['DE_tune', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'DE_subtle_s2', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust', 'NL_s1', 'NL_s2', 'NL_s3', 'NL_s4']
+2026-10-15 13:47:21 start DE_tune: run_detection.py DE 0 --tune --grid 32,0.001;32,0.003 [6 threads]
+2026-10-15 14:08:09 start resid_EU_s0: run_residency.py EU 0 --stride 3 [3 threads]
+2026-10-15 14:10:19 start resid_EU_s1: run_residency.py EU 1 --stride 3 [3 threads]
+2026-10-15 14:10:19 start resid_EU_s2: run_residency.py EU 2 --stride 3 [3 threads]
+2026-10-15 14:10:41 start resid_DE_s0: run_residency.py DE 0 [3 threads]
+2026-10-15 14:10:41 start resid_DE_s1: run_residency.py DE 1 [3 threads]
+2026-10-15 14:11:03 start resid_DE_s2: run_residency.py DE 2 [3 threads]
+2026-10-15 14:11:25 start robust_s0_mean: run_robustness.py 0 --rules mean [3 threads]
+2026-10-15 14:16:58 pending jobs: ['DE_tune', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'DE_subtle_s2', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust']
+2026-10-15 14:18:16 pending jobs: ['DE_tune', 'resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'DE_subtle_s2', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust']
+2026-10-15 14:21:05 start DE_s1: run_detection.py DE 1 [3 threads]
+2026-10-15 17:09:04 pending jobs: ['resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'DE_subtle_s2', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust', 'robust_s1_mean', 'robust_s1_median', 'robust_s1_multikrum', 'robust_s1_fltrust']
+2026-10-15 17:09:08 start resid_EU_s0: run_residency.py EU 0 --stride 3 [3 threads]
+2026-10-15 17:09:08 start resid_EU_s1: run_residency.py EU 1 --stride 3 [3 threads]
+2026-10-15 17:09:08 start resid_EU_s2: run_residency.py EU 2 --stride 3 [3 threads]
+2026-10-15 17:09:32 start resid_DE_s0: run_residency.py DE 0 [3 threads]
+2026-10-15 17:09:32 start resid_DE_s1: run_residency.py DE 1 [3 threads]
+2026-10-15 17:09:57 start resid_DE_s2: run_residency.py DE 2 [3 threads]
+2026-10-15 17:11:26 pending jobs: ['resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s1', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust']
+2026-10-15 17:37:26 start robust_s0_mean: run_robustness.py 0 --rules mean --rounds 5 --stride 4 [3 threads]
+2026-10-15 17:38:16 start robust_s0_median: run_robustness.py 0 --rules median --rounds 5 --stride 4 [3 threads]
+2026-10-15 17:43:26 pending jobs: ['resid_EU_s0', 'resid_EU_s1', 'resid_EU_s2', 'resid_DE_s0', 'resid_DE_s1', 'resid_DE_s2', 'DE_s2', 'DE_s3', 'DE_s4', 'DE_subtle_s0', 'DE_subtle_s1', 'robust_s0_mean', 'robust_s0_median', 'robust_s0_multikrum', 'robust_s0_fltrust']
+2026-10-15 17:43:56 start robust_s0_multikrum: run_robustness.py 0 --rules multikrum --rounds 5 --stride 4 [3 threads]
+2026-10-15 18:22:27 start DE_s2: run_detection.py DE 2 [3 threads]
+2026-10-15 18:22:51 start DE_s3: run_detection.py DE 3 [3 threads]
+2026-10-15 18:22:51 start robust_s0_fltrust: run_robustness.py 0 --rules fltrust --rounds 5 --stride 4 [3 threads]
+2026-10-15 18:24:04 start DE_s4: run_detection.py DE 4 [3 threads]
+2026-10-15 18:24:28 start DE_subtle_s0: run_detection.py DE 0 --regime subtle --tag _subtle [3 threads]
+2026-10-15 18:58:23 start DE_subtle_s1: run_detection.py DE 1 --regime subtle --tag _subtle [3 threads]
+2026-10-15 19:02:47 end robust_s0_multikrum rc=0
+2026-10-15 19:28:18 end robust_s0_fltrust rc=0
+2026-10-15 19:59:20 end DE_s3 rc=0
+2026-10-15 20:01:20 end DE_s2 rc=0
+2026-10-15 20:02:20 end DE_s4 rc=0
+2026-10-15 20:03:10 end DE_subtle_s0 rc=0
+2026-10-15 20:12:12 end DE_subtle_s1 rc=0
+2026-10-15 20:12:57 all jobs finished
