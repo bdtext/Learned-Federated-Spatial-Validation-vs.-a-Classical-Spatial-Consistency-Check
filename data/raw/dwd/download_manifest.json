@@ -1,0 +1,4646 @@
+[
+ {
+  "station": "00044",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00044_20070401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00044_20070401_20251231_hist.zip",
+  "bytes": 882581,
+  "sha256": "408b1d45acb2d6f092dfa96bd8e571aa509dc3324547831dcfc3a8ef78c4ad08"
+ },
+ {
+  "station": "00044",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00044_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00044_akt.zip",
+  "bytes": 79426,
+  "sha256": "a869c0a4ece02cd10b1a701d21f41c45b11b875ff90b38c7030e39df7ef53f6f"
+ },
+ {
+  "station": "00044",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00044_19790101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00044_19790101_20251231_hist.zip",
+  "bytes": 1196967,
+  "sha256": "e0641f7baafa3de798c84458723b65e9704857fbcc2f4451a9b99193532e9cf9"
+ },
+ {
+  "station": "00044",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00044_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00044_akt.zip",
+  "bytes": 81045,
+  "sha256": "607287326642b2736c351bf05979771404a3a2badf69eb8ff2cc83889a05a727"
+ },
+ {
+  "station": "00078",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00078_20041101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00078_20041101_20251231_hist.zip",
+  "bytes": 1000077,
+  "sha256": "8f588ae2b0a1cde29821fe763ef8cc1de588e9bd80a4594e84f11a4557d67884"
+ },
+ {
+  "station": "00078",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00078_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00078_akt.zip",
+  "bytes": 79687,
+  "sha256": "9aacabd01bb1e73d01df2a642f46f0e59d894bc801a8de0adb3a2ad1511abeb9"
+ },
+ {
+  "station": "00078",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00078_20041101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00078_20041101_20251231_hist.zip",
+  "bytes": 1062348,
+  "sha256": "ca07d8eea576df09e0d683bfc31a348917013ba00bbac4bc186e9772292f4101"
+ },
+ {
+  "station": "00078",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00078_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00078_akt.zip",
+  "bytes": 81306,
+  "sha256": "4a7caf960b9cc4ad9653a1c0e2c55b1fc412de5a54961b93c055da8d2d5f4aad"
+ },
+ {
+  "station": "00091",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00091_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00091_20040901_20251231_hist.zip",
+  "bytes": 1014383,
+  "sha256": "037f57f4bd5b22a2a9fadfd6abc23690818fbb3e9feae926e282902d678acb03"
+ },
+ {
+  "station": "00091",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00091_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00091_akt.zip",
+  "bytes": 79058,
+  "sha256": "1eac00b01dd4a2a0a11022a5726aa6d1f65d78ba0ff544560d7ca954651b932f"
+ },
+ {
+  "station": "00091",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00091_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00091_20040901_20251231_hist.zip",
+  "bytes": 1080601,
+  "sha256": "05964246e61725975a090c153f024094a2b0259621de4ec9124cb762dcd09413"
+ },
+ {
+  "station": "00091",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00091_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00091_akt.zip",
+  "bytes": 80525,
+  "sha256": "c419b9c10b92e2d426e688c27217b33fee8b34eb2c7eabbad5d33bdeda519b9c"
+ },
+ {
+  "station": "00161",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00161_20110901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00161_20110901_20251231_hist.zip",
+  "bytes": 694995,
+  "sha256": "a8ac0bf0e9003508630431125b4c08940195d0eae804de6259dd7d50e9346f68"
+ },
+ {
+  "station": "00161",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00161_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00161_akt.zip",
+  "bytes": 81430,
+  "sha256": "6e8adc225eab70d3962603eec68c7e092682df11d0d953fcd34cb463a63788ad"
+ },
+ {
+  "station": "00161",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00161_20110901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00161_20110901_20251231_hist.zip",
+  "bytes": 732395,
+  "sha256": "ff29ac58483f8512f7339e9508aa4cb0f205e329590977a82ef5471f2859a60a"
+ },
+ {
+  "station": "00161",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00161_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00161_akt.zip",
+  "bytes": 82677,
+  "sha256": "260cd49636541379a65dfd0c4de3f7716c3156abf8224223dee003c8a075f0c5"
+ },
+ {
+  "station": "00161",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_00161_19801201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_00161_19801201_20251231_hist.zip",
+  "bytes": 1486766,
+  "sha256": "7be6335a60d52a4cddf54064a011854c77ee91ceeb1adaf2b194c23929f0da7b"
+ },
+ {
+  "station": "00161",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_00161_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_00161_akt.zip",
+  "bytes": 71336,
+  "sha256": "dbf1600d99ea3c0429821dcfe27a95a9adad68690e43f016bb6cd1b6115f5856"
+ },
+ {
+  "station": "00161",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_00161_20110901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_00161_20110901_20251231_hist.zip",
+  "bytes": 713937,
+  "sha256": "2c59343a13079e5e53eae5817d040d5f261d0aef1af242ec9594696b2babde40"
+ },
+ {
+  "station": "00161",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_00161_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_00161_akt.zip",
+  "bytes": 81278,
+  "sha256": "24b9077244f102f8ade3a048aacd2875b23bf0cef4874a2427027e98d4fb5daa"
+ },
+ {
+  "station": "00294",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00294_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00294_20040701_20251231_hist.zip",
+  "bytes": 1023574,
+  "sha256": "24092f02fb72eb6a50b9a7f6268121ce7efd7ab9aaa75d9f74d55fa4b8625156"
+ },
+ {
+  "station": "00294",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00294_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00294_akt.zip",
+  "bytes": 78571,
+  "sha256": "cb440157cfa5233b6e7e3d2baa42643d00a65e498ef8af50733252c13bc5b8be"
+ },
+ {
+  "station": "00294",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00294_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00294_20040701_20251231_hist.zip",
+  "bytes": 1084306,
+  "sha256": "218e64afbc96a6a63a8b5d72020a44a46be884cb49b0e9d14f6a41e4010e9358"
+ },
+ {
+  "station": "00294",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00294_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00294_akt.zip",
+  "bytes": 79721,
+  "sha256": "5e04625447e69fe23947abf641d164b83a1a5ba58a658c93cb1396489e2af581"
+ },
+ {
+  "station": "00342",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00342_20101201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00342_20101201_20251231_hist.zip",
+  "bytes": 720954,
+  "sha256": "32bf678e4297272b2fb0b6e269da81970ec93b1022c10477ddb1a81902192cb4"
+ },
+ {
+  "station": "00342",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00342_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00342_akt.zip",
+  "bytes": 78423,
+  "sha256": "ac0b0db1d7e6d6dc560659240c13b9f6102a77b3aa204c1814c50694ff38b66f"
+ },
+ {
+  "station": "00342",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00342_20101201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00342_20101201_20251231_hist.zip",
+  "bytes": 760609,
+  "sha256": "3f9dd5f661f53ca2bb3bdff5d87bea23f2cba854bf881184f816973b95d81f2b"
+ },
+ {
+  "station": "00342",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00342_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00342_akt.zip",
+  "bytes": 79579,
+  "sha256": "24ef2f0ed44b65997e24de12561d4fe7e5ad1c3329768b967c6f323f456c5216"
+ },
+ {
+  "station": "00342",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_00342_20101201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_00342_20101201_20251231_hist.zip",
+  "bytes": 633659,
+  "sha256": "5f97ea3576e17c36336cc2b98d5ca53a34badfac93659e5613e8b3598c8eb577"
+ },
+ {
+  "station": "00342",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_00342_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_00342_akt.zip",
+  "bytes": 69156,
+  "sha256": "ab4dafa33c71e193d62da3ef2ca4aa2b46719145d1a3531befce7a532e1e326f"
+ },
+ {
+  "station": "00342",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_00342_20101201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_00342_20101201_20251231_hist.zip",
+  "bytes": 760029,
+  "sha256": "df225e04af9fd7ca0f213e7a591da5d2c23f86cbdd784d731fb03ef1c0b18575"
+ },
+ {
+  "station": "00342",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_00342_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_00342_akt.zip",
+  "bytes": 82067,
+  "sha256": "c7f334dbd53ac9ede36abe33e9d2a66c1466dd4f130c5189f925b41fb444583f"
+ },
+ {
+  "station": "00390",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00390_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00390_20040701_20251231_hist.zip",
+  "bytes": 997695,
+  "sha256": "6ab76b024dbe70ef5365d12c2af0f740d4f5e5aaf684ed368032005f571db8dd"
+ },
+ {
+  "station": "00390",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00390_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00390_akt.zip",
+  "bytes": 77695,
+  "sha256": "c47ba22c588709f060e745d0caead28ce1fdc0640267e0ebe0aa0fcf6a374bbf"
+ },
+ {
+  "station": "00390",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00390_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00390_20040701_20251231_hist.zip",
+  "bytes": 1061190,
+  "sha256": "eaf1b6466829b509d5c4dec0810d73bfecd261aae091ba75352f4f691bfe74df"
+ },
+ {
+  "station": "00390",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00390_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00390_akt.zip",
+  "bytes": 79043,
+  "sha256": "5fe0c7c18975b58a52f731160e17fb83a1376ea9350429ba119cdcfb4c5ec06d"
+ },
+ {
+  "station": "00535",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00535_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00535_20040601_20251231_hist.zip",
+  "bytes": 1024055,
+  "sha256": "71301b2584cf7906cbba4acd801b06999939238eb0e87c4fa78d08e06745f1cb"
+ },
+ {
+  "station": "00535",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00535_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00535_akt.zip",
+  "bytes": 78860,
+  "sha256": "46aac1a621e3b509eab99fd6c15a1b0baf929b217f7df200b7bfaceee5dd977a"
+ },
+ {
+  "station": "00535",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00535_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00535_20040601_20251231_hist.zip",
+  "bytes": 1085954,
+  "sha256": "e8511cd36c9ae91709882a7db9118f45b921bd68c4d393daa7a3488b6d3726e2"
+ },
+ {
+  "station": "00535",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00535_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00535_akt.zip",
+  "bytes": 80325,
+  "sha256": "754dfda063c9fa35e38ea70832f3e579a4820c190a8daad42c7d4b8c157aeb5c"
+ },
+ {
+  "station": "00555",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00555_20080101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00555_20080101_20251231_hist.zip",
+  "bytes": 670677,
+  "sha256": "d9c0d2a0dda289383155f6bca70fbc16c44a8876759213f3144163b2dd286f41"
+ },
+ {
+  "station": "00555",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00555_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00555_akt.zip",
+  "bytes": 79232,
+  "sha256": "b42f370986950fc023205195a8c0f34fe3227579ef29ee764341525eaab569c5"
+ },
+ {
+  "station": "00555",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00555_20080101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00555_20080101_20251231_hist.zip",
+  "bytes": 709831,
+  "sha256": "046da0d8eb225ffe4f7fd409d6fded47867b19efe5eee62209a7a73792306b70"
+ },
+ {
+  "station": "00555",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00555_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00555_akt.zip",
+  "bytes": 80354,
+  "sha256": "cc5bfe5d7fee1ff3592d980ff515a529644eebaab0535a970b41b1d5023d5e13"
+ },
+ {
+  "station": "00603",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00603_20010403_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00603_20010403_20251231_hist.zip",
+  "bytes": 1210884,
+  "sha256": "65ec85931f7acdcef54af4e824c2ce9544b594b9208f495602ed2f0a724a18b9"
+ },
+ {
+  "station": "00603",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00603_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00603_akt.zip",
+  "bytes": 81288,
+  "sha256": "2688ebc5b604eccfd22fad2318ae52b9eb918bdff75f1744432c86cce4baef04"
+ },
+ {
+  "station": "00603",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00603_19990303_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00603_19990303_20251231_hist.zip",
+  "bytes": 1380657,
+  "sha256": "b2f4a0fe9f6578d3ce421d0b0c3c1ef0d154ab55c90edb1f25ff7bc94ba63318"
+ },
+ {
+  "station": "00603",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00603_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00603_akt.zip",
+  "bytes": 82046,
+  "sha256": "f8d8e8368a10095a9136d4a6443112d54682f43885b9af95f9f6aeb3c2e1939a"
+ },
+ {
+  "station": "00603",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_00603_19860801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_00603_19860801_20251231_hist.zip",
+  "bytes": 1519575,
+  "sha256": "58aba1e3d2c5e83bab57b738b9edb0724713de9ca76965d38bf6462dbd1e7118"
+ },
+ {
+  "station": "00603",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_00603_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_00603_akt.zip",
+  "bytes": 72398,
+  "sha256": "a57725c99abcdc3be8425b2ff46d96131a09f298e58832598dfaf3aea3315a39"
+ },
+ {
+  "station": "00603",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_00603_19990303_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_00603_19990303_20251231_hist.zip",
+  "bytes": 1356272,
+  "sha256": "9c0f358ea727e5ae5c1c8ba972d46716a26b67c45e230a8fdcf9939505161ad4"
+ },
+ {
+  "station": "00603",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_00603_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_00603_akt.zip",
+  "bytes": 83056,
+  "sha256": "15870d662216ebaf7d1293bb1c080e56c3829ffd7311d898afed41526e30487f"
+ },
+ {
+  "station": "00617",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00617_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00617_20040601_20251231_hist.zip",
+  "bytes": 1028188,
+  "sha256": "fc67821916dafd369fee50d67be584eb60031e4ffd3dde844fc4b5e607bfc30e"
+ },
+ {
+  "station": "00617",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00617_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00617_akt.zip",
+  "bytes": 78789,
+  "sha256": "31ddf21f0388eb295d12b8dc27964439467d95d9b7acba9416104bc16fb5b49c"
+ },
+ {
+  "station": "00617",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00617_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00617_20040601_20251231_hist.zip",
+  "bytes": 1089641,
+  "sha256": "ef242206dda9dd1dbfbd478f6883fa651e4f959aa0913b72657ebbf7df1aacdb"
+ },
+ {
+  "station": "00617",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00617_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00617_akt.zip",
+  "bytes": 80082,
+  "sha256": "a81704272f29396a00048aebe4ffe26656bbc90a4ea5285fa71b7a699432a795"
+ },
+ {
+  "station": "00691",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00691_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00691_19490101_20251231_hist.zip",
+  "bytes": 3608501,
+  "sha256": "fdc0170f803ab7cc87abf65012bc68986e016ba759dc7aa4ca40972100d3729b"
+ },
+ {
+  "station": "00691",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00691_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00691_akt.zip",
+  "bytes": 81816,
+  "sha256": "40faba296bdf30ed661d574ad9ea89e5d4dd33692f2974bed06213d72baa0023"
+ },
+ {
+  "station": "00691",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00691_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00691_19490101_20251231_hist.zip",
+  "bytes": 3041200,
+  "sha256": "a665d621b5d37c372f3d509066eccc66127c448765ba6f7852c62b0d459e4056"
+ },
+ {
+  "station": "00691",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00691_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00691_akt.zip",
+  "bytes": 81748,
+  "sha256": "df94516a5ab088dd005229b4c2a0b25a2cfe50dc2b6f15c565b6517b3b7158d4"
+ },
+ {
+  "station": "00691",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_00691_19260101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_00691_19260101_20251231_hist.zip",
+  "bytes": 3080207,
+  "sha256": "1b8259bb6ab06c37a846a72ec22b42b5866df69d4224fe02b02511ed54d78137"
+ },
+ {
+  "station": "00691",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_00691_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_00691_akt.zip",
+  "bytes": 72064,
+  "sha256": "65cba91d2ce1d42823017f728c77cbf915f19fd62c2839a13409bbc6cbe2d225"
+ },
+ {
+  "station": "00691",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_00691_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_00691_19490101_20251231_hist.zip",
+  "bytes": 2838484,
+  "sha256": "3934fa01a37cb24f2cd56141f24c6178c457c9f8e9116da19a6ee019ce9ac1f8"
+ },
+ {
+  "station": "00691",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_00691_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_00691_akt.zip",
+  "bytes": 77606,
+  "sha256": "b0e1031158fd972f9e8133f16cfac97fb7d977621d4feb4904cd5b4d3a30843e"
+ },
+ {
+  "station": "00766",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00766_20020101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00766_20020101_20251231_hist.zip",
+  "bytes": 1146230,
+  "sha256": "01783db9cf30e7c142c3ef13541f265f540d0d40c2fc5a79ba98abfdae4822db"
+ },
+ {
+  "station": "00766",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00766_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00766_akt.zip",
+  "bytes": 79378,
+  "sha256": "c50329ec8992e5eba66b8374575b3df4f1a1347cda9a6264dfb13de72edf758a"
+ },
+ {
+  "station": "00766",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00766_19790101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00766_19790101_20251231_hist.zip",
+  "bytes": 1788312,
+  "sha256": "1b9dac75463060c95c5089c05cbc0c9b430be9be5146688d92c68bde12898a7d"
+ },
+ {
+  "station": "00766",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00766_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00766_akt.zip",
+  "bytes": 81284,
+  "sha256": "f2d14f25167382564f358bb9080808bffe009eebfdcc252863c135ac2d0d30d6"
+ },
+ {
+  "station": "00766",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_00766_19650101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_00766_19650101_20251231_hist.zip",
+  "bytes": 2239153,
+  "sha256": "ec20a7136f774736b10729171284df7d96ab5abf0a2d040a7644c929a97ccb4b"
+ },
+ {
+  "station": "00766",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_00766_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_00766_akt.zip",
+  "bytes": 58325,
+  "sha256": "fb512709cb5ae3c4e69debd4d63b3785573fc03dacd565d45e75d9d5a84cb0e2"
+ },
+ {
+  "station": "00766",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_00766_19790101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_00766_19790101_20251231_hist.zip",
+  "bytes": 1816772,
+  "sha256": "80c5b5f0a4641388a0b2c89300b457dbde603b60813c63af50b1b9c5a92694f6"
+ },
+ {
+  "station": "00766",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_00766_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_00766_akt.zip",
+  "bytes": 84884,
+  "sha256": "3e33416d1e4ea823aa45428ed2d674bb4eea7ab82fac35243569e4f4f22b3503"
+ },
+ {
+  "station": "00769",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00769_20020101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00769_20020101_20251231_hist.zip",
+  "bytes": 1164913,
+  "sha256": "026f43ccac4c93c958af70276c5b5a6a38bec70215baeeb5afb3061c86619768"
+ },
+ {
+  "station": "00769",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00769_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00769_akt.zip",
+  "bytes": 81414,
+  "sha256": "81194c5672067aa3a0171d4e2bc4f7c44713f203da389afe1a9de587368119d6"
+ },
+ {
+  "station": "00769",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00769_19930301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00769_19930301_20251231_hist.zip",
+  "bytes": 1690522,
+  "sha256": "61f611c907dd3ba0e0b9b8e11980a3cd816cb185af1e72e79afdad6d32afdae2"
+ },
+ {
+  "station": "00769",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00769_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00769_akt.zip",
+  "bytes": 82474,
+  "sha256": "a337b40b3cea2be30463c387e90c06bc6f0990f292782ac0529796ba1e5341f8"
+ },
+ {
+  "station": "00769",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_00769_19930301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_00769_19930301_20251231_hist.zip",
+  "bytes": 1649897,
+  "sha256": "8cd7d911dafd059ee8244ae412974b54cb8a7a6c910dffe0f701c0b3ca1c1deb"
+ },
+ {
+  "station": "00769",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_00769_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_00769_akt.zip",
+  "bytes": 82099,
+  "sha256": "f09d51927f2d245a4e44717660c13e056d9960806d987693e4b6a425ab6a3aea"
+ },
+ {
+  "station": "00817",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00817_20050201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00817_20050201_20251231_hist.zip",
+  "bytes": 995519,
+  "sha256": "9a656072c2a999f30c347d8a841858e2c79e01ff37c95366e7396329e52321db"
+ },
+ {
+  "station": "00817",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00817_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00817_akt.zip",
+  "bytes": 78988,
+  "sha256": "90d3fe5165c4c378eb9cfb7ed33666ca5cfc2683ef991df444c58e840240a8bb"
+ },
+ {
+  "station": "00817",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00817_20050201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00817_20050201_20251231_hist.zip",
+  "bytes": 1061345,
+  "sha256": "3feb270ac1179e32d60393c5b33271c4bb6aab6beb6e8ac9166771e2ab6103d5"
+ },
+ {
+  "station": "00817",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00817_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00817_akt.zip",
+  "bytes": 80844,
+  "sha256": "397e913a480456766c1f694eaba6bd6524588032db5a27781b349e9595498da4"
+ },
+ {
+  "station": "00963",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_00963_19940103_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_00963_19940103_20251231_hist.zip",
+  "bytes": 1521307,
+  "sha256": "1d47816c8883874b2a7c396d9f44bf7b4063a61458ea9dd5776006e1844f96cf"
+ },
+ {
+  "station": "00963",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_00963_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_00963_akt.zip",
+  "bytes": 81384,
+  "sha256": "3d4b10a0906118741e7db2b1a3b85256b025d8577f5f29f40d4895eec52d3b45"
+ },
+ {
+  "station": "00963",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_00963_19930301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_00963_19930301_20251231_hist.zip",
+  "bytes": 1646899,
+  "sha256": "a7691cdb5ee07dcfa002bb1b1f280f115f0b1df04852f2513871f2a1c7f0ccc6"
+ },
+ {
+  "station": "00963",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_00963_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_00963_akt.zip",
+  "bytes": 82256,
+  "sha256": "330368e1cb758331fa2dc756823f0943e717a298b9096f365f410096aa2a6290"
+ },
+ {
+  "station": "00963",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_00963_19740101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_00963_19740101_20251231_hist.zip",
+  "bytes": 1991951,
+  "sha256": "9cabc373b3c01a59a29e75d6943c8c62ad11629fc35296c5b7677d2876f35125"
+ },
+ {
+  "station": "00963",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_00963_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_00963_akt.zip",
+  "bytes": 72185,
+  "sha256": "d6cfc017f4f040f8e400733210762de4bda629bda06b2e309783e02565cbdc5e"
+ },
+ {
+  "station": "00963",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_00963_19930301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_00963_19930301_20251231_hist.zip",
+  "bytes": 1596906,
+  "sha256": "c50100693742be266656c5d69b8f321119949945c6095fe0026184406c9b708a"
+ },
+ {
+  "station": "00963",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_00963_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_00963_akt.zip",
+  "bytes": 80691,
+  "sha256": "095884cba1fdc85a0876e0efeb508ac904ff14e7907fa34f31ee586c784c51c1"
+ },
+ {
+  "station": "01078",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01078_19760301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01078_19760301_20251231_hist.zip",
+  "bytes": 2376264,
+  "sha256": "0a51f0713c0fc52a5b1d792c8d613019f921c91ed9b27f070c3a37bade9e77dd"
+ },
+ {
+  "station": "01078",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01078_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01078_akt.zip",
+  "bytes": 81804,
+  "sha256": "793a121ad5bf39eec27d4c654367c40ce757934dc939aa420f2907b6dbec14c3"
+ },
+ {
+  "station": "01078",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01078_19490530_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01078_19490530_20251231_hist.zip",
+  "bytes": 3059447,
+  "sha256": "5a56bf78d7541100e9182cca91558def0b8e9f676d33c411f334af93be16f5b4"
+ },
+ {
+  "station": "01078",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01078_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01078_akt.zip",
+  "bytes": 82223,
+  "sha256": "f12841937a5011d95209d4727626f4799384ade85e54dedcc81c04a43c1f15b6"
+ },
+ {
+  "station": "01078",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_01078_19520101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_01078_19520101_20251231_hist.zip",
+  "bytes": 2917639,
+  "sha256": "d97f6b9aa4531e530b5d855b90483dbea3a68fd6596067bee6fe52efe4df41ef"
+ },
+ {
+  "station": "01078",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_01078_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_01078_akt.zip",
+  "bytes": 72424,
+  "sha256": "29311b3c05591c6691a7ea7cd8a7d47f04a8e72432101a069104ce33f0563b64"
+ },
+ {
+  "station": "01078",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_01078_19490501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_01078_19490501_20251231_hist.zip",
+  "bytes": 2926059,
+  "sha256": "d36bdec3af0550c7be6a196ebb7cc71739c2cfd1a7c5d62321d6893401fae3e6"
+ },
+ {
+  "station": "01078",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_01078_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_01078_akt.zip",
+  "bytes": 80381,
+  "sha256": "aa49ed36be4b6c00ccf884e01546c3c53609905975818c04d7d10f138a76d28e"
+ },
+ {
+  "station": "01246",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01246_20150801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01246_20150801_20251231_hist.zip",
+  "bytes": 502609,
+  "sha256": "07a2cca1677aaa78e53fdde2dbce340d8c55110abf75e88780d6bee786b8edd3"
+ },
+ {
+  "station": "01246",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01246_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01246_akt.zip",
+  "bytes": 79916,
+  "sha256": "5c2818e2dfcc25935b4466f10bf42b3a34e911d8fa1d02a46176f8b94ff2aec2"
+ },
+ {
+  "station": "01246",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01246_20150801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01246_20150801_20251231_hist.zip",
+  "bytes": 528822,
+  "sha256": "06ee355fa74199113dc8ae90102e94f0b30daf8b7b4be6de5457bfd5740de76e"
+ },
+ {
+  "station": "01246",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01246_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01246_akt.zip",
+  "bytes": 80864,
+  "sha256": "cd0086329de7ddea9be7ebf515314fa602a5d6d1a51eeaf905284e8578d2801c"
+ },
+ {
+  "station": "01300",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01300_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01300_20040601_20251231_hist.zip",
+  "bytes": 1004789,
+  "sha256": "a6d8923f7879e0cfc4c39d89c1dac863a52e139065dc9ccc408043b8a00ea8a0"
+ },
+ {
+  "station": "01300",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01300_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01300_akt.zip",
+  "bytes": 79271,
+  "sha256": "81195fff113f1f513d11ba467ef665084965b5a91717c601455c9aa880b34e37"
+ },
+ {
+  "station": "01300",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01300_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01300_20040601_20251231_hist.zip",
+  "bytes": 1069647,
+  "sha256": "d1b258e675b175df12ea0c1d2045fd0c734949c07762e4e9c239752afeb62185"
+ },
+ {
+  "station": "01300",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01300_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01300_akt.zip",
+  "bytes": 80812,
+  "sha256": "27c4d6ad0d8aa707d94863d64a082fbfda9f10de5d77de55cde2febb4422a76b"
+ },
+ {
+  "station": "01303",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01303_19510101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01303_19510101_20251231_hist.zip",
+  "bytes": 3525817,
+  "sha256": "eb1b32357bccf290d474396847735110eac2ca103c7628a47ad5ac3a6b77afac"
+ },
+ {
+  "station": "01303",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01303_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01303_akt.zip",
+  "bytes": 79719,
+  "sha256": "7c8218f790e47cb6775bc3d8c15893c3cebef2bd1767b1a31c1121fc2cf28bc0"
+ },
+ {
+  "station": "01303",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01303_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01303_19490101_20251231_hist.zip",
+  "bytes": 2714411,
+  "sha256": "94864cef9714cfcb7061a4b85de3f4d05881fa99dc09f026abacd49f92a19590"
+ },
+ {
+  "station": "01303",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01303_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01303_akt.zip",
+  "bytes": 80131,
+  "sha256": "55d16f3cd90f24bc012e05932003f51b15f0350b5494074bea50893851d3e150"
+ },
+ {
+  "station": "01303",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_01303_19630101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_01303_19630101_20251231_hist.zip",
+  "bytes": 2508058,
+  "sha256": "2a8046988afe1c46a1e842781b7f4abf58637a57300f4e95756d934f20891f28"
+ },
+ {
+  "station": "01303",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_01303_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_01303_akt.zip",
+  "bytes": 70758,
+  "sha256": "cff0a8575c2969be2e6a86ab80b9bbb6e96fa932c350d70290ef48e01e794319"
+ },
+ {
+  "station": "01303",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_01303_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_01303_19490101_20251231_hist.zip",
+  "bytes": 2664640,
+  "sha256": "33220b1dc75deb7b7c738982904fb5a1b00ee8993f3aff4ac7e3d7530dc35124"
+ },
+ {
+  "station": "01303",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_01303_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_01303_akt.zip",
+  "bytes": 81551,
+  "sha256": "269d094254c676714fdd6b01f9326c9e5cd80f55a9ea674fdbb156ab909fd457"
+ },
+ {
+  "station": "01327",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01327_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01327_20040801_20251231_hist.zip",
+  "bytes": 1029314,
+  "sha256": "2f6d7ba2b5bda075184af56c9b57e23f7555c8fb7279065fb348fe348d652745"
+ },
+ {
+  "station": "01327",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01327_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01327_akt.zip",
+  "bytes": 79445,
+  "sha256": "61a5f0347398745fe86846223926cd3b28917262c5c46fd49a5699c37c54519e"
+ },
+ {
+  "station": "01327",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01327_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01327_20040801_20251231_hist.zip",
+  "bytes": 1086568,
+  "sha256": "fd720d9abae766847ab4b0bf3d7275d121dd3dc0d81b0fbc9538300fbedace78"
+ },
+ {
+  "station": "01327",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01327_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01327_akt.zip",
+  "bytes": 80544,
+  "sha256": "3304b6c91957ec134614d37e494809defa39da7aa6c3c66e1dc6ac6f8d915f20"
+ },
+ {
+  "station": "01420",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01420_19810101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01420_19810101_20251231_hist.zip",
+  "bytes": 2160057,
+  "sha256": "c50d340202d5147d781f6bbb5a880691fbd3215e2c730d9b9cca2ea801440282"
+ },
+ {
+  "station": "01420",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01420_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01420_akt.zip",
+  "bytes": 82134,
+  "sha256": "1a2b356eccb2cb90f1e2e64a0739346fd03226744cd756999231f914578b26a6"
+ },
+ {
+  "station": "01420",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01420_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01420_19490101_20251231_hist.zip",
+  "bytes": 3074580,
+  "sha256": "05787ab100658b522f1b6ed351885b0adf8d11993420dae4979944a8835eb207"
+ },
+ {
+  "station": "01420",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01420_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01420_akt.zip",
+  "bytes": 82700,
+  "sha256": "c5e63ae28f261208f3f9547774ca7b6a67161357fdb2b9f3744b0868457e1c8c"
+ },
+ {
+  "station": "01420",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_01420_19670101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_01420_19670101_20251231_hist.zip",
+  "bytes": 2346883,
+  "sha256": "0be507f35315ae1d59aa2dc889c2201b078f3a23879c816a51a4d706c2eb4f4f"
+ },
+ {
+  "station": "01420",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_01420_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_01420_akt.zip",
+  "bytes": 72983,
+  "sha256": "e798995fc7129f8195428270098dab4dac8bbd752ed08a6d5e400c06c25cce54"
+ },
+ {
+  "station": "01420",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_01420_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_01420_19490101_20251231_hist.zip",
+  "bytes": 2954942,
+  "sha256": "b9fe8c59d345806e7d6d210898832f9cf861195d9f7cf38dad1a2db6687d4775"
+ },
+ {
+  "station": "01420",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_01420_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_01420_akt.zip",
+  "bytes": 82653,
+  "sha256": "e77907bdad48c5ed403b0a5786483c7464ce8be949caa14ccab3fd30df5dd0b2"
+ },
+ {
+  "station": "01424",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01424_20080801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01424_20080801_20251231_hist.zip",
+  "bytes": 837880,
+  "sha256": "597cbe46c6ad2b6303f12a33b32b52452cc44fb3aa3c9fd7f5fa724f3d01bd67"
+ },
+ {
+  "station": "01424",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01424_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01424_akt.zip",
+  "bytes": 79445,
+  "sha256": "cae25acf538558772ac37219013f2b4cf3937750512a2fdd815ac05eb3c0d3c4"
+ },
+ {
+  "station": "01424",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01424_20080801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01424_20080801_20251231_hist.zip",
+  "bytes": 881135,
+  "sha256": "22bd9bdfc541a76a0f5c976804adaa7aecc88489b6fd0a11e560ab5baf35e8ae"
+ },
+ {
+  "station": "01424",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01424_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01424_akt.zip",
+  "bytes": 80161,
+  "sha256": "5c853aa1131903a01018df211e15e4a45e547c1a91909ad37dab5c8975d5be4a"
+ },
+ {
+  "station": "01503",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01503_20121001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01503_20121001_20251231_hist.zip",
+  "bytes": 628953,
+  "sha256": "df6cb79990b94ff8d17e91af78f591544e570feb2a33295d975a9d4565b8d049"
+ },
+ {
+  "station": "01503",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01503_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01503_akt.zip",
+  "bytes": 79708,
+  "sha256": "079fa790b54055b4a08890a68a1e7260778c7291269e5cef0acbc9ebdebe6eb8"
+ },
+ {
+  "station": "01503",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01503_20121001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01503_20121001_20251231_hist.zip",
+  "bytes": 666202,
+  "sha256": "0e99d27f687dca5f6de8160ad406987a136bf2f5c877d4cb0bd38bf9ae8f0494"
+ },
+ {
+  "station": "01503",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01503_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01503_akt.zip",
+  "bytes": 81284,
+  "sha256": "4c4cb971e4acdc5a55c27a330d03e9d96595c00333ebb67c871f624b589b7bbe"
+ },
+ {
+  "station": "01503",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_01503_20121001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_01503_20121001_20251231_hist.zip",
+  "bytes": 556412,
+  "sha256": "2f7b258f351e326526ae36c1a0e8e96f76c41b32e9f49b63b1823d4f3115681e"
+ },
+ {
+  "station": "01503",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_01503_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_01503_akt.zip",
+  "bytes": 71120,
+  "sha256": "cdcf859760b5fc30bca9f0ec3db002991b1e952238be8ac8002f21b158d2c850"
+ },
+ {
+  "station": "01503",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_01503_20121001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_01503_20121001_20251231_hist.zip",
+  "bytes": 621568,
+  "sha256": "1ab8c763476e63b84b0bd843357205dac0b7b3ee19e5db6e579edeb48818f03b"
+ },
+ {
+  "station": "01503",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_01503_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_01503_akt.zip",
+  "bytes": 76684,
+  "sha256": "9907648bf8aa7be47d2f95600aca31efde9dd85826facddb4e610f8335752ff5"
+ },
+ {
+  "station": "01504",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01504_20020101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01504_20020101_20251231_hist.zip",
+  "bytes": 1165299,
+  "sha256": "275a76f365dd896ae54050e53bf544607c8c97108ed11feac977d6b508d7bced"
+ },
+ {
+  "station": "01504",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01504_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01504_akt.zip",
+  "bytes": 80642,
+  "sha256": "cadd5042f45125f18b48ebf1abf18fb1b6d899fadd825ce706acb5eba5ee034e"
+ },
+ {
+  "station": "01504",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01504_19930301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01504_19930301_20251231_hist.zip",
+  "bytes": 1703118,
+  "sha256": "a2708775a4f1f9ef0ea8e915b8ab72c496b001386e8d570d64a670d9830e83e9"
+ },
+ {
+  "station": "01504",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01504_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01504_akt.zip",
+  "bytes": 82451,
+  "sha256": "a4e0499fd669ffff1fa7b3170f3d33a8eec1463e9237125a9baa5c79c48ce4a4"
+ },
+ {
+  "station": "01504",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_01504_19930301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_01504_19930301_20251231_hist.zip",
+  "bytes": 1702752,
+  "sha256": "ff5c5d723750be4a8ed8e9ce02e3c457f1304ee77d53647b772d32f625b92523"
+ },
+ {
+  "station": "01504",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_01504_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_01504_akt.zip",
+  "bytes": 83517,
+  "sha256": "c20891d8501a3b6d53764947449c34740f345bf7d9c4277bb1429da4f62fc88f"
+ },
+ {
+  "station": "01572",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01572_20020101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01572_20020101_20251231_hist.zip",
+  "bytes": 971019,
+  "sha256": "515439ad28c3b155b6892064102b178835689fc363612b83500fc912dbc078fb"
+ },
+ {
+  "station": "01572",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01572_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01572_akt.zip",
+  "bytes": 81224,
+  "sha256": "2e4c0bdba414f65303c425ae23b88c48c7ab6376315210e292c2feb5f5b7e6fa"
+ },
+ {
+  "station": "01572",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01572_19930215_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01572_19930215_20251231_hist.zip",
+  "bytes": 1513710,
+  "sha256": "6480a5d17784afc5f9c2a26bbf290606fc2e53d413dce74b9cded82472740bb6"
+ },
+ {
+  "station": "01572",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01572_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01572_akt.zip",
+  "bytes": 82225,
+  "sha256": "68e42e182a8c68ee6136629bc00edfcf0b5a0961412f93f450ae7d3f9ba13154"
+ },
+ {
+  "station": "01572",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_01572_19930215_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_01572_19930215_20251231_hist.zip",
+  "bytes": 1473959,
+  "sha256": "ed08932b2c55d2f09bd42ad62fe3697120aa960afcf4f39ad3db9aad3f335cfd"
+ },
+ {
+  "station": "01572",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_01572_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_01572_akt.zip",
+  "bytes": 82196,
+  "sha256": "179d7b3e7054b1cc0172dea6054750c730378c6188e6c0b1482c1615edc23dcf"
+ },
+ {
+  "station": "01590",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01590_20030701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01590_20030701_20251231_hist.zip",
+  "bytes": 1072113,
+  "sha256": "ab40f3ed07a1c9c79b41a2b2c2c3ee1c459f72ecef09eedd367aefbd4fe82867"
+ },
+ {
+  "station": "01590",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01590_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01590_akt.zip",
+  "bytes": 78850,
+  "sha256": "bdd8932691258596adb14cd91b529cb75bd9a00203d287886fc626862aa5a7af"
+ },
+ {
+  "station": "01590",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01590_20030701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01590_20030701_20251231_hist.zip",
+  "bytes": 1133083,
+  "sha256": "54b830b783737c46477e6f0618fb09a72cd107da631dd88ed1a55cf9f09b63ea"
+ },
+ {
+  "station": "01590",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01590_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01590_akt.zip",
+  "bytes": 79979,
+  "sha256": "972e82810e526e4071bcce8d58ce25c30ea56e5663b8862170dd629bedee14f2"
+ },
+ {
+  "station": "01639",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01639_19500101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01639_19500101_20251231_hist.zip",
+  "bytes": 3585256,
+  "sha256": "f9a5ae961962516f9c3eca0491c74348cdf6827b3edde63a87f83fe13f5adb11"
+ },
+ {
+  "station": "01639",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01639_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01639_akt.zip",
+  "bytes": 81734,
+  "sha256": "1b27223c5f79a130d608277264601d03ca5533f9e72d2032bb1af8ffdca07f84"
+ },
+ {
+  "station": "01639",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01639_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01639_19490101_20251231_hist.zip",
+  "bytes": 2703667,
+  "sha256": "3ac1b45d05d9ef2db5ca2c3195592db6e7d5008a972cdcba4960ff6d011da7f5"
+ },
+ {
+  "station": "01639",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01639_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01639_akt.zip",
+  "bytes": 82040,
+  "sha256": "b5276bd48cc72d51afa12c9aa15e115bb49dee3ebcd6b3367bb546bdda53ebcf"
+ },
+ {
+  "station": "01639",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_01639_19390101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_01639_19390101_20251231_hist.zip",
+  "bytes": 3217418,
+  "sha256": "bded979a7cc6880e497152d6930f1958cfcd32bfe1611ff89a0ff187a7769040"
+ },
+ {
+  "station": "01639",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_01639_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_01639_akt.zip",
+  "bytes": 72636,
+  "sha256": "2f5ef3a3f370fbb7d5b5447783b792db9051a2f2a492a781719b1edd89107e19"
+ },
+ {
+  "station": "01639",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_01639_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_01639_19490101_20251231_hist.zip",
+  "bytes": 2624801,
+  "sha256": "636c4a669ba3d3958b5bedbaf4806d9b60607025315c76c5258faeae924d4dea"
+ },
+ {
+  "station": "01639",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_01639_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_01639_akt.zip",
+  "bytes": 83951,
+  "sha256": "c95cf04c7f08c37d90a1a15e6b0e842b922aa827fa54e065404bc3c7960fefe1"
+ },
+ {
+  "station": "01645",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01645_20040501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01645_20040501_20251231_hist.zip",
+  "bytes": 1004459,
+  "sha256": "2e3b421da84cdf322d3be02e78a6bc6dc48af84adb9d5f2a5a36694ac820ffcb"
+ },
+ {
+  "station": "01645",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01645_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01645_akt.zip",
+  "bytes": 79573,
+  "sha256": "0062ddc0b344be19626cc7ebf3c06a6e3783b5b407a19c805bfe86b97314f351"
+ },
+ {
+  "station": "01645",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01645_20040501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01645_20040501_20251231_hist.zip",
+  "bytes": 1077753,
+  "sha256": "9f2e7bd5acc640e5a223a379c49033acaa3fa448e2e86aa366bf1b4e3e9ffc2d"
+ },
+ {
+  "station": "01645",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01645_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01645_akt.zip",
+  "bytes": 81665,
+  "sha256": "254ef2e030adb28fc64357f1658b5a5dfabdf089a116dc71888df63f84f20c0b"
+ },
+ {
+  "station": "01766",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01766_19891001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01766_19891001_20251231_hist.zip",
+  "bytes": 1725210,
+  "sha256": "ac56de3d29e88648f4dfe14fd1314ee565d65a0ac75ad3d8350f88c2ee6dcf32"
+ },
+ {
+  "station": "01766",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01766_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01766_akt.zip",
+  "bytes": 81356,
+  "sha256": "af423b525cce723c266132afd1f6ceab35491697dc126b99ba7b7412a06c977d"
+ },
+ {
+  "station": "01766",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01766_19891001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01766_19891001_20251231_hist.zip",
+  "bytes": 1850893,
+  "sha256": "92f1455b175f1557b951513bbfcbe624edfde1690f2460a09526843adf2d60d7"
+ },
+ {
+  "station": "01766",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01766_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01766_akt.zip",
+  "bytes": 81655,
+  "sha256": "1c1f936950b609bb8ab5c3947c2ef192ed8b19acea2529f79a68d3b97b9f63b1"
+ },
+ {
+  "station": "01766",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_01766_19820101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_01766_19820101_20251231_hist.zip",
+  "bytes": 1827393,
+  "sha256": "c39ee37557f4a4fb7df790a7ac03f5aae9e55eb72a1237ddd971266eb1099aac"
+ },
+ {
+  "station": "01766",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_01766_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_01766_akt.zip",
+  "bytes": 71363,
+  "sha256": "781010dd13c42b6406dfa2f4abd99c932027649dbd9559dff7a4868809799060"
+ },
+ {
+  "station": "01766",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_01766_19891001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_01766_19891001_20251231_hist.zip",
+  "bytes": 1798752,
+  "sha256": "783884ef48dd48100a8f381fea1b9ed892e8db59512c476175d8caabfef9139a"
+ },
+ {
+  "station": "01766",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_01766_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_01766_akt.zip",
+  "bytes": 80857,
+  "sha256": "8ef8a34e7d398010bc8df8907f294ddbc0549919b03d9f9a3b1fd0e919c5b8a9"
+ },
+ {
+  "station": "01792",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01792_20200814_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01792_20200814_20251231_hist.zip",
+  "bytes": 260333,
+  "sha256": "aaae28c2de6069bb488a7d943c60d689e2200781c928b66ced266711f419679c"
+ },
+ {
+  "station": "01792",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01792_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01792_akt.zip",
+  "bytes": 78024,
+  "sha256": "221af9b6b7e42b61177c6b5ee5a34142edc05ffd8f39af98c7cc0a40eed87d8b"
+ },
+ {
+  "station": "01792",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01792_20200818_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01792_20200818_20251231_hist.zip",
+  "bytes": 273778,
+  "sha256": "787c067c96dd907b0bf98232e5ba98226ab817c2ea3d21be00d8b4265654a3c1"
+ },
+ {
+  "station": "01792",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01792_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01792_akt.zip",
+  "bytes": 79818,
+  "sha256": "0c44a720f085552a73df448a586687821f0e1473d23ba48b4a69a0746765e5b7"
+ },
+ {
+  "station": "01863",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_01863_20071201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_01863_20071201_20251231_hist.zip",
+  "bytes": 861301,
+  "sha256": "11b8b59a9c0882b157161611895536b3dcd20794ccb61edf41545c7b13f355cf"
+ },
+ {
+  "station": "01863",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_01863_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_01863_akt.zip",
+  "bytes": 79507,
+  "sha256": "c676a8ac0ba14034769fb1316c915e6800f070c9b06d6f24a2f613b5028cbb8b"
+ },
+ {
+  "station": "01863",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_01863_20071201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_01863_20071201_20251231_hist.zip",
+  "bytes": 912511,
+  "sha256": "5fa6ad510b4bd509fd83981bf473f7d8d9e6d81c90e8dfef61270e0b1e06bae8"
+ },
+ {
+  "station": "01863",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_01863_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_01863_akt.zip",
+  "bytes": 80807,
+  "sha256": "3eeded724c600f7a59e4db6749308a91f9f02cb4c3477983f60544ed3d935d11"
+ },
+ {
+  "station": "02211",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02211_20041001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02211_20041001_20251231_hist.zip",
+  "bytes": 1006717,
+  "sha256": "1696e76403130e2565c52b1b3146e9357be934777e2943f104bb692802afd74d"
+ },
+ {
+  "station": "02211",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02211_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02211_akt.zip",
+  "bytes": 80703,
+  "sha256": "512459b39ffd89611624d8366b2c9371025316f0bfaf2a1fc6947edf4c353123"
+ },
+ {
+  "station": "02211",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02211_20041001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02211_20041001_20251231_hist.zip",
+  "bytes": 1066980,
+  "sha256": "94a20c7f3ff56d90c3a6d16267e8eac8fa52f3fbfe513ee8779d6736c82baab5"
+ },
+ {
+  "station": "02211",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02211_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02211_akt.zip",
+  "bytes": 81735,
+  "sha256": "6b3acb8027eb36d7850f6ff718df3dfe32042d4e3e30c91512888729c968cf5d"
+ },
+ {
+  "station": "02323",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02323_20060701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02323_20060701_20251231_hist.zip",
+  "bytes": 936004,
+  "sha256": "a742878a2e312c78fa3967a7a84b7fd2f9ed483089ccfc68a94a9c3f43adc4f7"
+ },
+ {
+  "station": "02323",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02323_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02323_akt.zip",
+  "bytes": 78946,
+  "sha256": "ef21d1654c604d3f24df4cab9c1129b89312fd5dfe4a4e14edb9503e2cb4e249"
+ },
+ {
+  "station": "02323",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02323_20060701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02323_20060701_20251231_hist.zip",
+  "bytes": 990227,
+  "sha256": "f474bc8e234e550ee69f388d189a5240e87e80761bd6d891e28872c6ec796a4e"
+ },
+ {
+  "station": "02323",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02323_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02323_akt.zip",
+  "bytes": 80375,
+  "sha256": "bd37faffa46d8ff1a2a4f553176f3245dd3e76ec7b05cc14c8364317b6ef430e"
+ },
+ {
+  "station": "02480",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02480_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02480_20040901_20251231_hist.zip",
+  "bytes": 1025749,
+  "sha256": "e961c1a00da617e78eabe43d0c8572673a532fb7b96e73460a5008eb37f10e44"
+ },
+ {
+  "station": "02480",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02480_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02480_akt.zip",
+  "bytes": 81345,
+  "sha256": "c219552d5bddd7edb58add03a28bf77a5e546b4de707261cd9b2906875d13a3b"
+ },
+ {
+  "station": "02480",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02480_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02480_20040901_20251231_hist.zip",
+  "bytes": 1085153,
+  "sha256": "dbe750075a2bc05303e1bd22e7b426c07a308eb49d22722006009763ad59fa9f"
+ },
+ {
+  "station": "02480",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02480_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02480_akt.zip",
+  "bytes": 82458,
+  "sha256": "f714887b054e87d312345fda309af95dd0ec54b5d122446e37224a02eeb16464"
+ },
+ {
+  "station": "02483",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02483_19510101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02483_19510101_20251231_hist.zip",
+  "bytes": 3140751,
+  "sha256": "2d8531e663e13743c3933b013494c61defcd7b598a9b3c2ad2d2f370103f3233"
+ },
+ {
+  "station": "02483",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02483_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02483_akt.zip",
+  "bytes": 78394,
+  "sha256": "2237292f4a3dbccfc8663d172610372d0700da9cdeab19c475d5934fffe07945"
+ },
+ {
+  "station": "02483",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02483_19541207_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02483_19541207_20251231_hist.zip",
+  "bytes": 2525941,
+  "sha256": "d5ebdf71a920058056660acde3a242b24c08d5d7265c378f4ab48a364956ee19"
+ },
+ {
+  "station": "02483",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02483_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02483_akt.zip",
+  "bytes": 80259,
+  "sha256": "30ee52f896072ae2454d12ca9dba81d2f82b79c72f11338c0196e4b084ee01df"
+ },
+ {
+  "station": "02483",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_02483_19690101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_02483_19690101_20251231_hist.zip",
+  "bytes": 2330078,
+  "sha256": "3f045dea039dac0fb0dd2ff1a59fa656152ea84f5be6d52e1764c08b3e4b2b35"
+ },
+ {
+  "station": "02483",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_02483_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_02483_akt.zip",
+  "bytes": 70559,
+  "sha256": "9eb2ca4d1e5cdce16530f97c62cb76c5716910c744dc07482396770cbfd5f4a5"
+ },
+ {
+  "station": "02483",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_02483_19541210_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_02483_19541210_20251231_hist.zip",
+  "bytes": 1767841,
+  "sha256": "d9bc7e51d01fb2c44196bc7a85b9116af15f6648bfa8cef565114dcc82997275"
+ },
+ {
+  "station": "02483",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_02483_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_02483_akt.zip",
+  "bytes": 62290,
+  "sha256": "52ccee5c9ba8eeaed70ec8e9022a62f902ed8e1f95bb006d81415e1ede594950"
+ },
+ {
+  "station": "02497",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02497_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02497_20040801_20251231_hist.zip",
+  "bytes": 1011711,
+  "sha256": "e510569b6639fae2713293326e2b4711b0a7e03113e6c2800c75f8883a6309a4"
+ },
+ {
+  "station": "02497",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02497_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02497_akt.zip",
+  "bytes": 78709,
+  "sha256": "15bf9e7575d9127c5f9253e0a8bdc305cdea2aa00c5afa4c1f0db0e43c6414c7"
+ },
+ {
+  "station": "02497",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02497_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02497_20040801_20251231_hist.zip",
+  "bytes": 1074296,
+  "sha256": "c79e4f1095f31b57f235fc3bf4df4e64c8ac37e6c48258e46992e43c5f154dd9"
+ },
+ {
+  "station": "02497",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02497_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02497_akt.zip",
+  "bytes": 80116,
+  "sha256": "bcea8380d3d6036ff6c81ffb711b3b08a0f7275a4043501202b04acbbade023c"
+ },
+ {
+  "station": "02497",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_02497_19790101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_02497_19790101_20251231_hist.zip",
+  "bytes": 1880262,
+  "sha256": "a85740695df6cdd2bbd7322aba54d711372da84b72cfd120782f7afc7ec69578"
+ },
+ {
+  "station": "02497",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_02497_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_02497_akt.zip",
+  "bytes": 71494,
+  "sha256": "897bb90c2715b6615464d70fc5ff74d885fc3533702749ee6aba9519f3cfc0e6"
+ },
+ {
+  "station": "02601",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02601_19480101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02601_19480101_20251231_hist.zip",
+  "bytes": 3451054,
+  "sha256": "3954574abfd992b0341b6117af383801e28a2db019facb15cb52b5920146aa37"
+ },
+ {
+  "station": "02601",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02601_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02601_akt.zip",
+  "bytes": 77129,
+  "sha256": "ec7aa87c87048b97ddea866100ef5eb88ccfbc9a6fe4a7bc11f9ae6e0db408a5"
+ },
+ {
+  "station": "02601",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02601_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02601_19490101_20251231_hist.zip",
+  "bytes": 2571884,
+  "sha256": "a3ae5e8ca2d77557e2dfacfb0e65531781bffdbaaf1acdf48190a1873f2ef7f2"
+ },
+ {
+  "station": "02601",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02601_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02601_akt.zip",
+  "bytes": 79345,
+  "sha256": "73c3e571750a0e01fdcee2c566b6ba364506f1e0c2d3e5e038b2f379a5866eca"
+ },
+ {
+  "station": "02601",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_02601_19660101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_02601_19660101_20251231_hist.zip",
+  "bytes": 2391783,
+  "sha256": "8409452796ceaf7164b56ef6ebd8d0f0e8d929367922a240cbc438d13b62ab90"
+ },
+ {
+  "station": "02601",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_02601_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_02601_akt.zip",
+  "bytes": 70489,
+  "sha256": "6595d1ad1b649a20dc7eab58c084848093021499d4cc8dfd2a21b3ebcaf3f1e4"
+ },
+ {
+  "station": "02601",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_02601_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_02601_19490101_20251231_hist.zip",
+  "bytes": 1762519,
+  "sha256": "fafbbd6738fa85999d8efb85b89d6880ee4826f1b0624b35dc9527e0686dcac7"
+ },
+ {
+  "station": "02601",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_02601_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_02601_akt.zip",
+  "bytes": 60500,
+  "sha256": "ccfeaf678cdd7ba73ba91def50088bb0474ac97b1dd1845b6ed446f3ee3ef390"
+ },
+ {
+  "station": "02629",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02629_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02629_20040701_20251231_hist.zip",
+  "bytes": 1015585,
+  "sha256": "5307b131d8f9be7df208814282328ee97e2c8d52d638d4662a02abae7ae6a100"
+ },
+ {
+  "station": "02629",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02629_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02629_akt.zip",
+  "bytes": 78529,
+  "sha256": "a6229dbade6b24c4e6a33dc79b8f49f961d0771c86eeb6cfba36e4de2f8a8f99"
+ },
+ {
+  "station": "02629",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02629_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02629_20040701_20251231_hist.zip",
+  "bytes": 1077968,
+  "sha256": "9a0d1ea08a9b96687999f8fe4343bc9e7693b32a6ee14df11931c0798da8249b"
+ },
+ {
+  "station": "02629",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02629_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02629_akt.zip",
+  "bytes": 80216,
+  "sha256": "b5e8c04fd73e98bbd065e8f64f90aa0facbce21ec963ffc748d2d3c8402fa717"
+ },
+ {
+  "station": "02667",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02667_19600101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02667_19600101_20251231_hist.zip",
+  "bytes": 3153248,
+  "sha256": "8bda769b96f9a8bc98a33902b22bb9665a7b456fc9c92056141ea2c312b411de"
+ },
+ {
+  "station": "02667",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02667_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02667_akt.zip",
+  "bytes": 81893,
+  "sha256": "a352a3bfd0a8d0a1dab47422da53d54ac5815e0888d794fec9a0fb8f65bc3b12"
+ },
+ {
+  "station": "02667",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02667_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02667_19490101_20251231_hist.zip",
+  "bytes": 2900843,
+  "sha256": "5cbb5904dd80eaafbf6ff7940b45e16c8682681fa669522b6e380c08919be313"
+ },
+ {
+  "station": "02667",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02667_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02667_akt.zip",
+  "bytes": 82356,
+  "sha256": "5b00cc14c1c8e710202f4a78264e97de48a2f6d52f8cb7d0c6a1f77333d7c6ff"
+ },
+ {
+  "station": "02667",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_02667_19570701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_02667_19570701_20251231_hist.zip",
+  "bytes": 2718125,
+  "sha256": "d7eb2a5019020d74ecd10a9968c3227a6dae40953bf6700599b85912593a0903"
+ },
+ {
+  "station": "02667",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_02667_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_02667_akt.zip",
+  "bytes": 72365,
+  "sha256": "f40e64566a5db00bbecdb827425e0c270aa9ebff7cf88f0c3dbaf6c6ad371b33"
+ },
+ {
+  "station": "02667",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_02667_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_02667_19490101_20251231_hist.zip",
+  "bytes": 2797062,
+  "sha256": "8cef80b1eb2df47a0055145b1a08c37fc2b065b4ea155272492985db5153cf14"
+ },
+ {
+  "station": "02667",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_02667_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_02667_akt.zip",
+  "bytes": 82463,
+  "sha256": "21a2668024c5782ee61796398da34ad7e83451bb5f0a8d43eb13cc60963a284c"
+ },
+ {
+  "station": "02947",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_02947_20061001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_02947_20061001_20251231_hist.zip",
+  "bytes": 916858,
+  "sha256": "70452c95e6a250ccc270094d9b2ce2c14862d158c7c38549d7502c285169a284"
+ },
+ {
+  "station": "02947",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_02947_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_02947_akt.zip",
+  "bytes": 77137,
+  "sha256": "a0a7b3217dafffa0f931b0f7f684f46b54743997c5861805847cc280718be6c7"
+ },
+ {
+  "station": "02947",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_02947_20061001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_02947_20061001_20251231_hist.zip",
+  "bytes": 972262,
+  "sha256": "7e21c2620fd61ae418029c17956b0cddac35f24fa82148a8bb46c54b29cd3a62"
+ },
+ {
+  "station": "02947",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_02947_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_02947_akt.zip",
+  "bytes": 78213,
+  "sha256": "53e3ea75d66ca28c29017953015738e66dcc784034ab967ffc9a00a51744255c"
+ },
+ {
+  "station": "03028",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03028_19710401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03028_19710401_20251231_hist.zip",
+  "bytes": 2587770,
+  "sha256": "70438349eb8a3b46fbd2412712d443564450327363be259edd745968e9c0e3d5"
+ },
+ {
+  "station": "03028",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03028_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03028_akt.zip",
+  "bytes": 81422,
+  "sha256": "4328150795d889282733d645660f495c8328248c0472333aa1900409b3ecdb99"
+ },
+ {
+  "station": "03028",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03028_19710401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03028_19710401_20251231_hist.zip",
+  "bytes": 2424336,
+  "sha256": "98dd54bcedc704535904c72d78a77d68196e42e386c180a524b13a7871952fec"
+ },
+ {
+  "station": "03028",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03028_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03028_akt.zip",
+  "bytes": 81909,
+  "sha256": "408de4b275a89c3ca49238ead5beb69c9caa482537cea27b41b7dbb05079c44c"
+ },
+ {
+  "station": "03028",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_03028_19710401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_03028_19710401_20251231_hist.zip",
+  "bytes": 2263297,
+  "sha256": "fe9046f4c7c9be083b3be8055d57b43ca7c4d2dc3ae956f9a1553ab107965d6d"
+ },
+ {
+  "station": "03028",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_03028_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_03028_akt.zip",
+  "bytes": 71786,
+  "sha256": "646a56ecc948605387c38bb1b856cbe15fe2e4f31a6b904a5f9cd4c2b21f2d7d"
+ },
+ {
+  "station": "03028",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_03028_19710401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_03028_19710401_20251231_hist.zip",
+  "bytes": 2273697,
+  "sha256": "5239652679e3567a4639feb5ee8a0a2b9038965c95cbc8fbc0a6a7c09ec77fdd"
+ },
+ {
+  "station": "03028",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_03028_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_03028_akt.zip",
+  "bytes": 83008,
+  "sha256": "f5a1ee69313304b8d212ad3c98929b9ae76dab2efa91e2573241fc6ebdb3f07c"
+ },
+ {
+  "station": "03031",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03031_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03031_20040701_20251231_hist.zip",
+  "bytes": 1033827,
+  "sha256": "4b9e8f81b89eba9460ca15b8ac9d4d75f9107c1832920cb14688237f5f2a4d8d"
+ },
+ {
+  "station": "03031",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03031_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03031_akt.zip",
+  "bytes": 78938,
+  "sha256": "d235389aa8dcaa47d5041c8101a50ff1848a5af8c91e1195bfd7b52626d643e5"
+ },
+ {
+  "station": "03031",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03031_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03031_20040701_20251231_hist.zip",
+  "bytes": 1094425,
+  "sha256": "db06533276c2d8d95b5737a1374b0c6004b25851832622dc93e6d51e3deda90b"
+ },
+ {
+  "station": "03031",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03031_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03031_akt.zip",
+  "bytes": 80513,
+  "sha256": "b753ff3152c7d90bbf43547abb138d5c5edd749addcf5628f1449836ddeacecb"
+ },
+ {
+  "station": "03042",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03042_20080601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03042_20080601_20251231_hist.zip",
+  "bytes": 839131,
+  "sha256": "689fa89db49dba3bef0931153eb3f8eeff30b757aebd9d90cfef03364e394c0a"
+ },
+ {
+  "station": "03042",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03042_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03042_akt.zip",
+  "bytes": 79122,
+  "sha256": "f5dbd938e9efc1751d90f2a5f55cda0d5464b30777ca515c860878f4133f576b"
+ },
+ {
+  "station": "03042",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03042_20080601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03042_20080601_20251231_hist.zip",
+  "bytes": 893560,
+  "sha256": "ca92c8166946116f6e1cb92580ebf300e0e099ab31df296cc5d2b0f84aabc05b"
+ },
+ {
+  "station": "03042",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03042_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03042_akt.zip",
+  "bytes": 80715,
+  "sha256": "18cc2e78f6b4da43be24c597e934c9ab1b4cdfc4d4e6c59805471e84dc76a33e"
+ },
+ {
+  "station": "03098",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03098_19940101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03098_19940101_20251231_hist.zip",
+  "bytes": 1506887,
+  "sha256": "b7b91befff1ad5864a12635d8d4ceebc34d0d9a1604457afd25114d49ee3bfca"
+ },
+ {
+  "station": "03098",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03098_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03098_akt.zip",
+  "bytes": 78956,
+  "sha256": "5af37aea4c1e477ff626e57e322c76b3b1f405d66328a8b21759078ce66851b1"
+ },
+ {
+  "station": "03098",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03098_19940112_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03098_19940112_20251231_hist.zip",
+  "bytes": 1605969,
+  "sha256": "f5fdbb7a6fd75e11210b87fd095d0ca455638d34a0309a05c836ffeda7a72694"
+ },
+ {
+  "station": "03098",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03098_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03098_akt.zip",
+  "bytes": 80133,
+  "sha256": "d5f4333ed4d528fae308d098b0aded10c98c11ac89ef5a651d3331d9d5ad2280"
+ },
+ {
+  "station": "03098",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_03098_19940101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_03098_19940101_20251231_hist.zip",
+  "bytes": 1312749,
+  "sha256": "99f79b5581f8885cc6b2a0a2893e1a61a44394535bed5fc895510a60b121c945"
+ },
+ {
+  "station": "03098",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_03098_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_03098_akt.zip",
+  "bytes": 68568,
+  "sha256": "022cd51f65dc77f8b071e7e07b828c15e6815d9883ef15830a4aaccb2611eb39"
+ },
+ {
+  "station": "03098",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_03098_19940112_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_03098_19940112_20251231_hist.zip",
+  "bytes": 1666440,
+  "sha256": "46470b2802052bcb653ea6d119ef10371f8534425b21e218af66d8803d4ab3c5"
+ },
+ {
+  "station": "03098",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_03098_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_03098_akt.zip",
+  "bytes": 83329,
+  "sha256": "4f0898e7a08139d09af8bbdba5cf0eb35b7389629ea41536650773f5a137b1f5"
+ },
+ {
+  "station": "03155",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03155_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03155_20040801_20251231_hist.zip",
+  "bytes": 1007197,
+  "sha256": "b3fe6895e4db3afbe991fa818f4e8a13adbe1b49ce3deb95381489e8b6ec6b24"
+ },
+ {
+  "station": "03155",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03155_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03155_akt.zip",
+  "bytes": 80567,
+  "sha256": "de7a1fc0c597550b8a6f8a4480a4fd7e6ab42621eae11552a11cc835e6cc0448"
+ },
+ {
+  "station": "03155",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03155_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03155_20040801_20251231_hist.zip",
+  "bytes": 1071245,
+  "sha256": "21dca23f40848f788e2a0dee92af9c499e362adc022b7080fe137adc865298f1"
+ },
+ {
+  "station": "03155",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03155_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03155_akt.zip",
+  "bytes": 81724,
+  "sha256": "815d7759a04ffdf55ddf6c69045fa69dc5dc704e7e4bf7de75035b881cadaab5"
+ },
+ {
+  "station": "03164",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03164_20060701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03164_20060701_20251231_hist.zip",
+  "bytes": 935221,
+  "sha256": "b45f241d07d39abf91643ae2f5405d83b94d1f99206ecb4b20eb21a08ce0b003"
+ },
+ {
+  "station": "03164",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03164_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03164_akt.zip",
+  "bytes": 79395,
+  "sha256": "ba9bf2fcb2453f800474928304d7cf019bf6d308b8c6ac7dfb82376d4f43046b"
+ },
+ {
+  "station": "03164",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03164_20060701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03164_20060701_20251231_hist.zip",
+  "bytes": 991129,
+  "sha256": "a839da408f259b5e0b9cdbf570b3d5a7a9fe21774b3a833749eda95fe9a3e048"
+ },
+ {
+  "station": "03164",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03164_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03164_akt.zip",
+  "bytes": 81035,
+  "sha256": "3b0e9fe2fab78a3c70c9e0db5b2ca7bf69d50a3e5a195748f0e10d14aac2c2ca"
+ },
+ {
+  "station": "03167",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03167_19621201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03167_19621201_20251231_hist.zip",
+  "bytes": 2880110,
+  "sha256": "62baf0d908f1ef9020ac9ddf230c6a29a139e296265af229ae477ea3084e6c59"
+ },
+ {
+  "station": "03167",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03167_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03167_akt.zip",
+  "bytes": 80187,
+  "sha256": "e77db8ea9ff3d6e564b30cf3833042c4fe4792d6973591663d93982766eb39df"
+ },
+ {
+  "station": "03167",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03167_19490101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03167_19490101_20251231_hist.zip",
+  "bytes": 2567019,
+  "sha256": "59be0a4f44706735404a2d5888a9cec89faaf682a3912367668b23976b50cd89"
+ },
+ {
+  "station": "03167",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03167_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03167_akt.zip",
+  "bytes": 81244,
+  "sha256": "97dea1d94f980f8e60bf5a3cd5f54e2463176125d9caa20acc6414ede81cee8d"
+ },
+ {
+  "station": "03167",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_03167_19690101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_03167_19690101_20251231_hist.zip",
+  "bytes": 2314775,
+  "sha256": "bdbd86a8b1bb29c721403d77d2955104cd31bc3de46b2343c369a3d4ee6a86f8"
+ },
+ {
+  "station": "03167",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_03167_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_03167_akt.zip",
+  "bytes": 71370,
+  "sha256": "1404438048f848b0ae205882dc5d5fadc3538b43bf8f2a2c4778877c2f26caa7"
+ },
+ {
+  "station": "03167",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_03167_19500506_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_03167_19500506_20251231_hist.zip",
+  "bytes": 2472595,
+  "sha256": "3f820fb6a6a3c7434d03222147e8c0f8d7e97990180cd1e9ce324e9469e1a5c9"
+ },
+ {
+  "station": "03167",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_03167_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_03167_akt.zip",
+  "bytes": 85075,
+  "sha256": "1e4bb0a13a22d0290be5f253336e0005aea11969fb79573a4d515f067a8ca997"
+ },
+ {
+  "station": "03254",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03254_20020102_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03254_20020102_20251231_hist.zip",
+  "bytes": 885825,
+  "sha256": "61d7ae5f27cb805d8a1231976e83f325885a9511f5d3a71834b48ab562b475e8"
+ },
+ {
+  "station": "03254",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03254_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03254_akt.zip",
+  "bytes": 86587,
+  "sha256": "f8e39cabf7f050c10856ea21f5a6244c085fd6ef23269e623a503dbcb5e25b1c"
+ },
+ {
+  "station": "03254",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03254_19700401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03254_19700401_20251231_hist.zip",
+  "bytes": 1784839,
+  "sha256": "d41cc7de83aab65c9c462aabfd2833add2cbd3a59f8af92c71bf75fe7f299e11"
+ },
+ {
+  "station": "03254",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03254_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03254_akt.zip",
+  "bytes": 88646,
+  "sha256": "121a4f987a3a7b327435b0df34b404227a3aa7fe3df8e6d4a9fde6824da3906a"
+ },
+ {
+  "station": "03254",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_03254_19730101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_03254_19730101_20251231_hist.zip",
+  "bytes": 2092315,
+  "sha256": "82bea3e767f6c519848a4a69ae667b8032aef736980121853744dc18c79d32ce"
+ },
+ {
+  "station": "03254",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_03254_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_03254_akt.zip",
+  "bytes": 58282,
+  "sha256": "26d56a3c276ed5b9b2c26d337f5c6ed0f8051071bd754e88957959195376c22b"
+ },
+ {
+  "station": "03254",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_03254_19700401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_03254_19700401_20251231_hist.zip",
+  "bytes": 1747747,
+  "sha256": "0eb4950fcf350eabf61d2bf5b83b46fc39488de9a0dbb8aad9e3ac2de905dd41"
+ },
+ {
+  "station": "03254",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_03254_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_03254_akt.zip",
+  "bytes": 87630,
+  "sha256": "9b9462cded9f2deff23d317f9f9c64dbf667a9087bcc1c9dd9c0ffa42df3f3c8"
+ },
+ {
+  "station": "03442",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03442_20041001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03442_20041001_20251231_hist.zip",
+  "bytes": 1019987,
+  "sha256": "3936544188dcdbdd99c278093273c4c3398d0aec699d304615694074c8cd6bd3"
+ },
+ {
+  "station": "03442",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03442_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03442_akt.zip",
+  "bytes": 79435,
+  "sha256": "834e7d55b1bc9c165dec51623cd9320d7464c0034308c9179620d8a417ca3f67"
+ },
+ {
+  "station": "03442",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03442_20041001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03442_20041001_20251231_hist.zip",
+  "bytes": 1078310,
+  "sha256": "d56a6f0a81cefddf686010752fa2d24f2b37f534d8472824774c05410a26ce8c"
+ },
+ {
+  "station": "03442",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03442_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03442_akt.zip",
+  "bytes": 80564,
+  "sha256": "132ae02085f800be025b16a43adcfe14d8e0098cfce5cd49bcbd2e3381ff3860"
+ },
+ {
+  "station": "03490",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03490_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03490_20040901_20251231_hist.zip",
+  "bytes": 995391,
+  "sha256": "08cc31f4ff46c60c9937717defc69453d02dbcbbd47e839fc75fda770a3e6a6b"
+ },
+ {
+  "station": "03490",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03490_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03490_akt.zip",
+  "bytes": 79408,
+  "sha256": "7833537920069b997a7d830c549449629cb5a9a2fcff7801555eff2394747c10"
+ },
+ {
+  "station": "03490",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03490_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03490_20040901_20251231_hist.zip",
+  "bytes": 1055167,
+  "sha256": "2a66494e05f22b559292a783ce984a59deeecec56c41f9c51db719ed9283c8fb"
+ },
+ {
+  "station": "03490",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03490_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03490_akt.zip",
+  "bytes": 80917,
+  "sha256": "6edeb8b7df39a666c57d2305e63d9c41649c416e7c310aa86a30869d54fc8baa"
+ },
+ {
+  "station": "03527",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03527_20040501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03527_20040501_20251231_hist.zip",
+  "bytes": 1015689,
+  "sha256": "f36204806c1407d396359fcdff3abec1c7d0f36bd8bd1b7671e22bb47cf0d0f6"
+ },
+ {
+  "station": "03527",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03527_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03527_akt.zip",
+  "bytes": 78495,
+  "sha256": "574c3f7262fc88f39c7646a2010ae5e9625771925059e5c7df90dfeec28db194"
+ },
+ {
+  "station": "03527",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03527_20040501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03527_20040501_20251231_hist.zip",
+  "bytes": 1076355,
+  "sha256": "b79a24c374a42f1e6c75764e0a5678114dd2bfe83968d8ac91265f038caefc9b"
+ },
+ {
+  "station": "03527",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03527_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03527_akt.zip",
+  "bytes": 79826,
+  "sha256": "39a625ecf4a9d68a6663ef366131b3604e9b48297960b6618befb5563ceae01c"
+ },
+ {
+  "station": "03540",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03540_20041101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03540_20041101_20251231_hist.zip",
+  "bytes": 1009422,
+  "sha256": "409673713f2f25e7b160d6624193a431de96e811171b4e2c83f5927340e272d9"
+ },
+ {
+  "station": "03540",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03540_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03540_akt.zip",
+  "bytes": 78922,
+  "sha256": "efdf2b25656e94b824dd400d7daaa5136ecded083a01b2c4584bdae71e782536"
+ },
+ {
+  "station": "03540",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03540_20041101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03540_20041101_20251231_hist.zip",
+  "bytes": 1070171,
+  "sha256": "99ef45db0f953aa7c24628c36ef0d78a9d5bd8f2d1dc756a24b32d78273825e7"
+ },
+ {
+  "station": "03540",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03540_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03540_akt.zip",
+  "bytes": 80433,
+  "sha256": "d86a4e6db6f06d8fba86d611e418212924c2fdd03b7522e3a3f62e22c0517b10"
+ },
+ {
+  "station": "03591",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03591_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03591_20040601_20251231_hist.zip",
+  "bytes": 1030407,
+  "sha256": "43a0625a1f544e3748c6a0489a2dc4aa485f8e1011dfc182b7060b5fcf792c5f"
+ },
+ {
+  "station": "03591",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03591_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03591_akt.zip",
+  "bytes": 78896,
+  "sha256": "52b176dd75a1e639fe212c97f5a23a8b5eacfed027c0926ee149712cc783ed39"
+ },
+ {
+  "station": "03591",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03591_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03591_20040601_20251231_hist.zip",
+  "bytes": 1088841,
+  "sha256": "0543b13f62f910ee448620807d4b5b11a027146a467eac1129f08920163f7dfe"
+ },
+ {
+  "station": "03591",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03591_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03591_akt.zip",
+  "bytes": 79998,
+  "sha256": "10040f0a5921babed88527f0fce9cc74e8f7c2041da691e09f83dd7657069fcd"
+ },
+ {
+  "station": "03623",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03623_20020101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03623_20020101_20251231_hist.zip",
+  "bytes": 1171144,
+  "sha256": "a30a28e8f2dc280e40217c60adf802efd792e0af6f886c2bb76e84aa66a8bf0e"
+ },
+ {
+  "station": "03623",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03623_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03623_akt.zip",
+  "bytes": 81214,
+  "sha256": "8dad6577f420097102d7bb529450305792fd2772f6bf4b77cd638fc04ad9c1a5"
+ },
+ {
+  "station": "03623",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03623_19790101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03623_19790101_20251231_hist.zip",
+  "bytes": 1822363,
+  "sha256": "629a48331de1828649d8e03f3cef838efa402a096b944e78a87abfcdbf03f67c"
+ },
+ {
+  "station": "03623",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03623_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03623_akt.zip",
+  "bytes": 82375,
+  "sha256": "c78535f8c02fcaf075880716fd5e745db924809f15b2ac92cd2249c1251c9b6d"
+ },
+ {
+  "station": "03623",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_03623_19690101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_03623_19690101_20251231_hist.zip",
+  "bytes": 2177748,
+  "sha256": "6c955fc6d6ddc593c2f764a2fa640adb5b38d0a6f5e7e659916c4c7ac0417ca6"
+ },
+ {
+  "station": "03623",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_03623_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_03623_akt.zip",
+  "bytes": 67321,
+  "sha256": "cf77962814bb1368baeccbd1f935d0b136ea610d0d252affd3387c6c3cc01b5f"
+ },
+ {
+  "station": "03623",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_03623_19790101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_03623_19790101_20251231_hist.zip",
+  "bytes": 1786373,
+  "sha256": "b28a5d3d2764d725afeac087cef7fd787a5d3ea498b2f09d6430237dcdf571cb"
+ },
+ {
+  "station": "03623",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_03623_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_03623_akt.zip",
+  "bytes": 82927,
+  "sha256": "7657ce21dc49e70982830088d5332b9004286d62fd633b5e99e85f4317378255"
+ },
+ {
+  "station": "03660",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_03660_19950302_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_03660_19950302_20251231_hist.zip",
+  "bytes": 1452769,
+  "sha256": "24a0f336f9b3ccbb1a3f63f5dc42d73289878febdb6e769eca43995cbb79f31d"
+ },
+ {
+  "station": "03660",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_03660_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_03660_akt.zip",
+  "bytes": 80804,
+  "sha256": "9383b96bb3d0b6de5f133dd5075af2de82e1287130d94a4db2b6854b673ef8c2"
+ },
+ {
+  "station": "03660",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_03660_19950306_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_03660_19950306_20251231_hist.zip",
+  "bytes": 1541783,
+  "sha256": "d0cb4e440dee33fb20783fafe785f58679d81085421ea20c5effb6199290b523"
+ },
+ {
+  "station": "03660",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_03660_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_03660_akt.zip",
+  "bytes": 81655,
+  "sha256": "5ca3615ea66980ec676530e6cf66f2c6edc5f176e39394b0cd128be20d1dee70"
+ },
+ {
+  "station": "03660",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_03660_19950301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_03660_19950301_20251231_hist.zip",
+  "bytes": 1288799,
+  "sha256": "91e4889f5860ce004595fee5d46a9002fc65e4714e1abf7fb4cb797ca7234983"
+ },
+ {
+  "station": "03660",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_03660_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_03660_akt.zip",
+  "bytes": 71083,
+  "sha256": "efab6cb3a40919c070f0d181b999694fe840d1137c714a66221d48b7570a171f"
+ },
+ {
+  "station": "03660",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_03660_19950306_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_03660_19950306_20251231_hist.zip",
+  "bytes": 1607117,
+  "sha256": "0201d852cc7d583e6433d9eea7a6dfedcb2336b9e5ba4e4dcee4e059343294dd"
+ },
+ {
+  "station": "03660",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_03660_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_03660_akt.zip",
+  "bytes": 85089,
+  "sha256": "7f94b43ccb4ac9dcda15c2c1f951b5266294a9c7a357693fe124c0c063830adf"
+ },
+ {
+  "station": "04063",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_04063_20030701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_04063_20030701_20251231_hist.zip",
+  "bytes": 1075521,
+  "sha256": "4362084feb86bcbcaeef1a515ad2056b730936598358248e2717753e726c0789"
+ },
+ {
+  "station": "04063",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_04063_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_04063_akt.zip",
+  "bytes": 80722,
+  "sha256": "3646679a7aa15a000391b194ed967852dc3262ffd40a200a8833b5b59624140a"
+ },
+ {
+  "station": "04063",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_04063_20030701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_04063_20030701_20251231_hist.zip",
+  "bytes": 1139777,
+  "sha256": "c1c25759cd2a63d02ab54d9e80b5087fb95e4dcaa86c590a3035d6bd1f5de509"
+ },
+ {
+  "station": "04063",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_04063_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_04063_akt.zip",
+  "bytes": 81851,
+  "sha256": "0e9d94699f6aab4f9d52587c511d041f36bac3e9014cb1d28ea6993de60c76af"
+ },
+ {
+  "station": "04127",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_04127_20050101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_04127_20050101_20251231_hist.zip",
+  "bytes": 991201,
+  "sha256": "9bd4b1c346c208ede73d82132157fe3600291b129ad3e5a52f218b01a889c424"
+ },
+ {
+  "station": "04127",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_04127_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_04127_akt.zip",
+  "bytes": 79933,
+  "sha256": "4683d3daa8223e01bdace71dc83668ac63e44c5f42072467c914a5a4026f64a8"
+ },
+ {
+  "station": "04127",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_04127_20050101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_04127_20050101_20251231_hist.zip",
+  "bytes": 1051753,
+  "sha256": "aa0ada41815b8547d88492fdbbf77d8a92a7a2547e0ca74d135c200ed23b11d8"
+ },
+ {
+  "station": "04127",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_04127_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_04127_akt.zip",
+  "bytes": 81605,
+  "sha256": "c2d589fe62d5e982e66f37b724fd02329484c3d3554360a7a57a386049d1e395"
+ },
+ {
+  "station": "04275",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_04275_20041201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_04275_20041201_20251231_hist.zip",
+  "bytes": 998683,
+  "sha256": "a1569cf818bb96567109d67c35214d0b8be4b6491b9bfa25e046a543a385d889"
+ },
+ {
+  "station": "04275",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_04275_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_04275_akt.zip",
+  "bytes": 78510,
+  "sha256": "ced92133c3ff0d450ad6a77449055f901f97ef3a4b3e5d57e4b08ac7d23f2115"
+ },
+ {
+  "station": "04275",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_04275_20041201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_04275_20041201_20251231_hist.zip",
+  "bytes": 1062133,
+  "sha256": "dc8c294a9553b20615e6ca2f33f285532df2c23882618c6a2ee09d2ef30b0055"
+ },
+ {
+  "station": "04275",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_04275_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_04275_akt.zip",
+  "bytes": 80175,
+  "sha256": "b6cc5d33e6d1e0893d81464204398e0146814922b6f41d8fc13f05f2372a50ad"
+ },
+ {
+  "station": "04371",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_04371_19500101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_04371_19500101_20251231_hist.zip",
+  "bytes": 3563174,
+  "sha256": "270b4ec4959d5f7d8c07ec241da318219744ac9a9cabbec6b7acd6697681da33"
+ },
+ {
+  "station": "04371",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_04371_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_04371_akt.zip",
+  "bytes": 80737,
+  "sha256": "03194bbf2ab84b1817c10a759546ebb1389ec88f75a8040560ecb49c55a6721c"
+ },
+ {
+  "station": "04371",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_04371_19501001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_04371_19501001_20251231_hist.zip",
+  "bytes": 2577182,
+  "sha256": "28a0ca5056ecdb31a1560ea378287df062b994d263f55a714c5b63b24e250226"
+ },
+ {
+  "station": "04371",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_04371_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_04371_akt.zip",
+  "bytes": 81632,
+  "sha256": "4a71d16d153cd4eb068f3b733cb4f70cbe9ca1c2d1750959614da4d5db7d7e9b"
+ },
+ {
+  "station": "04371",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_04371_19690101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_04371_19690101_20251231_hist.zip",
+  "bytes": 2274809,
+  "sha256": "80185b50fb676ff348b68a8a08ea3ecda3c55e568e419b0585b9de6fd1fc31db"
+ },
+ {
+  "station": "04371",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_04371_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_04371_akt.zip",
+  "bytes": 70364,
+  "sha256": "75706718f24e8541fc43a09023a301f09fb91d211e63fcb524d6443617c7e229"
+ },
+ {
+  "station": "04371",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_04371_19501001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_04371_19501001_20251231_hist.zip",
+  "bytes": 2442819,
+  "sha256": "1f6218c55a532de8ce04526e400df09b625f3871473bfd107013a1f583522689"
+ },
+ {
+  "station": "04371",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_04371_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_04371_akt.zip",
+  "bytes": 82915,
+  "sha256": "2cb379e730c45925f67521034f4cc0cd310efd65ef6662bd90dbf950c29f4bfc"
+ },
+ {
+  "station": "04480",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_04480_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_04480_20040901_20251231_hist.zip",
+  "bytes": 1018430,
+  "sha256": "6bf0560e186a4352a4337f8368b94afba9dfefbd50dbfa53fd1c177ef5127d8b"
+ },
+ {
+  "station": "04480",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_04480_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_04480_akt.zip",
+  "bytes": 79637,
+  "sha256": "a4465867ef68ed4cd68567b9d4fc7bd229011693edb14636b38e72134c215cb4"
+ },
+ {
+  "station": "04480",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_04480_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_04480_20040901_20251231_hist.zip",
+  "bytes": 1085723,
+  "sha256": "5d1de98d022a9f14bdf738cb652e31cba7267a418b25ba7479842b87c76e578b"
+ },
+ {
+  "station": "04480",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_04480_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_04480_akt.zip",
+  "bytes": 81189,
+  "sha256": "def4907e559a4ced498174bdd13188d211324dd9769cfe080bd0af945f41bbce"
+ },
+ {
+  "station": "04508",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_04508_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_04508_20040801_20251231_hist.zip",
+  "bytes": 976493,
+  "sha256": "f8a2f9723120490bcf8099fe5ef749d57f1869b55f8b02c8a4e5583cbeb1d59d"
+ },
+ {
+  "station": "04508",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_04508_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_04508_akt.zip",
+  "bytes": 77536,
+  "sha256": "c8f156f0f88f0cc8abde6a6bc23563e38fb99571cd1713c92653e931f6a23cc0"
+ },
+ {
+  "station": "04508",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_04508_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_04508_20040801_20251231_hist.zip",
+  "bytes": 1042567,
+  "sha256": "0e9621cccdf88c0046e2546c504f72c1153876172de8606f4ab8866a21e91707"
+ },
+ {
+  "station": "04508",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_04508_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_04508_akt.zip",
+  "bytes": 79306,
+  "sha256": "e67f9858a7f720701bfc17ed61ab033988dbf015bb5ef57938f8290e84c7ee46"
+ },
+ {
+  "station": "05064",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05064_20041201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05064_20041201_20251231_hist.zip",
+  "bytes": 1005819,
+  "sha256": "2fe8f188af83b0247caa196c89652854fb5a70434065aeb414a53cbfe0692211"
+ },
+ {
+  "station": "05064",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05064_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05064_akt.zip",
+  "bytes": 78881,
+  "sha256": "2358d5fc3c9ee13acb6d8113153b66837e0dc11f2021b31d2a1906687b1adbb7"
+ },
+ {
+  "station": "05064",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05064_20041201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05064_20041201_20251231_hist.zip",
+  "bytes": 1064136,
+  "sha256": "033d3751f7878aae514242d7be019ecf193a3701a40464211ed74e8030efb4d0"
+ },
+ {
+  "station": "05064",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05064_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05064_akt.zip",
+  "bytes": 80014,
+  "sha256": "f8bcb92c7ee134f92692967bdcc83254f9e1767807d33dd545c89eb46d786d49"
+ },
+ {
+  "station": "05133",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05133_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05133_20040901_20251231_hist.zip",
+  "bytes": 1014712,
+  "sha256": "d5edbce0266bc052855650993453e493ec087adfe29b193413c25e8da55ead19"
+ },
+ {
+  "station": "05133",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05133_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05133_akt.zip",
+  "bytes": 80218,
+  "sha256": "cf3ab8f98dc6cdbe2370fb1f9cc3fe72142c82ec6f2f5fe9349731b16609bb1e"
+ },
+ {
+  "station": "05133",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05133_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05133_20040901_20251231_hist.zip",
+  "bytes": 1079183,
+  "sha256": "5218f6aab6bd7a0c0a8c4c8a0a6eb80ed3470607bb7eb0506789876eaeb0a827"
+ },
+ {
+  "station": "05133",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05133_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05133_akt.zip",
+  "bytes": 81792,
+  "sha256": "37f410f32c10e74d8db2d8ed8abc50881f36a1758552fa429c09aa49e3456670"
+ },
+ {
+  "station": "05279",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05279_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05279_20040901_20251231_hist.zip",
+  "bytes": 986514,
+  "sha256": "0d047b2e3310ecaa3306bcc3926b3575d3428bf27707d328b0c4197901664f4f"
+ },
+ {
+  "station": "05279",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05279_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05279_akt.zip",
+  "bytes": 78898,
+  "sha256": "4340b33194bfb26df739137f1a040f0046923d5d2b31cf84981a222488dfe7c1"
+ },
+ {
+  "station": "05279",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05279_20040901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05279_20040901_20251231_hist.zip",
+  "bytes": 1046578,
+  "sha256": "2ebadba81396819e41da4de52d0a21ddaa5686a4431f12ca66dd9c745b642398"
+ },
+ {
+  "station": "05279",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05279_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05279_akt.zip",
+  "bytes": 80530,
+  "sha256": "dc4b2a778b54776acd13bed2cd28bf12176606ee2f7793887fc0131b09bce15f"
+ },
+ {
+  "station": "05300",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05300_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05300_20040701_20251231_hist.zip",
+  "bytes": 1025392,
+  "sha256": "d1cd23183cd3d942fef6cd1445fabaa69ec2515c4167dd43ea2b211d0149d4cc"
+ },
+ {
+  "station": "05300",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05300_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05300_akt.zip",
+  "bytes": 81064,
+  "sha256": "7ac4a0e33f4c41dcf6ec0492c5e71b505f02209bcd6ec2e7775fb4f65e1f008c"
+ },
+ {
+  "station": "05300",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05300_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05300_20040701_20251231_hist.zip",
+  "bytes": 1086163,
+  "sha256": "8ba03907a8cdec05b47026c5d96362aaddafaa2e742842788d1f609d900a0211"
+ },
+ {
+  "station": "05300",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05300_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05300_akt.zip",
+  "bytes": 82427,
+  "sha256": "fb9820fea122c75fe34d0e7a207dea098b9a77581ebf7a7735d5bb2c0bd0e791"
+ },
+ {
+  "station": "05347",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05347_20010402_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05347_20010402_20251231_hist.zip",
+  "bytes": 1201633,
+  "sha256": "7a55036fedc566e17bafccf40a325d579b82d9e2afa85b9fc02d1f5120d980bf"
+ },
+ {
+  "station": "05347",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05347_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05347_akt.zip",
+  "bytes": 79272,
+  "sha256": "1855643235664b8a3df42687a34bd141f6f0773c32cbc98b435c82a7d0305dee"
+ },
+ {
+  "station": "05347",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05347_19790101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05347_19790101_20251231_hist.zip",
+  "bytes": 2485467,
+  "sha256": "5ed6f01ea4c89fb5f7d804630090bad7924912ae302366fd1c80781f62440e56"
+ },
+ {
+  "station": "05347",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05347_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05347_akt.zip",
+  "bytes": 80217,
+  "sha256": "f7fb3cfa9334685489158f95e5abde5fff68db53c173b1fb33e77865f9b44fb2"
+ },
+ {
+  "station": "05347",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_05347_20021201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_05347_20021201_20251231_hist.zip",
+  "bytes": 991599,
+  "sha256": "6c5b611e0e6954dcfaa6dcd63da8470d1544cf3863d03a3c80d374e4e0cf4fdb"
+ },
+ {
+  "station": "05347",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_05347_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_05347_akt.zip",
+  "bytes": 68668,
+  "sha256": "08350f477f96207c6e573b196408b4cf6cba03d4a2b642e38b9f9527715dfe54"
+ },
+ {
+  "station": "05347",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_05347_19790101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_05347_19790101_20251231_hist.zip",
+  "bytes": 2414391,
+  "sha256": "90661f68a149a6430d026601cca722b8c30d0dfff658525b36ecb69e9bacafaa"
+ },
+ {
+  "station": "05347",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_05347_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_05347_akt.zip",
+  "bytes": 83068,
+  "sha256": "4311124928c0c42e64015f2a70011d14e83ace45eba5c1c8eb96dcda50f7d45c"
+ },
+ {
+  "station": "05480",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05480_20030910_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05480_20030910_20251231_hist.zip",
+  "bytes": 1070385,
+  "sha256": "8812f75cee7018ee4f19c517425e6615317efae998c48c59a51704406e0fc423"
+ },
+ {
+  "station": "05480",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05480_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05480_akt.zip",
+  "bytes": 79247,
+  "sha256": "d47e0e7297be164bd5271e6a186b8cc24e7422f88a7d5337f257f2aafb7dc68f"
+ },
+ {
+  "station": "05480",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05480_19790102_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05480_19790102_20251231_hist.zip",
+  "bytes": 1624804,
+  "sha256": "85cb11fe2954bd648aaba8b29ad701af51b617dd51068e31a2c9c8df01e12dbd"
+ },
+ {
+  "station": "05480",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05480_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05480_akt.zip",
+  "bytes": 80316,
+  "sha256": "06c99ab4eda9cc26fc6361f3ae9d5b2ae4bf8e39be288be27ed4d28693990478"
+ },
+ {
+  "station": "05480",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_05480_19750101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_05480_19750101_20251231_hist.zip",
+  "bytes": 1620267,
+  "sha256": "b07eeb80395cb84b4670871eb410f5c217e784fae3e92f8ae2667b60886e8090"
+ },
+ {
+  "station": "05480",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_05480_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_05480_akt.zip",
+  "bytes": 70137,
+  "sha256": "e54407fd7e8b22639b8dffc8e7d517c657af68895a4f83cc5047c2fefc5b2b9a"
+ },
+ {
+  "station": "05480",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_05480_19790102_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_05480_19790102_20251231_hist.zip",
+  "bytes": 1423160,
+  "sha256": "0e6e409d1448cf9b9e745ed9e55376f928270defc10efdcc12e82b94b3de658d"
+ },
+ {
+  "station": "05480",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_05480_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_05480_akt.zip",
+  "bytes": 80125,
+  "sha256": "c46691dcc69ce11b2205148f154570cf5f37adef37b0562497ad28ebcf0205dd"
+ },
+ {
+  "station": "05541",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05541_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05541_20040801_20251231_hist.zip",
+  "bytes": 1016822,
+  "sha256": "f132a86ea20972bf96af8dcda624ebfa4bbbd6f148b392adbf2ab19c35360ba3"
+ },
+ {
+  "station": "05541",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05541_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05541_akt.zip",
+  "bytes": 78641,
+  "sha256": "6315f99756d2695e3f02c61838c21cac008ef8831111fa3f423b56721060abdd"
+ },
+ {
+  "station": "05541",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05541_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05541_20040801_20251231_hist.zip",
+  "bytes": 1079126,
+  "sha256": "a0a732a4ad3803b989594088c26591f666018023bf431e3a4f9ddcda43c4d573"
+ },
+ {
+  "station": "05541",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05541_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05541_akt.zip",
+  "bytes": 79983,
+  "sha256": "af2819c02cecf3cead5573991214e67427e0cd30b617308a8f46b008ecb00987"
+ },
+ {
+  "station": "05715",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05715_20020101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05715_20020101_20251231_hist.zip",
+  "bytes": 1189423,
+  "sha256": "61649e47adbc349a085e87e50e8880da388927608c7b5c4a7e05fba5bb5d1fe9"
+ },
+ {
+  "station": "05715",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05715_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05715_akt.zip",
+  "bytes": 80740,
+  "sha256": "b88d05e09fbdea702e72657ddc867cd8a363e43996f946c6f37ea990d452242e"
+ },
+ {
+  "station": "05715",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05715_19790102_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05715_19790102_20251231_hist.zip",
+  "bytes": 1841695,
+  "sha256": "db5cda57ab42b5b2a0bea2c6bb2be9bf55f95bb094fba75ef73b0d8fff271411"
+ },
+ {
+  "station": "05715",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05715_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05715_akt.zip",
+  "bytes": 82021,
+  "sha256": "315283364f106601f7110ec101f4b187d82996c3a935f76cb166c55e82ecdbff"
+ },
+ {
+  "station": "05715",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_05715_19740101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_05715_19740101_20251231_hist.zip",
+  "bytes": 2084517,
+  "sha256": "b03ede6b2776e3a907367f67fc1e9aa3f54bdfd2514bd80c77bf20c864a21692"
+ },
+ {
+  "station": "05715",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_05715_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_05715_akt.zip",
+  "bytes": 66876,
+  "sha256": "8d576b6ddfc712ba33da212d9c7b7fca03f3f3244f8a280a67aa4b4f2a19be43"
+ },
+ {
+  "station": "05715",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_05715_19790102_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_05715_19790102_20251231_hist.zip",
+  "bytes": 1782418,
+  "sha256": "3552177ceca15cb101974e85c7147e925de1cd705b4badb13d456c9dc713a0c7"
+ },
+ {
+  "station": "05715",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_05715_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_05715_akt.zip",
+  "bytes": 81465,
+  "sha256": "2ce1431a317e74f671c354baeee792259ee0cd8eca0eeb65d7915f62d96703fa"
+ },
+ {
+  "station": "05717",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05717_20060901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05717_20060901_20251231_hist.zip",
+  "bytes": 921913,
+  "sha256": "f1e5a4f5fd87c83af6746acfbd6079936ee3902ad44540d7b438ba4928d348e3"
+ },
+ {
+  "station": "05717",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05717_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05717_akt.zip",
+  "bytes": 79102,
+  "sha256": "ac5dc6dc5d359253145293eba879cc7d815e40b40179daea5389ae3557dfa866"
+ },
+ {
+  "station": "05717",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05717_20060901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05717_20060901_20251231_hist.zip",
+  "bytes": 975480,
+  "sha256": "a7c2d75864e713dd03a0defd301374cda64ee883a55baf377a3049437a0982b6"
+ },
+ {
+  "station": "05717",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05717_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05717_akt.zip",
+  "bytes": 80278,
+  "sha256": "5573a3e497ef4bbed07035542be004d73b349c27670a4c118c411a2a502e0847"
+ },
+ {
+  "station": "05822",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_05822_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_05822_20040701_20251231_hist.zip",
+  "bytes": 979245,
+  "sha256": "69bf758fb680f1e9e3d9cdff3959751e9be98ce05caa6a4ee8c0efc49ee4f0ce"
+ },
+ {
+  "station": "05822",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_05822_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_05822_akt.zip",
+  "bytes": 78285,
+  "sha256": "e5613118a386f302f3c059ba1b5382f818cb25ebcbb9f54f3eb09dfd3339dd87"
+ },
+ {
+  "station": "05822",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_05822_20040701_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_05822_20040701_20251231_hist.zip",
+  "bytes": 1039772,
+  "sha256": "ec19d80633589b82e45a26e0a372e6417cee4ace879b5f3eb0c93c527c4ff94e"
+ },
+ {
+  "station": "05822",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_05822_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_05822_akt.zip",
+  "bytes": 79620,
+  "sha256": "6ee23d00796d29d7ce6fd5856c578d6acb38db38906aab740e963bc2b69e7634"
+ },
+ {
+  "station": "06159",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_06159_20081201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_06159_20081201_20251231_hist.zip",
+  "bytes": 807432,
+  "sha256": "64c951059a57831e57692a3273599b65157f4403bbcb7df83d219cf5e0df7031"
+ },
+ {
+  "station": "06159",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_06159_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_06159_akt.zip",
+  "bytes": 77940,
+  "sha256": "229cb870b8cf089f304b6d05de4f92a1aa03829a4ff4bfd275153891daea303a"
+ },
+ {
+  "station": "06159",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_06159_20081201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_06159_20081201_20251231_hist.zip",
+  "bytes": 857173,
+  "sha256": "b6b62475abf3b9ac56aa92879b1041815fbc39634b6173a13c455141feacb5c5"
+ },
+ {
+  "station": "06159",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_06159_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_06159_akt.zip",
+  "bytes": 79397,
+  "sha256": "46a8a53b9b313edb5da64389b07fb012f22616ce86fa7b1cc0fc926995745803"
+ },
+ {
+  "station": "06159",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_06159_20081201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_06159_20081201_20251231_hist.zip",
+  "bytes": 706385,
+  "sha256": "56f57d1573cc9f8e9fada31a3ebf23ff10589cd9e730b54cbcbad3490155d8be"
+ },
+ {
+  "station": "06159",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_06159_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_06159_akt.zip",
+  "bytes": 69561,
+  "sha256": "16464584b6f28d1c6a7fbf243d497a7a8143de0ff014a8a619791278d10f42d0"
+ },
+ {
+  "station": "06197",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_06197_20020101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_06197_20020101_20251231_hist.zip",
+  "bytes": 1145225,
+  "sha256": "096edcf95f081b3a2223894374ea4211f42b5657244a792bbc4c9f1d484a6e98"
+ },
+ {
+  "station": "06197",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_06197_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_06197_akt.zip",
+  "bytes": 80638,
+  "sha256": "26104a372d1efa5e4c4470343c6f790a2add54e152a4d913c5f0f8b1bad18433"
+ },
+ {
+  "station": "06197",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_06197_20001011_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_06197_20001011_20251231_hist.zip",
+  "bytes": 1291460,
+  "sha256": "ee1e12070f944dc6ac80ae7434e94e5ff09e69fcfc576f1243a13f7cde33d241"
+ },
+ {
+  "station": "06197",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_06197_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_06197_akt.zip",
+  "bytes": 81773,
+  "sha256": "bb146d7f0875a0c04001caff8274da328fff1f2718254a4d6259a8a528f836e6"
+ },
+ {
+  "station": "06197",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_06197_20021201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_06197_20021201_20251231_hist.zip",
+  "bytes": 982014,
+  "sha256": "f54b1820268ad52c42467069e9166d0d3a4b0b6840b0391c353e02e14920757b"
+ },
+ {
+  "station": "06197",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_06197_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_06197_akt.zip",
+  "bytes": 71185,
+  "sha256": "ec9c6e8c3d8e665b29f562337f7f2e00d572f74b1e8468a8f3b5a82fdfa5dfed"
+ },
+ {
+  "station": "06197",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_06197_20001011_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_06197_20001011_20251231_hist.zip",
+  "bytes": 1326489,
+  "sha256": "70058f9998daeb15c16af5751f7b28c307d822c1f73c6727c118f4df1ed769f5"
+ },
+ {
+  "station": "06197",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_06197_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_06197_akt.zip",
+  "bytes": 84595,
+  "sha256": "cb5d6e3272f901e479677066fbf77a5fe4237ff154fa429cf1946de2f2186ad2"
+ },
+ {
+  "station": "06264",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_06264_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_06264_20040601_20251231_hist.zip",
+  "bytes": 1021018,
+  "sha256": "5699f6db0feb482797a9406aa4189ba3f0df7baec607f5f05e58c17e84e2b75c"
+ },
+ {
+  "station": "06264",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_06264_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_06264_akt.zip",
+  "bytes": 79912,
+  "sha256": "1c8e11116e1c4be72bdfdee3853ce1dec0b14a14002e359f8497a25d082ba849"
+ },
+ {
+  "station": "06264",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_06264_20040601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_06264_20040601_20251231_hist.zip",
+  "bytes": 1082969,
+  "sha256": "8f2b4e760b86667e6531a9399d1bd6ae168481fcd4801f3bf93410df8c72aedf"
+ },
+ {
+  "station": "06264",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_06264_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_06264_akt.zip",
+  "bytes": 81378,
+  "sha256": "fefbb61a8ead61f0e80fecbe6d6ad8d6455de9eeb5debce90847152569682596"
+ },
+ {
+  "station": "06337",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_06337_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_06337_20040801_20251231_hist.zip",
+  "bytes": 1023016,
+  "sha256": "a78cb16ce3715ae1ee8724f28162a6841245811bd36fc282b19606841b51f4bc"
+ },
+ {
+  "station": "06337",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_06337_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_06337_akt.zip",
+  "bytes": 80530,
+  "sha256": "fb2582228c83af622cc89c9570d81a5240b2d3395c22bb2a2b7cd9327b14be05"
+ },
+ {
+  "station": "06337",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_06337_20040801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_06337_20040801_20251231_hist.zip",
+  "bytes": 1084414,
+  "sha256": "fbb691eccccfd7a4646821baccb6746d419f7a95c635a48bb8e656e831bf8a24"
+ },
+ {
+  "station": "06337",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_06337_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_06337_akt.zip",
+  "bytes": 81841,
+  "sha256": "9d0bbf31874547b4b40fcdba95ce4f15488f1bf6f60d6982540b9847961be15d"
+ },
+ {
+  "station": "06344",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_06344_20041201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_06344_20041201_20251231_hist.zip",
+  "bytes": 1006355,
+  "sha256": "b592cb084e0650b513f9689880a7aa76e27c71814e8496b4724ca06497c377c0"
+ },
+ {
+  "station": "06344",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_06344_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_06344_akt.zip",
+  "bytes": 80619,
+  "sha256": "eb68457e1f87803f4baf953da70cef97407133ff1081dbedccdc2dd20e729027"
+ },
+ {
+  "station": "06344",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_06344_20041201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_06344_20041201_20251231_hist.zip",
+  "bytes": 1068826,
+  "sha256": "de9ad0946f6899ab4a3d1b6b9079ebfad2640cbb5542aa2d411ed0f64d231276"
+ },
+ {
+  "station": "06344",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_06344_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_06344_akt.zip",
+  "bytes": 81974,
+  "sha256": "0d233294bcd41ca84cf2031832ffc8f3ded681f7f36b2d38ed4fa4c79a50a75d"
+ },
+ {
+  "station": "06344",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_06344_20101001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_06344_20101001_20251231_hist.zip",
+  "bytes": 639683,
+  "sha256": "721f205fa151f71db50b1c828b5a65269ca8b781099257cf84736a4eb169735d"
+ },
+ {
+  "station": "06344",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_06344_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_06344_akt.zip",
+  "bytes": 72024,
+  "sha256": "0776be13832def915b6111de4cddfe35b96d24e72d9eefe45e8e037d44964e20"
+ },
+ {
+  "station": "07106",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_07106_20060901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_07106_20060901_20251231_hist.zip",
+  "bytes": 921496,
+  "sha256": "99147849c57d77a43023f436fc842b8fa5bb2fc10a450b5b54985449b6a7825e"
+ },
+ {
+  "station": "07106",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_07106_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_07106_akt.zip",
+  "bytes": 78532,
+  "sha256": "895ea312cd0a44bfc9bd24dc2b8ff47791bd9af4409728b4033efcb4a9c0d6eb"
+ },
+ {
+  "station": "07106",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_07106_20060901_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_07106_20060901_20251231_hist.zip",
+  "bytes": 979037,
+  "sha256": "27af5eca6872a72972391ded2e11d2a1279bfd22053be6999cea2c403315ebc0"
+ },
+ {
+  "station": "07106",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_07106_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_07106_akt.zip",
+  "bytes": 80168,
+  "sha256": "2a34f517c2c8b52cca21fcc9a6f92d4d1b62ea254fd89ad8f6348ff460867cc2"
+ },
+ {
+  "station": "07330",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_07330_20051001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_07330_20051001_20251231_hist.zip",
+  "bytes": 970352,
+  "sha256": "21896f4beebe9abbf8f54c6fd553293f6a70d7426ea26ec56e3dbb61b38a264f"
+ },
+ {
+  "station": "07330",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_07330_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_07330_akt.zip",
+  "bytes": 79016,
+  "sha256": "6fb7763d9ebac6b007f1d41205b1e31e65cb158f547aca87bfe1367a00096e78"
+ },
+ {
+  "station": "07330",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_07330_20051001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_07330_20051001_20251231_hist.zip",
+  "bytes": 1031779,
+  "sha256": "20920212917c0a5e6ff2ceebea2c6e8564dd62366bdf850c4718840ed34e41a4"
+ },
+ {
+  "station": "07330",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_07330_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_07330_akt.zip",
+  "bytes": 80810,
+  "sha256": "ca5cc05a586b454b12d10fbedb94851c9421cf3e1234ab6c4d449c4043978d59"
+ },
+ {
+  "station": "07341",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_07341_20050716_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_07341_20050716_20251231_hist.zip",
+  "bytes": 985940,
+  "sha256": "5919e543474d619a6c0ac83fce952ece0df494d6569ff14838ac14373e74303e"
+ },
+ {
+  "station": "07341",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_07341_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_07341_akt.zip",
+  "bytes": 81366,
+  "sha256": "cdad3cb280d97415c6d70bd23645277486f81b16abcc59fc57f581ee71ec36ff"
+ },
+ {
+  "station": "07341",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_07341_20050718_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_07341_20050718_20251231_hist.zip",
+  "bytes": 1039916,
+  "sha256": "7973027905e5e61859953f4b89d49ca9635df78819952bdeff2e615c4098d74b"
+ },
+ {
+  "station": "07341",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_07341_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_07341_akt.zip",
+  "bytes": 82359,
+  "sha256": "2083bc0e5ed182f25c13b0c44efef7e27c2154e234cdd633397dd5dbadb828d0"
+ },
+ {
+  "station": "07341",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_07341_20050801_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_07341_20050801_20251231_hist.zip",
+  "bytes": 851884,
+  "sha256": "a81301a1849bc8ba5d15953de5ccebc3fc57f324ed1b748983951b4d7a7eabdc"
+ },
+ {
+  "station": "07341",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_07341_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_07341_akt.zip",
+  "bytes": 70079,
+  "sha256": "fc0d32fde576ea4f3cc5305e0a76d61c152ae34dbed19bd253120cb01c5457a9"
+ },
+ {
+  "station": "07341",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_07341_20050718_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_07341_20050718_20251231_hist.zip",
+  "bytes": 1026432,
+  "sha256": "1a6768dab351780ff1a5a70396aaf9581940dffb0b3293382b761caeb2d3affe"
+ },
+ {
+  "station": "07341",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_07341_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_07341_akt.zip",
+  "bytes": 82173,
+  "sha256": "d5f0964caaf16c10c5f1ec555ab8d633a55548a25207c11bcfa391d0aa80a3ce"
+ },
+ {
+  "station": "07374",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_07374_20060301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_07374_20060301_20251231_hist.zip",
+  "bytes": 945402,
+  "sha256": "ab660a308d97f435e4c610d27281cf5f49aaafc6cc6a3680059b3143ef721882"
+ },
+ {
+  "station": "07374",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_07374_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_07374_akt.zip",
+  "bytes": 78410,
+  "sha256": "dfeeaf9d82ecbf2647a9044cca38d1a7784af777a2a2df1bef91ee60af06d633"
+ },
+ {
+  "station": "07374",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_07374_20060301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_07374_20060301_20251231_hist.zip",
+  "bytes": 1000040,
+  "sha256": "374b5625f106b1131465829f6e879de1d4d0c0ea0e9fd2ca78881ee55a99fe28"
+ },
+ {
+  "station": "07374",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_07374_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_07374_akt.zip",
+  "bytes": 79758,
+  "sha256": "307e1b40594695441c91939a94f63d5ec56464c206434a905dd2fa207cf28cf4"
+ },
+ {
+  "station": "07374",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_07374_20060301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_07374_20060301_20251231_hist.zip",
+  "bytes": 828308,
+  "sha256": "6a59415f7bd4f1da651eddd06eb6c700bf16087b47730dae1040736ed978e388"
+ },
+ {
+  "station": "07374",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_07374_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_07374_akt.zip",
+  "bytes": 68237,
+  "sha256": "8b0d0a2c11e5f2ac1e6a97a0c0609286529d8d3c41430c99318aa1133f87a433"
+ },
+ {
+  "station": "07374",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_07374_20060301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_07374_20060301_20251231_hist.zip",
+  "bytes": 976156,
+  "sha256": "91f1559ed8fb2041113dbb3fa73107e3addb2b7419aa1f0f97c109f7c64de9aa"
+ },
+ {
+  "station": "07374",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_07374_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_07374_akt.zip",
+  "bytes": 79950,
+  "sha256": "8501522a1729d9794c309abb1bdb8353aba8fe2c94562902aae3b640326300a3"
+ },
+ {
+  "station": "07396",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_07396_20080501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_07396_20080501_20251231_hist.zip",
+  "bytes": 800473,
+  "sha256": "b0bf2c8246160fde3a823525218c966a8901b30dafab693af5d5afdb0305cced"
+ },
+ {
+  "station": "07396",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_07396_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_07396_akt.zip",
+  "bytes": 78302,
+  "sha256": "69560a113b7e371784610ad04558e44c274e7303cb7be622f73b9c42f1e326b7"
+ },
+ {
+  "station": "07396",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_07396_20080501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_07396_20080501_20251231_hist.zip",
+  "bytes": 858986,
+  "sha256": "dcf7e5c20d0fd77c7d496474394c4ee49abeaecc7441c6d9e74d59ba1db07ae4"
+ },
+ {
+  "station": "07396",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_07396_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_07396_akt.zip",
+  "bytes": 80345,
+  "sha256": "35f31c9d877db6219419f2200273e82348c6db68d78c90c4dec6405c62d6dd76"
+ },
+ {
+  "station": "07396",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_07396_20080501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_07396_20080501_20251231_hist.zip",
+  "bytes": 740872,
+  "sha256": "7d76a7dfe5cec26f01cba548aa69f2dbd2927ca97bf64ffd8141112429994d99"
+ },
+ {
+  "station": "07396",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_07396_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_07396_akt.zip",
+  "bytes": 70835,
+  "sha256": "afe3ca9b51689c5c988f95facbcc4bfbc14fdfca30972cbc9dd6aa6e338eb6c1"
+ },
+ {
+  "station": "07396",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_07396_20080501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_07396_20080501_20251231_hist.zip",
+  "bytes": 926746,
+  "sha256": "ec17ccd6d3375193cf52006525b963aeb611bcc0487bb3c9979e3a1c9d868bf2"
+ },
+ {
+  "station": "07396",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_07396_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_07396_akt.zip",
+  "bytes": 85212,
+  "sha256": "a9698e2130a51d18cd0a4de4a0a6ef117a8dfc6c780f8c215df2807d849e2b7d"
+ },
+ {
+  "station": "07410",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_07410_20110201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_07410_20110201_20251231_hist.zip",
+  "bytes": 708323,
+  "sha256": "67afafb9955f3190cc15dc5df18f0ea7704c1829cee9290059aafcc23d83e0f4"
+ },
+ {
+  "station": "07410",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_07410_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_07410_akt.zip",
+  "bytes": 80378,
+  "sha256": "049c6ed7f844523f4951b877ba51a1729248a48bc0087facb54d11252d569b54"
+ },
+ {
+  "station": "07410",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_07410_20110201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_07410_20110201_20251231_hist.zip",
+  "bytes": 748649,
+  "sha256": "93ed8301fc5fbafa56f8344e0d92b8a58a6f2e76565ef087421c93c4dc78d348"
+ },
+ {
+  "station": "07410",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_07410_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_07410_akt.zip",
+  "bytes": 81476,
+  "sha256": "0cb1f5e8cc75f0a1eb374e66efddb4990dd845dd57e6c5e3b04147286d8a9ab7"
+ },
+ {
+  "station": "07410",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_07410_20110201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_07410_20110201_20251231_hist.zip",
+  "bytes": 631106,
+  "sha256": "b1f85b833792a2419724b362b6d4a83a05b687a630c6535947c662aef86a0261"
+ },
+ {
+  "station": "07410",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_07410_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_07410_akt.zip",
+  "bytes": 70880,
+  "sha256": "24b2a4f17f7742f7b5fbe3a5e6d46260ce4632706eaf2829d0da19fad2b61958"
+ },
+ {
+  "station": "07410",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_07410_20110201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_07410_20110201_20251231_hist.zip",
+  "bytes": 775215,
+  "sha256": "493fcb0d407c776b4a26bb41ca9a83bac640f635df11751a0a3eeabc05bad27a"
+ },
+ {
+  "station": "07410",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_07410_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_07410_akt.zip",
+  "bytes": 84506,
+  "sha256": "20c3fd4e1ac1a98514b72dfbab65fee1bd25f3f171f9949cc4fa464e42d620bd"
+ },
+ {
+  "station": "07412",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_07412_20061001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_07412_20061001_20251231_hist.zip",
+  "bytes": 914415,
+  "sha256": "70a3a99d68190bc30a268f64c9a9724935ca22f85927dcc347a67b5896df18ce"
+ },
+ {
+  "station": "07412",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_07412_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_07412_akt.zip",
+  "bytes": 80363,
+  "sha256": "a2dfc549ce651060746c4b61d33333f77a4ffb22fcde8e6636c035214ea5d7ae"
+ },
+ {
+  "station": "07412",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_07412_20061001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_07412_20061001_20251231_hist.zip",
+  "bytes": 970161,
+  "sha256": "352d39447475e8e6d35610abed7dc0eaf8e249c000de9e235ac60a52775086dd"
+ },
+ {
+  "station": "07412",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_07412_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_07412_akt.zip",
+  "bytes": 81727,
+  "sha256": "33b7595c23b54b81ec3f97da2ff8f5c7ae21744bc9b858416df4a59ff87bfd89"
+ },
+ {
+  "station": "07412",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_07412_20061001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_07412_20061001_20251231_hist.zip",
+  "bytes": 811305,
+  "sha256": "850eefd7533b2de8086ca8c1dd145f633205a843107bc638bc87f0183d877aae"
+ },
+ {
+  "station": "07412",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_07412_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_07412_akt.zip",
+  "bytes": 71022,
+  "sha256": "7c36eafdb4ef12dd5d8093178f27592c11de60a433715b8909c8796fa8817cc4"
+ },
+ {
+  "station": "07412",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_07412_20061001_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_07412_20061001_20251231_hist.zip",
+  "bytes": 998708,
+  "sha256": "3b9cb0f72eb67acbea866c8ed1de4f77424b303fa6b4d806572b404574bec179"
+ },
+ {
+  "station": "07412",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_07412_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_07412_akt.zip",
+  "bytes": 84597,
+  "sha256": "74ae138bebb476d9ff57b84f357c1f1cf7bcd29895f82fa377039b1bc3ce9142"
+ },
+ {
+  "station": "13670",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_13670_20070601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_13670_20070601_20251231_hist.zip",
+  "bytes": 889991,
+  "sha256": "3462f40b0aa4fd7a12dea0f6309d3a0ae0dd58caa6f502e04100d5af7543b1f4"
+ },
+ {
+  "station": "13670",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_13670_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_13670_akt.zip",
+  "bytes": 78794,
+  "sha256": "b3959524151ed58cf985488f041e8127997dbf256cebb39360771d546842b91e"
+ },
+ {
+  "station": "13670",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_13670_20070601_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_13670_20070601_20251231_hist.zip",
+  "bytes": 938457,
+  "sha256": "46d42c9067f293fc51654b3c23220737d22ef72a1c9b4b6c2aa7e3f9b4ca3dfe"
+ },
+ {
+  "station": "13670",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_13670_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_13670_akt.zip",
+  "bytes": 79936,
+  "sha256": "6884d3d10c4de6a94f6d246cf2e56826df4e31b5bac7a0c89dd58a21419c4ecb"
+ },
+ {
+  "station": "13675",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_13675_20071101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_13675_20071101_20251231_hist.zip",
+  "bytes": 861871,
+  "sha256": "52beb7c79da19035c5a5ab14b19fc6dbc67ebf9eae5081f32caa7ae05cf9d77d"
+ },
+ {
+  "station": "13675",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_13675_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_13675_akt.zip",
+  "bytes": 80206,
+  "sha256": "4e0084ed0769566c064efd41949d4928d74139ef2d101948c13d953694d8d202"
+ },
+ {
+  "station": "13675",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_13675_20071101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_13675_20071101_20251231_hist.zip",
+  "bytes": 910818,
+  "sha256": "c218b7e9af36a32b9f608562d2cddf742b149b20d2cb6342fc0145d7e8558d46"
+ },
+ {
+  "station": "13675",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_13675_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_13675_akt.zip",
+  "bytes": 81688,
+  "sha256": "ddf3a034ca22640bba995d7d6fc63783d6465415d5e581859ed5516e7f8a87a8"
+ },
+ {
+  "station": "13696",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_13696_20071201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_13696_20071201_20251231_hist.zip",
+  "bytes": 868942,
+  "sha256": "69d75e2e3c81727104f0d28e78ca8729ff69e057d450b4d236a1da846cd07744"
+ },
+ {
+  "station": "13696",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_13696_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_13696_akt.zip",
+  "bytes": 80645,
+  "sha256": "97b19fead9b398a00f8b06436cd7f90bbe4d0fa12dfed13fc4cddf52273175ca"
+ },
+ {
+  "station": "13696",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_13696_20071201_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_13696_20071201_20251231_hist.zip",
+  "bytes": 920884,
+  "sha256": "eb3d6469244d01f8a0fe309dd920e631b36fc4078bdcb3147fcf13546f91a0a3"
+ },
+ {
+  "station": "13696",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_13696_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_13696_akt.zip",
+  "bytes": 82136,
+  "sha256": "e843726412bf4e1fc6ec7205f11f4c44ef3e3b1ddab6ac521f0b276fea1c6411"
+ },
+ {
+  "station": "13700",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_13700_20080501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_13700_20080501_20251231_hist.zip",
+  "bytes": 845479,
+  "sha256": "ef7e913aa6c5c7bd99182a1ffa7483ac21c179b02df9dbbba9d72a94afb4ec67"
+ },
+ {
+  "station": "13700",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_13700_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_13700_akt.zip",
+  "bytes": 79061,
+  "sha256": "5af98203484b2be42736bab8b3ad06a1fd06753b82625dc3e45d367ec6afbdfe"
+ },
+ {
+  "station": "13700",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_13700_20080501_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_13700_20080501_20251231_hist.zip",
+  "bytes": 891707,
+  "sha256": "e489884a69ddaadcd0df2ff3850251512e721cbd502c09b9b54031d3e75183b9"
+ },
+ {
+  "station": "13700",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_13700_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_13700_akt.zip",
+  "bytes": 80005,
+  "sha256": "4848144902cbfd22473ac8e80bb555586cf0e76bbf43774712fdcec7cd3723c0"
+ },
+ {
+  "station": "13713",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_13713_20071101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_13713_20071101_20251231_hist.zip",
+  "bytes": 853500,
+  "sha256": "5480c8ece99be188f005ad038145b82db1df7eef8d03c3229737b7e292a233f7"
+ },
+ {
+  "station": "13713",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_13713_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_13713_akt.zip",
+  "bytes": 79871,
+  "sha256": "11e6daedfe40fb3a76a6d7b1542ba1e10a7bf78e00e275b630a1915cedf313e7"
+ },
+ {
+  "station": "13713",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_13713_20071101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_13713_20071101_20251231_hist.zip",
+  "bytes": 908011,
+  "sha256": "83bebdb02dc4d077a3f881353fe5944894f9a1d95f2b6fbd57ba2ffd0ab8d7f7"
+ },
+ {
+  "station": "13713",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_13713_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_13713_akt.zip",
+  "bytes": 81522,
+  "sha256": "8bba4b077532e1b639f93b3c14203dd320742b6b8e679c60500de5faa2a7d362"
+ },
+ {
+  "station": "15000",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_15000_20110401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_15000_20110401_20251231_hist.zip",
+  "bytes": 705469,
+  "sha256": "11dfa1edd883ecbc1ffc0b7dd6273aa6513cd612b265e9848261b14118b00c88"
+ },
+ {
+  "station": "15000",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_15000_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_15000_akt.zip",
+  "bytes": 80292,
+  "sha256": "09abcc22a28bff7a2053847cc94e3e111cea4f19479d8b168a8750d1d632fcd6"
+ },
+ {
+  "station": "15000",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_15000_20110401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_15000_20110401_20251231_hist.zip",
+  "bytes": 744229,
+  "sha256": "95488a414cfc1c897da60f3471adbdc4b22d002ba8fe829cd3b8acb24e36e562"
+ },
+ {
+  "station": "15000",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_15000_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_15000_akt.zip",
+  "bytes": 81462,
+  "sha256": "a608084aa4ee573ca2fa7a7155cdce1c93bd336f7ea2b76625b83f2e8974278c"
+ },
+ {
+  "station": "15000",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_15000_20110401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_15000_20110401_20251231_hist.zip",
+  "bytes": 626876,
+  "sha256": "55f99eec57ac6ac4b697c7557227b8ad68771ebe3456c503b6098529f100578b"
+ },
+ {
+  "station": "15000",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_15000_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_15000_akt.zip",
+  "bytes": 71287,
+  "sha256": "47749ccb231a7c7516f805f453dc444cc0acde9a34e4f024e5f69d59910752cd"
+ },
+ {
+  "station": "15000",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_15000_20110401_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_15000_20110401_20251231_hist.zip",
+  "bytes": 759831,
+  "sha256": "7c5462da95d94a28e66f3c498823f85d3af4773854251cdac8f4684778ebde2d"
+ },
+ {
+  "station": "15000",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_15000_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_15000_akt.zip",
+  "bytes": 83542,
+  "sha256": "844aedca571830cf9fbfccda0aa63ec427ab511be20a7fa2f561c60cb9f002c9"
+ },
+ {
+  "station": "15207",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_15207_20131101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_15207_20131101_20251231_hist.zip",
+  "bytes": 584702,
+  "sha256": "3a1c18c3849abbe5936202e7f1b671164def33f86f16b165da749e3fea184136"
+ },
+ {
+  "station": "15207",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_15207_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_15207_akt.zip",
+  "bytes": 79980,
+  "sha256": "3f4ef00fa5903236277e12adc547c5ac57f8e642269e77009c9fbba454b9ebe8"
+ },
+ {
+  "station": "15207",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_15207_20131101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_15207_20131101_20251231_hist.zip",
+  "bytes": 616269,
+  "sha256": "7b2014e989c4c12a89f576950f7ef6d50db39471a537464e336ad26726ec695f"
+ },
+ {
+  "station": "15207",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_15207_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_15207_akt.zip",
+  "bytes": 81118,
+  "sha256": "33d099f8905fe1fce504daafbfcce873adfe39d2fd9529515c1ce734bbe17a9e"
+ },
+ {
+  "station": "15207",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_15207_20131101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_15207_20131101_20251231_hist.zip",
+  "bytes": 515753,
+  "sha256": "a7c23506a7696e8db46dfac77b0d33f2299e20455f7248e32501233833880e2c"
+ },
+ {
+  "station": "15207",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_15207_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_15207_akt.zip",
+  "bytes": 69622,
+  "sha256": "272d1922a31d5e4fdf41addeea443c722545298a310627f16383577b5c1d4801"
+ },
+ {
+  "station": "15207",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_15207_20131101_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_15207_20131101_20251231_hist.zip",
+  "bytes": 634805,
+  "sha256": "a9fb3c8b9833f4637ae363ae2f3b183a4c78fc33fe47c35d1b120f589b4365f7"
+ },
+ {
+  "station": "15207",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_15207_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_15207_akt.zip",
+  "bytes": 83928,
+  "sha256": "925b0ba3562c68e9584200f1a9949af0b306a8f87511c5c71426c80597a525d9"
+ },
+ {
+  "station": "15813",
+  "product": "TU",
+  "kind": "historical",
+  "file": "stundenwerte_TU_15813_20220301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/stundenwerte_TU_15813_20220301_20251231_hist.zip",
+  "bytes": 190131,
+  "sha256": "420f1302a021908c5811c9d702d779521387b7074968e698b230de5ffef9f446"
+ },
+ {
+  "station": "15813",
+  "product": "TU",
+  "kind": "recent",
+  "file": "stundenwerte_TU_15813_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/recent/stundenwerte_TU_15813_akt.zip",
+  "bytes": 79689,
+  "sha256": "d61fa6b20b00550bd19cab81e54e8c95daa842d12a42040c3581916b29ec73c6"
+ },
+ {
+  "station": "15813",
+  "product": "TD",
+  "kind": "historical",
+  "file": "stundenwerte_TD_15813_20220301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/historical/stundenwerte_TD_15813_20220301_20251231_hist.zip",
+  "bytes": 198794,
+  "sha256": "d31581242ba9a810e1ddd7f15d763b6d74b8a25464eaa7457ada7d5cc580e48c"
+ },
+ {
+  "station": "15813",
+  "product": "TD",
+  "kind": "recent",
+  "file": "stundenwerte_TD_15813_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/dew_point/recent/stundenwerte_TD_15813_akt.zip",
+  "bytes": 80955,
+  "sha256": "d94380d333cb6f3a5ed1ebe145f66f2c4a501f6b411399d49631184c15c79220"
+ },
+ {
+  "station": "15813",
+  "product": "FF",
+  "kind": "historical",
+  "file": "stundenwerte_FF_15813_20220301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/historical/stundenwerte_FF_15813_20220301_20251231_hist.zip",
+  "bytes": 166383,
+  "sha256": "a705e85df3e5c60f8afedf65a3377f799ee719867a16abed3bc37474831105de"
+ },
+ {
+  "station": "15813",
+  "product": "FF",
+  "kind": "recent",
+  "file": "stundenwerte_FF_15813_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/wind/recent/stundenwerte_FF_15813_akt.zip",
+  "bytes": 69767,
+  "sha256": "279b6761fcc8903a7890c0176ad30b0a185f077734b16335795e2365564d1abc"
+ },
+ {
+  "station": "15813",
+  "product": "P0",
+  "kind": "historical",
+  "file": "stundenwerte_P0_15813_20220301_20251231_hist.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/historical/stundenwerte_P0_15813_20220301_20251231_hist.zip",
+  "bytes": 194487,
+  "sha256": "2484811d5aaabfa57abb4e5a949491492303fe0efeef4e8de6c3b1d95ae9f5dc"
+ },
+ {
+  "station": "15813",
+  "product": "P0",
+  "kind": "recent",
+  "file": "stundenwerte_P0_15813_akt.zip",
+  "url": "https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/pressure/recent/stundenwerte_P0_15813_akt.zip",
+  "bytes": 79867,
+  "sha256": "0f1a88492b7556a96d559dbe513465b2aa657b2a96a2ca07d3a724ebbf278f70"
+ }
+]
